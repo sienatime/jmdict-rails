@@ -9,6 +9,14 @@ class Entry < ApplicationRecord
     Entry.where(primary_reading: reading)
   end
 
+  def self.where_k(kanji)
+    Entry.where(primary_kanji: kanji)
+  end
+
+  def lvl(level)
+    self.update!(jlpt_level: level)
+  end
+
   def self.match(data, attr)
     /^#{data}$|^#{data};|;#{data}$|;#{data};/.match(attr)
   end
