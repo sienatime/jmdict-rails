@@ -1,0 +1,2010 @@
+siena jmdict $ bx rails runner /Users/siena/workspace/nanodegree/capstone/jmdict_to_sqlite/jmdict/app/models/jlpt_adder.rb
+2018-09-10 22:18:11 -0700: File: /Users/siena/workspace/nanodegree/capstone/jmdict_to_sqlite/jmdict/app/models/jlpt_adder.rb
+assigning:  あっ to  あっ ALT? false
+assigning: 愛 あい to 愛 あい ALT? false
+assigning: 挨拶 あいさつ to 挨拶 あいさつ ALT? false
+assigning: 愛情 あいじょう to 愛情 あいじょう ALT? false
+assigning: 合図 あいず to 合図 あいず ALT? false
+assigning:  アイスクリーム to  アイスクリーム ALT? false
+assigning: 愛する あいする to 愛する あいする ALT? false
+assigning: 相手 あいて to 相手 あいて ALT? false
+assigning: 生憎 あいにく to  あいにく ALT? false
+assigning:  アイロン to  アイロン ALT? false
+assigning:  アウト to  アウト ALT? false
+assigning: 明かり あかり to 明かり あかり ALT? false
+assigning: 空き あき to 空き あき ALT? false
+assigning: 明らか あきらか to 明らか あきらか ALT? false
+assigning: 諦める あきらめる to 諦める あきらめる ALT? false
+assigning: 飽きる あきる to 飽きる あきる ALT? false
+assigning: 握手 あくしゅ to 握手 あくしゅ ALT? false
+assigning: 悪魔 あくま to 悪魔 あくま ALT? false
+assigning: 開ける あける to 明ける あける ALT? true
+assigning: 明日 あした to  あした ALT? false
+assigning: 預ける あずける to 預ける あずける ALT? false
+assigning: 汗 あせ to 汗 あせ ALT? false
+assigning: 与える あたえる to 与える あたえる ALT? false
+assigning: 暖かい あたたかい to 暖かい あたたかい ALT? false
+assigning: 辺り あたり to 辺り あたり ALT? false
+assigning: 当たる あたる to 当たる あたる ALT? false
+assigning: 彼方此方 あちこち to  あちこち ALT? false
+assigning: 扱う あつかう to 扱う あつかう ALT? false
+assigning: 集まり あつまり to 集まり あつまり ALT? false
+assigning: 当てる あてる to 当てる あてる ALT? false
+assigning: 跡 あと to 跡 あと ALT? false
+0 後 あと
+1 跡 あと
+Which is it?  あと1
+assigning: 穴 あな to 穴 あな ALT? false
+assigning: 浴びる あびる to 浴びる あびる ALT? false
+assigning: 油 あぶら to 油 あぶら ALT? false
+assigning: 余り あまり to 余り あまり ALT? false
+assigning: 誤り あやまり to 誤り あやまり ALT? false
+assigning: 粗 あら to 粗 あら ALT? false
+assigning: 嵐 あらし to 嵐 あらし ALT? false
+assigning: 新た あらた to 新た あらた ALT? false
+assigning: 有らゆる あらゆる to  あらゆる ALT? false
+assigning: 表す あらわす to 表す あらわす ALT? false
+assigning: 現れ あらわれ to 現れ あらわれ ALT? false
+assigning: 現れる あらわれる to 現れる あらわれる ALT? false
+assigning: 有り難う ありがとう to  ありがとう ALT? false
+assigning: 有る ある to 有る ある ALT? false
+assigning: 或 ある to 或 ある ALT? false
+assigning: 或いは あるいは to  あるいは ALT? false
+assigning:  アルバム to  アルバム ALT? false
+assigning: 泡 あわ to 泡 あわ ALT? false
+assigning: 合わせる あわせる to 合わせる あわせる ALT? false
+assigning: 哀れ あわれ to 哀れ あわれ ALT? false
+assigning: 案 あん to 案 あん ALT? false
+assigning: 暗記 あんき to 暗記 あんき ALT? false
+assigning: 安定 あんてい to 安定 あんてい ALT? false
+assigning: 案内 あんない to 案内 あんない ALT? false
+assigning:  あんなに to  あんなに ALT? false
+assigning: 胃 い to 胃 い ALT? false
+0 怡怡 いい
+1 謂 いい
+2 飯 いい
+3 易々 いい
+4 唯々 いい
+5  いい
+Which is it?  いいnext
+assigning: 怡怡 いい to  いい ALT? false
+0 宵 よい
+1 余意 よい
+2 良い よい
+3 酔い よい
+Which is it?  よいnext
+assigning: 宵 よい to  よい ALT? false
+assigning: 家 いえ to いえ いえ ALT? false
+assigning: 委員 いいん to 委員 いいん ALT? false
+NOT FOUND 言う ゆう
+assigning: 意外 いがい to 意外 いがい ALT? false
+assigning: 行き いき to 行き いき ALT? false
+NOT FOUND 行き ゆき
+assigning: 息 いき to 息 いき ALT? false
+assigning: 勢い いきおい to 勢い いきおい ALT? false
+assigning: 生き物 いきもの to 生き物 いきもの ALT? false
+assigning: 幾つ いくつ to 幾つ いくつ ALT? false
+assigning: 幾ら いくら to 幾ら いくら ALT? false
+assigning: 行けない いけない to  いけない ALT? false
+assigning: 医師 いし to 医師 いし ALT? false
+assigning: 意思 いし to 意思 いし ALT? false
+assigning: 意志 いし to 意志 いし ALT? false
+assigning: 維持 いじ to 維持 いじ ALT? false
+assigning: 意識 いしき to 意識 いしき ALT? false
+assigning: 異常 いじょう to 異常 いじょう ALT? false
+assigning: 椅子 いす to 椅子 いす ALT? false
+assigning: 泉 いずみ to 泉 いずみ ALT? false
+assigning: 何れ いずれ to  いずれ ALT? false
+assigning: 以前 いぜん to 以前 いぜん ALT? false
+assigning: 板 いた to 板 いた ALT? false
+assigning: 偉大 いだい to 偉大 いだい ALT? false
+assigning: 抱く いだく to 抱く いだく ALT? false
+0 悪戯 いたずら
+1 徒 いたずら
+Which is it?  いたずら0
+assigning: 悪戯 いたずら to  いたずら ALT? false
+assigning: 頂きます いただきます to  いただきます ALT? false
+assigning: 頂く いただく to 頂く いただく ALT? false
+assigning: 痛み いたみ to 痛み いたみ ALT? false
+assigning: 至る いたる to 至る いたる ALT? false
+0 一 いち
+1 市 いち
+2 位置 いち
+3 逸 いち
+Which is it?  いち1
+assigning: 市 いち to  いち ALT? false
+assigning: 位置 いち to 位置 いち ALT? false
+assigning: 一時 いちじ to 一時 いちじ ALT? false
+assigning: 一度に いちどに to 一度に いちどに ALT? false
+assigning: 市場 いちば to 市場 いちば ALT? false
+assigning: 一番 いちばん to 一番 いちばん ALT? false
+0 何時か いつか
+1 五日 いつか
+Which is it?  いつか0
+assigning: 何時か いつか to  いつか ALT? false
+assigning: 一家 いっか to 一家 いっか ALT? false
+assigning: 一種 いっしゅ to 一種 いっしゅ ALT? false
+assigning: 一瞬 いっしゅん to 一瞬 いっしゅん ALT? false
+assigning: 一生 いっしょう to 一生 いっしょう ALT? false
+assigning: 一層 いっそう to 一層 いっそう ALT? false
+assigning: 一体 いったい to 一体 いったい ALT? false
+assigning: 一致 いっち to 一致 いっち ALT? false
+assigning: 何時でも いつでも to  いつでも ALT? false
+assigning: 一般 いっぱん to 一般 いっぱん ALT? false
+assigning: 一方 いっぽう to 一方 いっぽう ALT? false
+assigning: 何時までも いつまでも to  いつまでも ALT? false
+assigning: 何時も いつも to いつも いつも ALT? false
+assigning: 移動 いどう to 移動 いどう ALT? false
+assigning: 従兄弟 いとこ to 従兄弟 いとこ ALT? false
+assigning: 稲 いね to 稲 いね ALT? false
+assigning: 居眠り いねむり to 居眠り いねむり ALT? false
+assigning: 命 いのち to 命 いのち ALT? false
+assigning: 違反 いはん to 違反 いはん ALT? false
+assigning: 衣服 いふく to 衣服 いふく ALT? false
+assigning: 居間 いま to 居間 いま ALT? false
+assigning: 今に いまに to 今に いまに ALT? false
+assigning: 今にも いまにも to 今にも いまにも ALT? false
+NOT FOUND 否 いや
+assigning: 以来 いらい to 以来 いらい ALT? false
+assigning: 依頼 いらい to 依頼 いらい ALT? false
+assigning: 苛々 いらいら to  いらいら ALT? false
+assigning:  いらっしゃい to  いらっしゃい ALT? false
+assigning: 医療 いりょう to 医療 いりょう ALT? false
+assigning: 岩 いわ to 岩 いわ ALT? false
+assigning: 祝い いわい to 祝い いわい ALT? false
+assigning: 祝う いわう to 祝う いわう ALT? false
+assigning: 言わば いわば to 言わば いわば ALT? false
+assigning: 所謂 いわゆる to  いわゆる ALT? false
+assigning:  インク to  インク ALT? false
+assigning: 印刷 いんさつ to 印刷 いんさつ ALT? false
+assigning: 印象 いんしょう to 印象 いんしょう ALT? false
+assigning: 引退 いんたい to 引退 いんたい ALT? false
+assigning: 引用 いんよう to 引用 いんよう ALT? false
+assigning:  ウイスキー to  ウイスキー ALT? false
+assigning: 上 うわ to 上 うわ ALT? false
+NOT FOUND 魚 うお
+assigning: 嗽 うがい to  うがい ALT? false
+assigning: 伺う うかがう to 伺う うかがう ALT? false
+assigning: 受け取る うけとる to 受け取る うけとる ALT? false
+assigning: 動かす うごかす to 動かす うごかす ALT? false
+assigning: 兎 うさぎ to 兎 うさぎ ALT? false
+assigning: 牛 うし to 牛 うし ALT? false
+assigning: 失う うしなう to 失う うしなう ALT? false
+0 後ろ うしろ
+1 尻 しり
+Which is it? 後 うしろ0
+assigning: 後ろ うしろ to 後 うしろ ALT? true
+assigning: 嘘 うそ to 嘘 うそ ALT? false
+assigning: 疑う うたがう to 疑う うたがう ALT? false
+assigning: 内 うち to 内 うち ALT? false
+assigning: 宇宙 うちゅう to 宇宙 うちゅう ALT? false
+assigning: 撃つ うつ to 撃つ うつ ALT? false
+assigning: 移す うつす to 移す うつす ALT? false
+assigning: 訴える うったえる to 訴える うったえる ALT? false
+assigning: 唸る うなる to  うなる ALT? false
+assigning: 奪う うばう to 奪う うばう ALT? false
+assigning: 馬 うま to 馬 うま ALT? false
+assigning: 上手い うまい to うまい うまい ALT? false
+assigning: 生まれ うまれ to 生まれ うまれ ALT? false
+assigning: 梅 うめ to 梅 うめ ALT? false
+assigning: 裏切る うらぎる to 裏切る うらぎる ALT? false
+assigning: 煩い うるさい to  うるさい ALT? false
+assigning: 嬉しい うれしい to 嬉しい うれしい ALT? false
+assigning: 売れる うれる to 売れる うれる ALT? false
+assigning: 噂 うわさ to 噂 うわさ ALT? false
+0  うん
+1 運 うん
+Which is it?  うん0
+assigning:  うん to  うん ALT? false
+assigning: 運 うん to 運 うん ALT? false
+assigning: 運転 うんてん to 運転 うんてん ALT? false
+assigning: 運動 うんどう to 運動 うんどう ALT? false
+assigning: 柄 え to 柄 え ALT? false
+assigning: 永遠 えいえん to 永遠 えいえん ALT? false
+assigning: 永久 えいきゅう to 永久 えいきゅう ALT? false
+assigning: 影響 えいきょう to 影響 えいきょう ALT? false
+assigning: 営業 えいぎょう to 営業 えいぎょう ALT? false
+assigning: 衛星 えいせい to 衛星 えいせい ALT? false
+assigning: 栄養 えいよう to 栄養 えいよう ALT? false
+assigning: 笑顔 えがお to 笑顔 えがお ALT? false
+assigning: 描く えがく to 描く えがく ALT? false
+assigning: 餌 えさ to 餌 えさ ALT? false
+assigning:  エネルギー to  エネルギー ALT? false
+assigning: 得る える to 得る える ALT? false
+assigning: 得る うる to 得る うる ALT? false
+assigning: 円 えん to 円 えん ALT? false
+assigning: 延期 えんき to 延期 えんき ALT? false
+assigning: 演技 えんぎ to 演技 えんぎ ALT? false
+assigning: 援助 えんじょ to 援助 えんじょ ALT? false
+assigning:  エンジン to  エンジン ALT? false
+assigning: 演説 えんぜつ to 演説 えんぜつ ALT? false
+assigning: 演奏 えんそう to 演奏 えんそう ALT? false
+assigning: 遠慮 えんりょ to 遠慮 えんりょ ALT? false
+assigning: 御 お to 御 お ALT? false
+assigning: 老い おい to 老い おい ALT? false
+assigning: 追いつく おいつく to 追い付く おいつく ALT? true
+assigning: 王 おう to 王 おう ALT? false
+assigning: 追う おう to 追う おう ALT? false
+assigning: 王様 おうさま to 王様 おうさま ALT? false
+assigning: 王子 おうじ to 王子 おうじ ALT? false
+assigning: 応じる おうじる to 応じる おうじる ALT? false
+assigning: 横断 おうだん to 横断 おうだん ALT? false
+assigning: 終える おえる to 終える おえる ALT? false
+assigning: 大いに おおいに to 大いに おおいに ALT? false
+assigning: 覆う おおう to 覆う おおう ALT? false
+assigning:  オーバー to  オーバー ALT? false
+assigning: 大屋 おおや to 大家 おおや ALT? true
+assigning: 丘 おか to 丘 おか ALT? false
+assigning: 沖 おき to 沖 おき ALT? false
+assigning: 奥 おく to 奥 おく ALT? false
+assigning: 贈る おくる to 贈る おくる ALT? false
+assigning: 起こる おこる to 起こる おこる ALT? false
+assigning: 幼い おさない to 幼い おさない ALT? false
+assigning: 収める おさめる to 収める おさめる ALT? false
+assigning: お祖父さん おじいさん to  おじいさん ALT? false
+assigning: お喋り おしゃべり to  おしゃべり ALT? false
+assigning: 汚染 おせん to 汚染 おせん ALT? false
+assigning: 恐らく おそらく to  おそらく ALT? false
+assigning: 恐れる おそれる to 恐れる おそれる ALT? false
+assigning: 恐ろしい おそろしい to 恐ろしい おそろしい ALT? false
+assigning: お互い おたがい to お互い おたがい ALT? false
+assigning: 穏やか おだやか to 穏やか おだやか ALT? false
+assigning: 男の人 おとこのひと to 男の人 おとこのひと ALT? false
+assigning: 劣る おとる to 劣る おとる ALT? false
+assigning: お腹 おなか to お腹 おなか ALT? false
+assigning: 鬼 おに to 鬼 おに ALT? false
+assigning: 帯 おび to 帯 おび ALT? false
+assigning: お昼 おひる to お昼 おひる ALT? false
+assigning:  オフィス to  オフィス ALT? false
+assigning: 溺れる おぼれる to 溺れる おぼれる ALT? false
+assigning: お前 おまえ to  おまえ ALT? false
+0 お目出度う おめでとう
+1 御目出糖 おめでとう
+Which is it?  おめでとう0
+assigning: お目出度う おめでとう to  おめでとう ALT? false
+assigning: お目にかかる おめにかかる to お目に掛かる おめにかかる ALT? true
+assigning: 思い出 おもいで to 思い出 おもいで ALT? false
+assigning: 主に おもに to 主に おもに ALT? false
+assigning: 思わず おもわず to 思わず おもわず ALT? false
+0  おや
+1 親 おや
+Which is it?  おや1
+assigning: 親 おや to  おや ALT? false
+assigning: 泳ぎ およぎ to 泳ぎ およぎ ALT? false
+assigning: 凡そ およそ to  およそ ALT? false
+assigning: 及ぼす およぼす to 及ぼす およぼす ALT? false
+assigning: 居る おる to 居る おる ALT? false
+assigning: 下ろす おろす to 下す おろす ALT? true
+assigning: 終わり おわり to 終 おわり ALT? true
+NOT FOUND 音 おん
+assigning: 恩 おん to 恩 おん ALT? false
+assigning: 温暖 おんだん to 温暖 おんだん ALT? false
+assigning: 温度 おんど to 温度 おんど ALT? false
+assigning: 可 か to 可 か ALT? false
+assigning: 課 か to 課 か ALT? false
+assigning:  カー to  カー ALT? false
+assigning:  カード to  カード ALT? false
+assigning: 会 かい to 会 かい ALT? false
+assigning: 回 かい to 回 かい ALT? false
+assigning: 害 がい to 害 がい ALT? false
+assigning: 会員 かいいん to 会員 かいいん ALT? false
+assigning: 絵画 かいが to 絵画 かいが ALT? false
+assigning: 海外 かいがい to 海外 かいがい ALT? false
+assigning: 会計 かいけい to 会計 かいけい ALT? false
+assigning: 解決 かいけつ to 解決 かいけつ ALT? false
+assigning: 会合 かいごう to 会合 かいごう ALT? false
+assigning: 外交 がいこう to 外交 がいこう ALT? false
+assigning: 開始 かいし to 開始 かいし ALT? false
+assigning: 解釈 かいしゃく to 解釈 かいしゃく ALT? false
+assigning: 外出 がいしゅつ to 外出 がいしゅつ ALT? false
+assigning: 改善 かいぜん to 改善 かいぜん ALT? false
+assigning: 快適 かいてき to 快適 かいてき ALT? false
+assigning: 回復 かいふく to 回復 かいふく ALT? false
+assigning: 飼う かう to 飼う かう ALT? false
+assigning: 換える かえる to 替える かえる ALT? true
+assigning: 香り かおり to 香り かおり ALT? false
+assigning: 画家 がか to 画家 がか ALT? false
+assigning: 抱える かかえる to 抱える かかえる ALT? false
+assigning: 価格 かかく to 価格 かかく ALT? false
+assigning: 化学 かがく to 化学 かがく ALT? false
+assigning: 輝く かがやく to 輝く かがやく ALT? false
+assigning: 係 かかり to 係 かかり ALT? false
+assigning: 掛かる かかる to 掛かる かかる ALT? false
+assigning: 罹る かかる to 罹る かかる ALT? false
+assigning: 鍵 かぎ to 鍵 かぎ ALT? false
+assigning: 限る かぎる to 限る かぎる ALT? false
+NOT FOUND 描く かく
+assigning: 家具 かぐ to 家具 かぐ ALT? false
+assigning: 学 がく to 学 がく ALT? false
+assigning: 額 がく to 額 がく ALT? false
+assigning: 覚悟 かくご to 覚悟 かくご ALT? false
+assigning: 確実 かくじつ to 確実 かくじつ ALT? false
+assigning: 学者 がくしゃ to 学者 がくしゃ ALT? false
+assigning: 学習 がくしゅう to 学習 がくしゅう ALT? false
+assigning: 隠す かくす to 隠す かくす ALT? false
+assigning: 拡大 かくだい to 拡大 かくだい ALT? false
+assigning: 確認 かくにん to 確認 かくにん ALT? false
+assigning: 学問 がくもん to 学問 がくもん ALT? false
+assigning: 隠れる かくれる to 隠れる かくれる ALT? false
+assigning: 影 かげ to 影 かげ ALT? false
+assigning: 陰 かげ to 陰 かげ ALT? false
+assigning: 欠ける かける to 欠ける かける ALT? false
+assigning: 加減 かげん to 加減 かげん ALT? false
+assigning: 過去 かこ to 過去 かこ ALT? false
+assigning: 籠 かご to 籠 かご ALT? false
+assigning: 囲む かこむ to 囲む かこむ ALT? false
+assigning: 火災 かさい to 火災 かさい ALT? false
+assigning: 貸し かし to 貸し かし ALT? false
+assigning: 菓子 かし to 菓子 かし ALT? false
+assigning: 家事 かじ to 家事 かじ ALT? false
+assigning: 賢い かしこい to 賢い かしこい ALT? false
+assigning: 歌手 かしゅ to 歌手 かしゅ ALT? false
+assigning: 数 かず to 数 かず ALT? false
+assigning: 稼ぐ かせぐ to 稼ぐ かせぐ ALT? false
+assigning: 数える かぞえる to 数える かぞえる ALT? false
+assigning: 型 かた to 型 かた ALT? false
+assigning: 肩 かた to 肩 かた ALT? false
+assigning: 硬い かたい to 硬い かたい ALT? false
+assigning: 方々 かたがた to 方々 かたがた ALT? false
+assigning: 刀 かたな to 刀 かたな ALT? false
+assigning: 語る かたる to 語る かたる ALT? false
+assigning: 勝ち かち to 勝ち かち ALT? false
+assigning: 価値 かち to 価値 かち ALT? false
+assigning:  がっかり to  がっかり ALT? false
+assigning: 活気 かっき to 活気 かっき ALT? false
+assigning: 学期 がっき to 学期 がっき ALT? false
+assigning: 格好 かっこう to 格好 かっこう ALT? false
+assigning: 活動 かつどう to 活動 かつどう ALT? false
+assigning: 活用 かつよう to 活用 かつよう ALT? false
+assigning: 悲しむ かなしむ to 悲しむ かなしむ ALT? false
+assigning: 必ずしも かならずしも to 必ずしも かならずしも ALT? false
+assigning: 可也 かなり to  かなり ALT? false
+assigning: 金 かね to 金 かね ALT? false
+assigning: 金持ち かねもち to 金持ち かねもち ALT? false
+assigning: 可能 かのう to 可能 かのう ALT? false
+assigning: 株 かぶ to 株 かぶ ALT? false
+assigning: 被る かぶる to 被る かぶる ALT? false
+assigning: 構う かまう to 構う かまう ALT? false
+assigning: 我慢 がまん to 我慢 がまん ALT? false
+assigning: 上 かみ to 上 かみ ALT? false
+assigning: 神 かみ to 神 かみ ALT? false
+assigning: 雷 かみなり to 雷 かみなり ALT? false
+assigning: 髪の毛 かみのけ to 髪の毛 かみのけ ALT? false
+assigning: 科目 かもく to 科目 かもく ALT? false
+assigning: かも知れない かもしれない to  かもしれない ALT? false
+assigning: 火曜 かよう to 火曜 かよう ALT? false
+assigning: 空 から to 空 から ALT? false
+assigning: 柄 がら to 柄 がら ALT? false
+assigning: 刈る かる to 刈る かる ALT? false
+assigning: 彼ら かれら to 彼等 かれら ALT? true
+assigning: 川 かわ to 川 かわ ALT? false
+assigning: 皮 かわ to 皮 かわ ALT? false
+assigning: 革 かわ to 革 かわ ALT? false
+assigning: 可哀想 かわいそう to  かわいそう ALT? false
+assigning: 可愛らしい かわいらしい to  かわいらしい ALT? false
+assigning: 缶 かん to 缶 かん ALT? false
+assigning: 勘 かん to 勘 かん ALT? false
+assigning: 考え かんがえ to 考え かんがえ ALT? false
+assigning: 感覚 かんかく to 感覚 かんかく ALT? false
+assigning: 観客 かんきゃく to 観客 かんきゃく ALT? false
+assigning: 環境 かんきょう to 環境 かんきょう ALT? false
+assigning: 歓迎 かんげい to 歓迎 かんげい ALT? false
+assigning: 観光 かんこう to 観光 かんこう ALT? false
+assigning: 観察 かんさつ to 観察 かんさつ ALT? false
+assigning: 感じ かんじ to 感じ かんじ ALT? false
+assigning: 感謝 かんしゃ to 感謝 かんしゃ ALT? false
+assigning: 患者 かんじゃ to 患者 かんじゃ ALT? false
+assigning: 勘定 かんじょう to 勘定 かんじょう ALT? false
+assigning: 感情 かんじょう to 感情 かんじょう ALT? false
+assigning: 感じる かんじる to 感じる かんじる ALT? false
+assigning: 感心 かんしん to 感心 かんしん ALT? false
+assigning: 関心 かんしん to 関心 かんしん ALT? false
+assigning: 関する かんする to 関する かんする ALT? false
+assigning: 完成 かんせい to 完成 かんせい ALT? false
+assigning: 完全 かんぜん to 完全 かんぜん ALT? false
+assigning: 感動 かんどう to 感動 かんどう ALT? false
+assigning: 監督 かんとく to 監督 かんとく ALT? false
+assigning: 管理 かんり to 管理 かんり ALT? false
+assigning: 完了 かんりょう to 完了 かんりょう ALT? false
+assigning: 関連 かんれん to 関連 かんれん ALT? false
+assigning: 議員 ぎいん to 議員 ぎいん ALT? false
+assigning: 記憶 きおく to 記憶 きおく ALT? false
+assigning: 気温 きおん to 気温 きおん ALT? false
+assigning: 機械 きかい to 機械 きかい ALT? false
+assigning: 議会 ぎかい to 議会 ぎかい ALT? false
+assigning: 期間 きかん to 期間 きかん ALT? false
+assigning: 機関 きかん to 機関 きかん ALT? false
+assigning: 企業 きぎょう to 企業 きぎょう ALT? false
+assigning: 効く きく to 効く きく ALT? false
+assigning: 機嫌 きげん to 機嫌 きげん ALT? false
+assigning: 気候 きこう to 気候 きこう ALT? false
+assigning: 岸 きし to 岸 きし ALT? false
+assigning: 生地 きじ to 生地 きじ ALT? false
+assigning: 記事 きじ to 記事 きじ ALT? false
+assigning: 技師 ぎし to 技師 ぎし ALT? false
+assigning: 記者 きしゃ to 記者 きしゃ ALT? false
+assigning: 傷 きず to 傷 きず ALT? false
+assigning: 期待 きたい to 期待 きたい ALT? false
+assigning: 帰宅 きたく to 帰宅 きたく ALT? false
+assigning: 貴重 きちょう to 貴重 きちょう ALT? false
+assigning: 議長 ぎちょう to 議長 ぎちょう ALT? false
+assigning:  きちんと to  きちんと ALT? false
+assigning:  きつい to  きつい ALT? false
+assigning: 気づく きづく to 気付く きづく ALT? true
+assigning: 気に入る きにいる to 気に入る きにいる ALT? false
+assigning: 記入 きにゅう to 記入 きにゅう ALT? false
+assigning: 記念 きねん to 記念 きねん ALT? false
+assigning: 機能 きのう to 機能 きのう ALT? false
+assigning: 気の毒 きのどく to 気の毒 きのどく ALT? false
+assigning: 寄付 きふ to 寄付 きふ ALT? false
+assigning: 希望 きぼう to 希望 きぼう ALT? false
+assigning: 基本 きほん to 基本 きほん ALT? false
+assigning: 決まり きまり to 決まり きまり ALT? false
+assigning: 気味 きみ to 気味 きみ ALT? false
+assigning: 奇妙 きみょう to 奇妙 きみょう ALT? false
+assigning: 義務 ぎむ to 義務 ぎむ ALT? false
+assigning: 疑問 ぎもん to 疑問 ぎもん ALT? false
+assigning: 逆 ぎゃく to 逆 ぎゃく ALT? false
+assigning:  キャプテン to  キャプテン ALT? false
+assigning:  キャンプ to  キャンプ ALT? false
+assigning: 九 きゅう to 九 きゅう ALT? false
+assigning: 旧 きゅう to 旧 きゅう ALT? false
+assigning: 級 きゅう to 級 きゅう ALT? false
+assigning: 球 きゅう to 球 きゅう ALT? false
+assigning: 休暇 きゅうか to 休暇 きゅうか ALT? false
+assigning: 休憩 きゅうけい to 休憩 きゅうけい ALT? false
+assigning: 急激 きゅうげき to 急激 きゅうげき ALT? false
+assigning: 吸収 きゅうしゅう to 吸収 きゅうしゅう ALT? false
+assigning: 救助 きゅうじょ to 救助 きゅうじょ ALT? false
+assigning: 急速 きゅうそく to 急速 きゅうそく ALT? false
+assigning: 急に きゅうに to 急に きゅうに ALT? false
+assigning: 給料 きゅうりょう to 給料 きゅうりょう ALT? false
+assigning: 器用 きよう to 器用 きよう ALT? false
+assigning: 教科書 きょうかしょ to 教科書 きょうかしょ ALT? false
+assigning: 競技 きょうぎ to 競技 きょうぎ ALT? false
+assigning: 行儀 ぎょうぎ to 行儀 ぎょうぎ ALT? false
+assigning: 供給 きょうきゅう to 供給 きょうきゅう ALT? false
+assigning: 教師 きょうし to 教師 きょうし ALT? false
+assigning: 教授 きょうじゅ to 教授 きょうじゅ ALT? false
+assigning: 強調 きょうちょう to 強調 きょうちょう ALT? false
+assigning: 共通 きょうつう to 共通 きょうつう ALT? false
+assigning: 共同 きょうどう to 共同 きょうどう ALT? false
+assigning: 恐怖 きょうふ to 恐怖 きょうふ ALT? false
+assigning: 協力 きょうりょく to 協力 きょうりょく ALT? false
+assigning: 強力 きょうりょく to 強力 きょうりょく ALT? false
+assigning: 許可 きょか to 許可 きょか ALT? false
+assigning: 局 きょく to 局 きょく ALT? false
+assigning: 巨大 きょだい to 巨大 きょだい ALT? false
+assigning: 嫌う きらう to 嫌う きらう ALT? false
+assigning: 霧 きり to 霧 きり ALT? false
+assigning: 切れ きれ to 切れ きれ ALT? false
+assigning: 切れる きれる to 切れる きれる ALT? false
+assigning:  キロ to  キロ ALT? false
+assigning: 記録 きろく to 記録 きろく ALT? false
+assigning: 議論 ぎろん to 議論 ぎろん ALT? false
+assigning: 金 きん to 金 きん ALT? false
+assigning: 銀 ぎん to 銀 ぎん ALT? false
+assigning: 禁煙 きんえん to 禁煙 きんえん ALT? false
+assigning: 金額 きんがく to 金額 きんがく ALT? false
+assigning: 金庫 きんこ to 金庫 きんこ ALT? false
+assigning: 禁止 きんし to 禁止 きんし ALT? false
+assigning: 金銭 きんせん to 金銭 きんせん ALT? false
+assigning: 金属 きんぞく to 金属 きんぞく ALT? false
+assigning: 近代 きんだい to 近代 きんだい ALT? false
+assigning: 緊張 きんちょう to 緊張 きんちょう ALT? false
+assigning: 筋肉 きんにく to 筋肉 きんにく ALT? false
+assigning: 金融 きんゆう to 金融 きんゆう ALT? false
+assigning: 金曜 きんよう to 金曜 きんよう ALT? false
+NOT FOUND 九 く
+assigning: 句 く to 句 く ALT? false
+assigning: 食う くう to 食う くう ALT? false
+assigning: 偶然 ぐうぜん to 偶然 ぐうぜん ALT? false
+assigning: 臭い くさい to 臭い くさい ALT? false
+assigning: 鎖 くさり to 鎖 くさり ALT? false
+assigning: 腐る くさる to 腐る くさる ALT? false
+assigning: 癖 くせ to 癖 くせ ALT? false
+NOT FOUND 管 くだ
+assigning: 具体 ぐたい to 具体 ぐたい ALT? false
+assigning: 下さる くださる to 下さる くださる ALT? false
+assigning: 下り くだり to 下り くだり ALT? false
+assigning: 苦痛 くつう to 苦痛 くつう ALT? false
+assigning:  ぐっすり to  ぐっすり ALT? false
+assigning: 区別 くべつ to 区別 くべつ ALT? false
+assigning: 組 くみ to 組 くみ ALT? false
+assigning: 組合 くみあい to 組合 くみあい ALT? false
+assigning: 組む くむ to 組む くむ ALT? false
+assigning: 曇り くもり to 曇 くもり ALT? true
+assigning: 位 くらい to 位 くらい ALT? false
+assigning: 暮らし くらし to 暮らし くらし ALT? false
+assigning:  クラシック to  クラシック ALT? false
+assigning: 暮らす くらす to 暮らす くらす ALT? false
+assigning:  グラス to  グラス ALT? false
+assigning:  グランド to  グランド ALT? false
+assigning:  クリーム to  クリーム ALT? false
+assigning: 繰り返す くりかえす to 繰り返す くりかえす ALT? false
+assigning:  クリスマス to  クリスマス ALT? false
+assigning: 狂う くるう to 狂う くるう ALT? false
+assigning:  グループ to  グループ ALT? false
+assigning: 苦しい くるしい to 苦しい くるしい ALT? false
+assigning: 苦しむ くるしむ to 苦しむ くるしむ ALT? false
+assigning: 暮れ くれ to 暮れ くれ ALT? false
+assigning: 苦労 くろう to 苦労 くろう ALT? false
+assigning: 加える くわえる to 加える くわえる ALT? false
+assigning: 詳しい くわしい to 詳しい くわしい ALT? false
+assigning: 加わる くわわる to 加わる くわわる ALT? false
+assigning: 訓 くん to 訓 くん ALT? false
+assigning: 軍 ぐん to 軍 ぐん ALT? false
+assigning: 軍隊 ぐんたい to 軍隊 ぐんたい ALT? false
+assigning: 訓練 くんれん to 訓練 くんれん ALT? false
+assigning: 下 げ to 下 げ ALT? false
+assigning: 計 けい to 計 けい ALT? false
+assigning: 敬意 けいい to 敬意 けいい ALT? false
+assigning: 経営 けいえい to 経営 けいえい ALT? false
+assigning: 計画 けいかく to 計画 けいかく ALT? false
+assigning: 景気 けいき to 景気 けいき ALT? false
+assigning: 経験 けいけん to 経験 けいけん ALT? false
+assigning: 傾向 けいこう to 傾向 けいこう ALT? false
+assigning: 警告 けいこく to 警告 けいこく ALT? false
+assigning: 計算 けいさん to 計算 けいさん ALT? false
+assigning: 掲示 けいじ to 掲示 けいじ ALT? false
+assigning: 刑事 けいじ to 刑事 けいじ ALT? false
+assigning: 芸術 げいじゅつ to 芸術 げいじゅつ ALT? false
+assigning: 契約 けいやく to 契約 けいやく ALT? false
+assigning: 経由 けいゆ to 経由 けいゆ ALT? false
+assigning:  ケース to  ケース ALT? false
+assigning:  ゲーム to  ゲーム ALT? false
+assigning: 怪我 けが to 怪我 けが ALT? false
+assigning: 劇 げき to 劇 げき ALT? false
+assigning: 劇場 げきじょう to 劇場 げきじょう ALT? false
+assigning: 化粧 けしょう to 化粧 けしょう ALT? false
+assigning:  ケチ to  けち ALT? true
+assigning: 結果 けっか to 結果 けっか ALT? false
+assigning: 欠陥 けっかん to 欠陥 けっかん ALT? false
+assigning: 結局 けっきょく to 結局 けっきょく ALT? false
+assigning: 決心 けっしん to 決心 けっしん ALT? false
+assigning: 欠席 けっせき to 欠席 けっせき ALT? false
+assigning: 決定 けってい to 決定 けってい ALT? false
+assigning: 欠点 けってん to 欠点 けってん ALT? false
+assigning: 月曜 げつよう to 月曜 げつよう ALT? false
+assigning: 結論 けつろん to 結論 けつろん ALT? false
+assigning: 煙 けむり to 煙 けむり ALT? false
+assigning: 券 けん to 券 けん ALT? false
+assigning: 県 けん to 県 けん ALT? false
+assigning: 軒 けん to 軒 けん ALT? false
+assigning: 喧嘩 けんか to 喧嘩 けんか ALT? false
+assigning: 見解 けんかい to 見解 けんかい ALT? false
+assigning: 限界 げんかい to 限界 げんかい ALT? false
+assigning: 現金 げんきん to 現金 げんきん ALT? false
+assigning: 言語 げんご to 言語 げんご ALT? false
+assigning: 健康 けんこう to 健康 けんこう ALT? false
+assigning: 検査 けんさ to 検査 けんさ ALT? false
+assigning: 現在 げんざい to 現在 げんざい ALT? false
+assigning: 現実 げんじつ to 現実 げんじつ ALT? false
+assigning: 現象 げんしょう to 現象 げんしょう ALT? false
+assigning: 現状 げんじょう to 現状 げんじょう ALT? false
+assigning: 建設 けんせつ to 建設 けんせつ ALT? false
+assigning: 現代 げんだい to 現代 げんだい ALT? false
+assigning: 建築 けんちく to 建築 けんちく ALT? false
+assigning: 見当 けんとう to 見当 けんとう ALT? false
+assigning: 検討 けんとう to 検討 けんとう ALT? false
+assigning: 現場 げんば to 現場 げんば ALT? false
+assigning: 憲法 けんぽう to 憲法 けんぽう ALT? false
+assigning: 権利 けんり to 権利 けんり ALT? false
+assigning: 後 ご to 後 ご ALT? false
+assigning: 語 ご to 語 ご ALT? false
+assigning: 恋 こい to 恋 こい ALT? false
+assigning: 濃い こい to 濃い こい ALT? false
+assigning: 恋人 こいびと to 恋人 こいびと ALT? false
+assigning: 幸運 こううん to 幸運 こううん ALT? false
+assigning: 講演 こうえん to 講演 こうえん ALT? false
+assigning: 効果 こうか to 効果 こうか ALT? false
+assigning: 硬貨 こうか to 硬貨 こうか ALT? false
+assigning: 高価 こうか to 高価 こうか ALT? false
+assigning: 豪華 ごうか to 豪華 ごうか ALT? false
+assigning: 合格 ごうかく to 合格 ごうかく ALT? false
+assigning: 交換 こうかん to 交換 こうかん ALT? false
+assigning: 航空 こうくう to 航空 こうくう ALT? false
+assigning: 光景 こうけい to 光景 こうけい ALT? false
+assigning: 合計 ごうけい to 合計 ごうけい ALT? false
+assigning: 攻撃 こうげき to 攻撃 こうげき ALT? false
+assigning: 貢献 こうけん to 貢献 こうけん ALT? false
+assigning: 広告 こうこく to 広告 こうこく ALT? false
+assigning: 交際 こうさい to 交際 こうさい ALT? false
+assigning: 後者 こうしゃ to 後者 こうしゃ ALT? false
+NOT FOUND 工場 こうば
+assigning: 構成 こうせい to 構成 こうせい ALT? false
+assigning: 高速 こうそく to 高速 こうそく ALT? false
+assigning: 行動 こうどう to 行動 こうどう ALT? false
+assigning: 強盗 ごうとう to 強盗 ごうとう ALT? false
+assigning: 幸福 こうふく to 幸福 こうふく ALT? false
+assigning: 公平 こうへい to 公平 こうへい ALT? false
+assigning: 候補 こうほ to 候補 こうほ ALT? false
+assigning: 考慮 こうりょ to 考慮 こうりょ ALT? false
+assigning: 越える こえる to 越える こえる ALT? false
+assigning:  コーチ to  コーチ ALT? false
+assigning:  コード to  コード ALT? false
+assigning: 氷 こおり to 氷 こおり ALT? false
+assigning: 凍る こおる to 凍る こおる ALT? false
+assigning:  ゴール to  ゴール ALT? false
+assigning: 誤解 ごかい to 誤解 ごかい ALT? false
+assigning: 語学 ごがく to 語学 ごがく ALT? false
+assigning: 呼吸 こきゅう to 呼吸 こきゅう ALT? false
+NOT FOUND 故郷 こきょう
+assigning: 極 ごく to 極 ごく ALT? false
+assigning: 国語 こくご to 国語 こくご ALT? false
+assigning: 黒板 こくばん to 黒板 こくばん ALT? false
+assigning: 克服 こくふく to 克服 こくふく ALT? false
+assigning: 国民 こくみん to 国民 こくみん ALT? false
+assigning: 穀物 こくもつ to 穀物 こくもつ ALT? false
+0 此処 ここ
+1 個々 ここ
+2 戸戸 ここ
+3 呱呱 ここ
+Which is it? ここ ここnext
+assigning: 此処 ここ to ここ ここ ALT? false
+assigning: 腰 こし to 腰 こし ALT? false
+assigning: 故障 こしょう to 故障 こしょう ALT? false
+assigning: 個人 こじん to 個人 こじん ALT? false
+assigning: 越す こす to 越す こす ALT? false
+assigning: 国家 こっか to 国家 こっか ALT? false
+assigning: 国会 こっかい to 国会 こっかい ALT? false
+assigning: 国境 こっきょう to 国境 こっきょう ALT? false
+assigning: 骨折 こっせつ to 骨折 こっせつ ALT? false
+assigning: 小包 こづつみ to 小包 こづつみ ALT? false
+assigning: 事 こと to 事 こと ALT? false
+assigning: 異なる ことなる to 異なる ことなる ALT? false
+assigning: 諺 ことわざ to 諺 ことわざ ALT? false
+assigning: 断る ことわる to 断る ことわる ALT? false
+assigning: 粉 こな to 粉 こな ALT? false
+assigning: 此の この to この この ALT? false
+assigning: 好み このみ to 好み このみ ALT? false
+assigning: 好む このむ to 好む このむ ALT? false
+assigning:  コピー to  コピー ALT? false
+assigning: 塵 ごみ to 塵 ごみ ALT? false
+assigning: 小麦 こむぎ to 小麦 こむぎ ALT? false
+assigning: 御免なさい ごめんなさい to  ごめんなさい ALT? false
+assigning: 小屋 こや to 小屋 こや ALT? false
+assigning: これ等 これら to  これら ALT? false
+assigning: 頃 ころ to 頃 ころ ALT? false
+assigning: 殺す ころす to 殺す ころす ALT? false
+assigning: 転ぶ ころぶ to 転ぶ ころぶ ALT? false
+assigning: 今回 こんかい to 今回 こんかい ALT? false
+assigning: 今後 こんご to 今後 こんご ALT? false
+assigning: 混雑 こんざつ to 混雑 こんざつ ALT? false
+assigning:  こんなに to  こんなに ALT? false
+assigning: 困難 こんなん to 困難 こんなん ALT? false
+NOT FOUND 今日 こんにち
+assigning: 今日は こんにちは to  こんにちは ALT? false
+assigning:  コンピュータ to  コンピューター ALT? true
+assigning: 婚約 こんやく to 婚約 こんやく ALT? false
+assigning: 混乱 こんらん to 混乱 こんらん ALT? false
+assigning: 差 さ to 差 さ ALT? false
+assigning:  サービス to  サービス ALT? false
+assigning: 際 さい to 際 さい ALT? false
+assigning: 最高 さいこう to 最高 さいこう ALT? false
+assigning: 財産 ざいさん to 財産 ざいさん ALT? false
+assigning: 最終 さいしゅう to 最終 さいしゅう ALT? false
+assigning: 最中 さいちゅう to 最中 さいちゅう ALT? false
+assigning: 最低 さいてい to 最低 さいてい ALT? false
+assigning: 才能 さいのう to 才能 さいのう ALT? false
+assigning: 裁判 さいばん to 裁判 さいばん ALT? false
+assigning: 材料 ざいりょう to 材料 ざいりょう ALT? false
+assigning: 幸い さいわい to 幸い さいわい ALT? false
+assigning:  サイン to  サイン ALT? false
+assigning: 境 さかい to 境 さかい ALT? false
+assigning: 逆らう さからう to 逆らう さからう ALT? false
+assigning: 盛り さかり to 盛り さかり ALT? false
+assigning: 作業 さぎょう to 作業 さぎょう ALT? false
+assigning: 昨 さく to 昨 さく ALT? false
+assigning: 作品 さくひん to 作品 さくひん ALT? false
+assigning: 作物 さくもつ to 作物 さくもつ ALT? false
+assigning: 桜 さくら to 桜 さくら ALT? false
+assigning: 酒 さけ to 酒 さけ ALT? false
+assigning: 叫ぶ さけぶ to 叫ぶ さけぶ ALT? false
+assigning: 避ける さける to 避ける さける ALT? false
+assigning: 支える ささえる to 支える ささえる ALT? false
+assigning: 指す さす to 指す さす ALT? false
+assigning: 座席 ざせき to 座席 ざせき ALT? false
+assigning: 誘う さそう to 誘う さそう ALT? false
+assigning: 札 さつ to 札 さつ ALT? false
+assigning: 作家 さっか to 作家 さっか ALT? false
+assigning: 作曲 さっきょく to 作曲 さっきょく ALT? false
+assigning:  ざっと to  ざっと ALT? false
+assigning:  さっぱり to  さっぱり ALT? false
+assigning: 偖 さて to  さて ALT? false
+assigning: 砂漠 さばく to 砂漠 さばく ALT? false
+assigning: 差別 さべつ to 差別 さべつ ALT? false
+assigning: 作法 さほう to 作法 さほう ALT? false
+assigning: 様々 さまざま to 様々 さまざま ALT? false
+assigning: 覚ます さます to 覚ます さます ALT? false
+assigning: 覚める さめる to 覚める さめる ALT? false
+assigning: 左右 さゆう to 左右 さゆう ALT? false
+assigning: 皿 さら to 皿 さら ALT? false
+assigning: 更に さらに to 更に さらに ALT? false
+assigning: 去る さる to 去る さる ALT? false
+assigning: 猿 さる to 猿 さる ALT? false
+assigning: 騒ぎ さわぎ to 騒ぎ さわぎ ALT? false
+assigning: 参加 さんか to 参加 さんか ALT? false
+assigning: 参考 さんこう to 参考 さんこう ALT? false
+NOT FOUND 賛成 Uӣ[い
+assigning: 酸素 さんそ to 酸素 さんそ ALT? false
+assigning: 散歩 さんぽ to 散歩 さんぽ ALT? false
+assigning: 四 し to 四 し ALT? false
+assigning: 氏 し to 氏 し ALT? false
+assigning: 詩 し to 詩 し ALT? false
+assigning: 幸せ しあわせ to 幸せ しあわせ ALT? false
+assigning:  ジーンズ to  ジーンズ ALT? false
+assigning: ジェット機 ジェットき to ジェット機 ジェットき ALT? false
+assigning: 直に じかに to 直に じかに ALT? false
+assigning: 然も しかも to  しかも ALT? false
+assigning: 叱る しかる to 叱る しかる ALT? false
+assigning: 式 しき to 式 しき ALT? false
+assigning: 直 じき to 直 じき ALT? false
+assigning: 時期 じき to 時期 じき ALT? false
+assigning: 支給 しきゅう to 支給 しきゅう ALT? false
+assigning: 頻りに しきりに to  しきりに ALT? false
+assigning: 刺激 しげき to 刺激 しげき ALT? false
+assigning: 資源 しげん to 資源 しげん ALT? false
+assigning: 事件 じけん to 事件 じけん ALT? false
+assigning: 時刻 じこく to 時刻 じこく ALT? false
+assigning: 自殺 じさつ to 自殺 じさつ ALT? false
+assigning: 事実 じじつ to 事実 じじつ ALT? false
+assigning: 支出 ししゅつ to 支出 ししゅつ ALT? false
+assigning: 事情 じじょう to 事情 じじょう ALT? false
+assigning: 詩人 しじん to 詩人 しじん ALT? false
+assigning: 自身 じしん to 自身 じしん ALT? false
+assigning: 沈む しずむ to 沈む しずむ ALT? false
+assigning: 自然 しぜん to 自然 しぜん ALT? false
+assigning: 思想 しそう to 思想 しそう ALT? false
+assigning: 舌 した to 舌 した ALT? false
+assigning: 次第 しだい to 次第 しだい ALT? false
+assigning: 事態 じたい to 事態 じたい ALT? false
+assigning: 従う したがう to 従う したがう ALT? false
+assigning: 従って したがって to したがって したがって ALT? false
+assigning: 支度 したく to 支度 したく ALT? false
+assigning: 親しい したしい to 親しい したしい ALT? false
+assigning: 七 しち to 七 しち ALT? false
+assigning: 質 しつ to 質 しつ ALT? false
+assigning: 失業 しつぎょう to 失業 しつぎょう ALT? false
+assigning: 実験 じっけん to 実験 じっけん ALT? false
+assigning: 実現 じつげん to 実現 じつげん ALT? false
+assigning: 実行 じっこう to 実行 じっこう ALT? false
+assigning: 実際 じっさい to 実際 じっさい ALT? false
+assigning: 実施 じっし to 実施 じっし ALT? false
+assigning: 凝乎と じっと to  じっと ALT? false
+assigning: 実に じつに to 実に じつに ALT? false
+assigning: 実は じつは to 実は じつは ALT? false
+assigning: 失望 しつぼう to 失望 しつぼう ALT? false
+assigning: 支店 してん to 支店 してん ALT? false
+assigning: 指導 しどう to 指導 しどう ALT? false
+assigning: 自動 じどう to 自動 じどう ALT? false
+assigning: 品 しな to 品 しな ALT? false
+assigning: 支配 しはい to 支配 しはい ALT? false
+assigning: 芝居 しばい to 芝居 しばい ALT? false
+0 屡々 しばしば
+1  しばしば
+Which is it?  しばしば1
+assigning:  しばしば to  しばしば ALT? false
+assigning: 芝生 しばふ to 芝生 しばふ ALT? false
+assigning: 支払い しはらい to 支払 しはらい ALT? true
+assigning: 支払う しはらう to 支払う しはらう ALT? false
+assigning: 死亡 しぼう to 死亡 しぼう ALT? false
+assigning: 資本 しほん to 資本 しほん ALT? false
+0 姉妹 しまい
+1 仕舞い しまい
+Which is it?  しまい1
+assigning: 仕舞い しまい to  しまい ALT? false
+assigning: 姉妹 しまい to 姉妹 しまい ALT? false
+assigning: 仕舞う しまう to  しまう ALT? false
+assigning: 仕舞った しまった to  しまった ALT? false
+assigning: 自慢 じまん to 自慢 じまん ALT? false
+assigning: 事務 じむ to 事務 じむ ALT? false
+assigning: 示す しめす to 示す しめす ALT? false
+assigning: 占める しめる to 占める しめる ALT? false
+assigning: 下 しも to 下 しも ALT? false
+assigning: 霜 しも to 霜 しも ALT? false
+assigning:  じゃあ to  じゃあ ALT? false
+assigning: 借金 しゃっきん to 借金 しゃっきん ALT? false
+assigning: 喋る しゃべる to  しゃべる ALT? false
+assigning: 邪魔 じゃま to 邪魔 じゃま ALT? false
+assigning: 週 しゅう to 週 しゅう ALT? false
+assigning: 州 しゅう to 州 しゅう ALT? false
+assigning: 十 じゅう to 十 じゅう ALT? false
+assigning: 銃 じゅう to 銃 じゅう ALT? false
+assigning: 周囲 しゅうい to 周囲 しゅうい ALT? false
+assigning: 収穫 しゅうかく to 収穫 しゅうかく ALT? false
+assigning: 週間 しゅうかん to 週間 しゅうかん ALT? false
+assigning: 宗教 しゅうきょう to 宗教 しゅうきょう ALT? false
+assigning: 重視 じゅうし to 重視 じゅうし ALT? false
+assigning: 就職 しゅうしょく to 就職 しゅうしょく ALT? false
+assigning:  ジュース to  ジュース ALT? false
+assigning: 修正 しゅうせい to 修正 しゅうせい ALT? false
+assigning: 渋滞 じゅうたい to 渋滞 じゅうたい ALT? false
+assigning: 重大 じゅうだい to 重大 じゅうだい ALT? false
+assigning: 住宅 じゅうたく to 住宅 じゅうたく ALT? false
+assigning: 集団 しゅうだん to 集団 しゅうだん ALT? false
+assigning: 集中 しゅうちゅう to 集中 しゅうちゅう ALT? false
+assigning: 収入 しゅうにゅう to 収入 しゅうにゅう ALT? false
+assigning: 住民 じゅうみん to 住民 じゅうみん ALT? false
+assigning: 重要 じゅうよう to 重要 じゅうよう ALT? false
+assigning: 修理 しゅうり to 修理 しゅうり ALT? false
+assigning: 主義 しゅぎ to 主義 しゅぎ ALT? false
+assigning: 宿泊 しゅくはく to 宿泊 しゅくはく ALT? false
+assigning: 手術 しゅじゅつ to 手術 しゅじゅつ ALT? false
+assigning: 首相 しゅしょう to 首相 しゅしょう ALT? false
+assigning: 手段 しゅだん to 手段 しゅだん ALT? false
+assigning: 主張 しゅちょう to 主張 しゅちょう ALT? false
+assigning: 出身 しゅっしん to 出身 しゅっしん ALT? false
+assigning: 出席 しゅっせき to 出席 しゅっせき ALT? false
+assigning: 出発 しゅっぱつ to 出発 しゅっぱつ ALT? false
+assigning: 出版 しゅっぱん to 出版 しゅっぱん ALT? false
+assigning: 首都 しゅと to 首都 しゅと ALT? false
+assigning: 主婦 しゅふ to 主婦 しゅふ ALT? false
+assigning: 主要 しゅよう to 主要 しゅよう ALT? false
+assigning: 需要 じゅよう to 需要 じゅよう ALT? false
+assigning: 種類 しゅるい to 種類 しゅるい ALT? false
+assigning: 順 じゅん to 順 じゅん ALT? false
+assigning: 瞬間 しゅんかん to 瞬間 しゅんかん ALT? false
+assigning: 順調 じゅんちょう to 順調 じゅんちょう ALT? false
+assigning: 順番 じゅんばん to 順番 じゅんばん ALT? false
+assigning: 準備 じゅんび to 準備 じゅんび ALT? false
+assigning: 使用 しよう to 使用 しよう ALT? false
+assigning: 小 しょう to 小 しょう ALT? false
+assigning: 章 しょう to 章 しょう ALT? false
+assigning: 賞 しょう to 賞 しょう ALT? false
+assigning: 上 じょう to 上 じょう ALT? false
+assigning: 障害 しょうがい to 障害 しょうがい ALT? false
+assigning: 奨学金 しょうがくきん to 奨学金 しょうがくきん ALT? false
+assigning: 乗客 じょうきゃく to 乗客 じょうきゃく ALT? false
+assigning: 上京 じょうきょう to 上京 じょうきょう ALT? false
+assigning: 状況 じょうきょう to 状況 じょうきょう ALT? false
+assigning: 条件 じょうけん to 条件 じょうけん ALT? false
+assigning: 正午 しょうご to 正午 しょうご ALT? false
+assigning: 正直 しょうじき to 正直 しょうじき ALT? false
+assigning: 常識 じょうしき to 常識 じょうしき ALT? false
+assigning: 少女 しょうじょ to 少女 しょうじょ ALT? false
+assigning: 少々 しょうしょう to 少々 しょうしょう ALT? false
+assigning: 症状 しょうじょう to 症状 しょうじょう ALT? false
+assigning: 生じる しょうじる to 生じる しょうじる ALT? false
+assigning: 招待 しょうたい to 招待 しょうたい ALT? false
+assigning: 状態 じょうたい to 状態 じょうたい ALT? false
+assigning: 上達 じょうたつ to 上達 じょうたつ ALT? false
+assigning: 冗談 じょうだん to 冗談 じょうだん ALT? false
+assigning: 承知 しょうち to 承知 しょうち ALT? false
+assigning: 上等 じょうとう to 上等 じょうとう ALT? false
+assigning: 衝突 しょうとつ to 衝突 しょうとつ ALT? false
+assigning: 商人 しょうにん to 商人 しょうにん ALT? false
+assigning: 承認 しょうにん to 承認 しょうにん ALT? false
+assigning: 少年 しょうねん to 少年 しょうねん ALT? false
+assigning: 商売 しょうばい to 商売 しょうばい ALT? false
+assigning: 消費 しょうひ to 消費 しょうひ ALT? false
+assigning: 商品 しょうひん to 商品 しょうひん ALT? false
+assigning: 消防 しょうぼう to 消防 しょうぼう ALT? false
+assigning: 情報 じょうほう to 情報 じょうほう ALT? false
+assigning: 証明 しょうめい to 証明 しょうめい ALT? false
+assigning: 女王 じょおう to 女王 じょおう ALT? false
+assigning: 職 しょく to 職 しょく ALT? false
+assigning: 職業 しょくぎょう to 職業 しょくぎょう ALT? false
+assigning: 食事 しょくじ to 食事 しょくじ ALT? false
+assigning: 食卓 しょくたく to 食卓 しょくたく ALT? false
+assigning: 食品 しょくひん to 食品 しょくひん ALT? false
+assigning: 植物 しょくぶつ to 植物 しょくぶつ ALT? false
+assigning: 食物 しょくもつ to 食物 しょくもつ ALT? false
+assigning: 食欲 しょくよく to 食欲 しょくよく ALT? false
+assigning: 食料 しょくりょう to 食料 しょくりょう ALT? false
+assigning: 食糧 しょくりょう to 食糧 しょくりょう ALT? false
+assigning: 書斎 しょさい to 書斎 しょさい ALT? false
+assigning: 女子 じょし to 女子 じょし ALT? false
+assigning: 助手 じょしゅ to 助手 じょしゅ ALT? false
+NOT FOUND 徐々に じょじょに
+assigning: 署名 しょめい to 署名 しょめい ALT? false
+assigning: 書物 しょもつ to 書物 しょもつ ALT? false
+assigning: 女優 じょゆう to 女優 じょゆう ALT? false
+assigning: 処理 しょり to 処理 しょり ALT? false
+assigning: 書類 しょるい to 書類 しょるい ALT? false
+assigning: 知らせ しらせ to 知らせ しらせ ALT? false
+assigning: 尻 しり to 尻 しり ALT? false
+assigning: 印 しるし to 印 しるし ALT? false
+assigning: 城 しろ to 城 しろ ALT? false
+assigning: 進学 しんがく to 進学 しんがく ALT? false
+assigning: 神経 しんけい to 神経 しんけい ALT? false
+assigning: 真剣 しんけん to 真剣 しんけん ALT? false
+assigning: 信仰 しんこう to 信仰 しんこう ALT? false
+assigning: 信号 しんごう to 信号 しんごう ALT? false
+assigning: 人工 じんこう to 人工 じんこう ALT? false
+assigning: 深刻 しんこく to 深刻 しんこく ALT? false
+assigning: 診察 しんさつ to 診察 しんさつ ALT? false
+assigning: 人種 じんしゅ to 人種 じんしゅ ALT? false
+assigning: 信じる しんじる to 信じる しんじる ALT? false
+assigning: 人生 じんせい to 人生 じんせい ALT? false
+assigning: 親戚 しんせき to 親戚 しんせき ALT? false
+assigning: 新鮮 しんせん to 新鮮 しんせん ALT? false
+assigning: 心臓 しんぞう to 心臓 しんぞう ALT? false
+assigning: 身体 しんたい to 身体 しんたい ALT? false
+assigning: 身長 しんちょう to 身長 しんちょう ALT? false
+assigning: 慎重 しんちょう to 慎重 しんちょう ALT? false
+assigning: 心配 しんぱい to 心配 しんぱい ALT? false
+assigning: 審判 しんぱん to 審判 しんぱん ALT? false
+assigning: 人物 じんぶつ to 人物 じんぶつ ALT? false
+assigning: 進歩 しんぽ to 進歩 しんぽ ALT? false
+assigning: 親友 しんゆう to 親友 しんゆう ALT? false
+assigning: 信用 しんよう to 信用 しんよう ALT? false
+assigning: 信頼 しんらい to 信頼 しんらい ALT? false
+assigning: 心理 しんり to 心理 しんり ALT? false
+assigning: 人類 じんるい to 人類 じんるい ALT? false
+assigning: 巣 す to 巣 す ALT? false
+assigning: 図 ず to 図 ず ALT? false
+assigning: 水準 すいじゅん to 水準 すいじゅん ALT? false
+assigning: 推薦 すいせん to 推薦 すいせん ALT? false
+assigning:  スイッチ to  スイッチ ALT? false
+assigning: 随分 ずいぶん to 随分 ずいぶん ALT? false
+assigning: 睡眠 すいみん to 睡眠 すいみん ALT? false
+assigning: 数 すう to 数 すう ALT? false
+assigning: 数字 すうじ to 数字 すうじ ALT? false
+assigning:  スープ to  スープ ALT? false
+assigning: 末 すえ to 末 すえ ALT? false
+assigning: 姿 すがた to 姿 すがた ALT? false
+assigning:  スキー to  スキー ALT? false
+assigning: 空く すく to 空く すく ALT? false
+assigning: 救う すくう to 救う すくう ALT? false
+assigning: 優れる すぐれる to 優れる すぐれる ALT? false
+assigning:  スケート to  スケート ALT? false
+assigning: 凄い すごい to  すごい ALT? false
+assigning: 少しも すこしも to 少しも すこしも ALT? false
+assigning: 過ごす すごす to 過ごす すごす ALT? false
+assigning: 筋 すじ to 筋 すじ ALT? false
+assigning: 進める すすめる to 進める すすめる ALT? false
+assigning: 勧める すすめる to 勧める すすめる ALT? false
+assigning:  スター to  スター ALT? false
+assigning:  スタイル to  スタイル ALT? false
+assigning:  スタンド to  スタンド ALT? false
+assigning: 頭痛 ずつう to 頭痛 ずつう ALT? false
+assigning:  ずっと to  ずっと ALT? false
+assigning: 素敵 すてき to  すてき ALT? false
+assigning: 既に すでに to 既に すでに ALT? false
+assigning: 即ち すなわち to  すなわち ALT? false
+assigning: 素晴らしい すばらしい to 素晴らしい すばらしい ALT? false
+assigning:  スピーチ to  スピーチ ALT? false
+assigning: 全て すべて to 全て すべて ALT? false
+assigning: 済ませる すませる to 済ませる すませる ALT? false
+assigning: 隅 すみ to 角 すみ ALT? true
+assigning: 済みません すみません to  すみません ALT? false
+assigning: 為る する to 為る する ALT? false
+assigning:  すると to すると すると ALT? false
+assigning: 鋭い するどい to 鋭い するどい ALT? false
+assigning: 背 せい to 背 せい ALT? false
+assigning: 正 せい to 正 せい ALT? false
+assigning: 生 せい to 生 せい ALT? false
+assigning: 性 せい to 性 せい ALT? false
+assigning: 所為 せい to 所為 せい ALT? false
+assigning: 税 ぜい to 税 ぜい ALT? false
+assigning: 性格 せいかく to 性格 せいかく ALT? false
+assigning: 正確 せいかく to 正確 せいかく ALT? false
+assigning: 世紀 せいき to 世紀 せいき ALT? false
+assigning: 請求 せいきゅう to 請求 せいきゅう ALT? false
+assigning: 税金 ぜいきん to 税金 ぜいきん ALT? false
+assigning: 清潔 せいけつ to 清潔 せいけつ ALT? false
+assigning: 制限 せいげん to 制限 せいげん ALT? false
+assigning: 成功 せいこう to 成功 せいこう ALT? false
+assigning: 生産 せいさん to 生産 せいさん ALT? false
+assigning: 正式 せいしき to 正式 せいしき ALT? false
+assigning: 精神 せいしん to 精神 せいしん ALT? false
+assigning: 成人 せいじん to 成人 せいじん ALT? false
+assigning: 精々 せいぜい to 精々 せいぜい ALT? false
+assigning: 成績 せいせき to 成績 せいせき ALT? false
+assigning: 製造 せいぞう to 製造 せいぞう ALT? false
+assigning: 贅沢 ぜいたく to 贅沢 ぜいたく ALT? false
+assigning: 成長 せいちょう to 成長 せいちょう ALT? false
+assigning: 制度 せいど to 制度 せいど ALT? false
+assigning: 青年 せいねん to 青年 せいねん ALT? false
+assigning: 製品 せいひん to 製品 せいひん ALT? false
+assigning: 政府 せいふ to 政府 せいふ ALT? false
+assigning: 生物 せいぶつ to 生物 せいぶつ ALT? false
+assigning: 生命 せいめい to 生命 せいめい ALT? false
+assigning: 整理 せいり to 整理 せいり ALT? false
+assigning: 咳 せき to 咳 せき ALT? false
+assigning: 石炭 せきたん to 石炭 せきたん ALT? false
+assigning: 責任 せきにん to 責任 せきにん ALT? false
+assigning: 石油 せきゆ to 石油 せきゆ ALT? false
+assigning: 世間 せけん to 世間 せけん ALT? false
+assigning: 説 せつ to 説 せつ ALT? false
+assigning: 積極的 せっきょくてき to 積極的 せっきょくてき ALT? false
+assigning: 設計 せっけい to 設計 せっけい ALT? false
+assigning: 絶対 ぜったい to 絶対 ぜったい ALT? false
+assigning:  セット to  セット ALT? false
+assigning: 設備 せつび to 設備 せつび ALT? false
+assigning: 絶滅 ぜつめつ to 絶滅 ぜつめつ ALT? false
+assigning: 節約 せつやく to 節約 せつやく ALT? false
+assigning: 是非 ぜひ to 是非 ぜひ ALT? false
+assigning: 責める せめる to 責める せめる ALT? false
+assigning: 世話 せわ to 世話 せわ ALT? false
+assigning: 善 ぜん to 善 ぜん ALT? false
+assigning: 全 ぜん to 全 ぜん ALT? false
+assigning: 全員 ぜんいん to 全員 ぜんいん ALT? false
+assigning: 専攻 せんこう to 専攻 せんこう ALT? false
+assigning: 全国 ぜんこく to 全国 ぜんこく ALT? false
+assigning: 先日 せんじつ to 先日 せんじつ ALT? false
+assigning: 前者 ぜんしゃ to 前者 ぜんしゃ ALT? false
+assigning: 選手 せんしゅ to 選手 せんしゅ ALT? false
+assigning: 前進 ぜんしん to 前進 ぜんしん ALT? false
+assigning: 全然 ぜんぜん to 全然 ぜんぜん ALT? false
+assigning:  センター to  センター ALT? false
+assigning: 全体 ぜんたい to 全体 ぜんたい ALT? false
+assigning: 選択 せんたく to 選択 せんたく ALT? false
+0  そう
+1 沿う そう
+2 僧 そう
+3 双 そう
+4 層 そう
+5 想 そう
+6 相 そう
+7 総 そう
+8 添う そう
+9 槽 そう
+10 艘 そう
+11 然う そう
+12 宋 そう
+13 壮 そう
+14 草 そう
+15 装 そう
+16 走 そう
+17 叢 そう
+Which is it? そう そうnext
+assigning:  そう to そう そう ALT? false
+assigning: 象 ぞう to 象 ぞう ALT? false
+assigning: 騒音 そうおん to 騒音 そうおん ALT? false
+assigning: 増加 ぞうか to 増加 ぞうか ALT? false
+assigning: 操作 そうさ to 操作 そうさ ALT? false
+assigning: 掃除 そうじ to 掃除 そうじ ALT? false
+assigning: 想像 そうぞう to 想像 そうぞう ALT? false
+assigning: 相続 そうぞく to 相続 そうぞく ALT? false
+assigning: 相談 そうだん to 相談 そうだん ALT? false
+assigning: 装置 そうち to 装置 そうち ALT? false
+assigning: 相当 そうとう to 相当 そうとう ALT? false
+assigning: 速度 そくど to 速度 そくど ALT? false
+0 其処 そこ
+1 底 そこ
+Which is it? そこ そこnext
+assigning: 其処 そこ to そこ そこ ALT? false
+assigning: 底 そこ to 底 そこ ALT? false
+assigning: 其処で そこで to  そこで ALT? false
+assigning: 組織 そしき to 組織 そしき ALT? false
+assigning: 然して そして to  そして ALT? false
+assigning: 注ぐ そそぐ to 注ぐ そそぐ ALT? false
+assigning: 育つ そだつ to 育つ そだつ ALT? false
+assigning:  そっくり to  そっくり ALT? false
+0  そっと
+1 率土 そっと
+Which is it?  そっと0
+assigning:  そっと to  そっと ALT? false
+assigning: 袖 そで to 袖 そで ALT? false
+assigning: 備える そなえる to 備える そなえる ALT? false
+0 其の その
+1 園 その
+Which is it? その そのnext
+assigning: 其の その to その その ALT? false
+assigning: その内 そのうち to  そのうち ALT? false
+assigning: 其の儘 そのまま to  そのまま ALT? false
+assigning: 側 そば to 側 そば ALT? false
+assigning:  ソファ to  ソファー ALT? true
+assigning: 粗末 そまつ to 粗末 そまつ ALT? false
+0 其れ それ
+1  それ
+Which is it?  それnext
+assigning: 其れ それ to  それ ALT? false
+assigning: 夫れ夫れ それぞれ to  それぞれ ALT? false
+assigning: 其れでも それでも to  それでも ALT? false
+assigning: 其れと それと to  それと ALT? false
+assigning: 其れ共 それとも to  それとも ALT? false
+assigning: 損 そん to 損 そん ALT? false
+assigning: 損害 そんがい to 損害 そんがい ALT? false
+assigning: 尊敬 そんけい to 尊敬 そんけい ALT? false
+assigning: 存在 そんざい to 存在 そんざい ALT? false
+assigning: 尊重 そんちょう to 尊重 そんちょう ALT? false
+assigning: 田 た to 田 た ALT? false
+assigning: 他 た to 他 た ALT? false
+assigning: 対 たい to 対 たい ALT? false
+assigning: 大 だい to 大 だい ALT? false
+assigning: 台 だい to 台 だい ALT? false
+assigning: 題 だい to 題 だい ALT? false
+assigning: 体育 たいいく to 体育 たいいく ALT? false
+assigning: 体温 たいおん to 体温 たいおん ALT? false
+assigning: 大会 たいかい to 大会 たいかい ALT? false
+assigning: 大気 たいき to 大気 たいき ALT? false
+assigning: 代金 だいきん to 代金 だいきん ALT? false
+assigning: 退屈 たいくつ to 退屈 たいくつ ALT? false
+assigning: 滞在 たいざい to 滞在 たいざい ALT? false
+assigning: 大使 たいし to 大使 たいし ALT? false
+assigning: 大した たいした to 大した たいした ALT? false
+assigning: 対象 たいしょう to 対象 たいしょう ALT? false
+assigning: 大臣 だいじん to 大臣 だいじん ALT? false
+assigning: 対する たいする to 対する たいする ALT? false
+assigning: 大戦 たいせん to 大戦 たいせん ALT? false
+assigning: 大抵 たいてい to 大抵 たいてい ALT? false
+assigning: 態度 たいど to 態度 たいど ALT? false
+assigning: 大統領 だいとうりょう to 大統領 だいとうりょう ALT? false
+assigning: 大半 たいはん to 大半 たいはん ALT? false
+assigning: 代表 だいひょう to 代表 だいひょう ALT? false
+assigning: 大部分 だいぶぶん to 大部分 だいぶぶん ALT? false
+assigning:  タイプライター to  タイプライター ALT? false
+assigning: 大変 たいへん to 大変 たいへん ALT? false
+assigning: 逮捕 たいほ to 逮捕 たいほ ALT? false
+assigning:  ダイヤ to  ダイヤ ALT? false
+assigning: 太陽 たいよう to 太陽 たいよう ALT? false
+assigning: 平ら たいら to 平ら たいら ALT? false
+assigning: 代理 だいり to 代理 だいり ALT? false
+assigning: 大陸 たいりく to 大陸 たいりく ALT? false
+assigning: 倒す たおす to 倒す たおす ALT? false
+assigning:  タオル to  タオル ALT? false
+assigning:  だが to だが だが ALT? false
+assigning: 互い たがい to 互い たがい ALT? false
+assigning: 宝 たから to 宝 たから ALT? false
+assigning:  だから to だから だから ALT? false
+assigning: 宅 たく to 宅 たく ALT? false
+assigning:  だけど to  だけど ALT? false
+assigning: 確かめる たしかめる to 確かめる たしかめる ALT? false
+assigning: 多少 たしょう to 多少 たしょう ALT? false
+assigning: 助ける たすける to 助ける たすける ALT? false
+0 只 ただ
+1 直 ただ
+Which is it?  ただ0
+assigning: 只 ただ to  ただ ALT? false
+assigning: 戦い たたかい to 戦い たたかい ALT? false
+assigning: 戦う たたかう to 戦う たたかう ALT? false
+assigning: 叩く たたく to 叩く たたく ALT? false
+assigning: 直ちに ただちに to 直ちに ただちに ALT? false
+assigning: 立ち上がる たちあがる to 立ち上がる たちあがる ALT? false
+assigning: 立場 たちば to 立場 たちば ALT? false
+assigning: 経つ たつ to 経つ たつ ALT? false
+assigning: 達する たっする to 達する たっする ALT? false
+assigning:  だって to  だって ALT? false
+assigning:  たっぷり to  たっぷり ALT? false
+assigning: 縦 たて to 縦 たて ALT? false
+0 例え たとえ
+1 仮令 たとえ
+Which is it?  たとえ0
+assigning: 例え たとえ to  たとえ ALT? false
+assigning: 谷 たに to 谷 たに ALT? false
+assigning: 他人 たにん to 他人 たにん ALT? false
+assigning: 種 たね to 種 たね ALT? false
+assigning: 束 たば to 束 たば ALT? false
+assigning: 度 たび to 度 たび ALT? false
+assigning: 旅 たび to 旅 たび ALT? false
+assigning: 度々 たびたび to  たびたび ALT? false
+assigning: 多分 たぶん to 多分 たぶん ALT? false
+assigning: 玉 たま to 玉 たま ALT? false
+0 鞠 まり
+1 玉 たま
+Which is it? 球 たま1
+assigning: 偶 たま to 偶 たま ALT? false
+assigning: 偶々 たまたま to 偶々 たまたま ALT? false
+assigning: 堪らない たまらない to  たまらない ALT? false
+assigning: 黙る だまる to 黙る だまる ALT? false
+assigning: 駄目 だめ to 駄目 だめ ALT? false
+assigning: 試し ためし to 試し ためし ALT? false
+assigning: 試す ためす to 試す ためす ALT? false
+assigning: 便り たより to 便り たより ALT? false
+assigning: 頼る たよる to 頼る たよる ALT? false
+assigning: 誰か だれか to 誰か だれか ALT? false
+assigning: 段 だん to 段 だん ALT? false
+assigning: 単位 たんい to 単位 たんい ALT? false
+assigning: 単語 たんご to 単語 たんご ALT? false
+assigning: 男子 だんし to 男子 だんし ALT? false
+assigning: 単純 たんじゅん to 単純 たんじゅん ALT? false
+assigning: 誕生 たんじょう to 誕生 たんじょう ALT? false
+assigning:  ダンス to  ダンス ALT? false
+assigning: 団体 だんたい to 団体 だんたい ALT? false
+assigning: 担当 たんとう to 担当 たんとう ALT? false
+assigning: 単なる たんなる to 単なる たんなる ALT? false
+assigning: 単に たんに to 単に たんに ALT? false
+assigning: 地 ち to 地 ち ALT? false
+assigning: 地位 ちい to 地位 ちい ALT? false
+assigning: 地域 ちいき to 地域 ちいき ALT? false
+assigning:  チーズ to  チーズ ALT? false
+assigning:  チーム to  チーム ALT? false
+assigning: 知恵 ちえ to 知恵 ちえ ALT? false
+assigning: 地下 ちか to 地下 ちか ALT? false
+assigning: 違い ちがい to 違い ちがい ALT? false
+assigning: 違いない ちがいない to 違いない ちがいない ALT? false
+assigning: 近頃 ちかごろ to 近頃 ちかごろ ALT? false
+assigning: 地球 ちきゅう to 地球 ちきゅう ALT? false
+assigning: 地区 ちく to 地区 ちく ALT? false
+assigning: 遅刻 ちこく to 遅刻 ちこく ALT? false
+assigning: 知事 ちじ to 知事 ちじ ALT? false
+assigning: 知識 ちしき to 知識 ちしき ALT? false
+assigning: 父親 ちちおや to 父親 ちちおや ALT? false
+assigning: 知能 ちのう to 知能 ちのう ALT? false
+assigning: 地平線 ちへいせん to 地平線 ちへいせん ALT? false
+assigning: 地方 ちほう to 地方 ちほう ALT? false
+assigning: 茶 ちゃ to 茶 ちゃ ALT? false
+assigning:  チャンス to  チャンス ALT? false
+assigning:  ちゃんと to  ちゃんと ALT? false
+assigning: 中 ちゅう to 中 ちゅう ALT? false
+assigning: 注 ちゅう to 注 ちゅう ALT? false
+assigning: 中央 ちゅうおう to 中央 ちゅうおう ALT? false
+assigning: 中学 ちゅうがく to 中学 ちゅうがく ALT? false
+assigning: 中古 ちゅうこ to 中古 ちゅうこ ALT? false
+assigning: 中止 ちゅうし to 中止 ちゅうし ALT? false
+assigning: 駐車 ちゅうしゃ to 駐車 ちゅうしゃ ALT? false
+assigning: 昼食 ちゅうしょく to 昼食 ちゅうしょく ALT? false
+assigning: 中心 ちゅうしん to 中心 ちゅうしん ALT? false
+assigning: 注目 ちゅうもく to 注目 ちゅうもく ALT? false
+assigning: 注文 ちゅうもん to 注文 ちゅうもん ALT? false
+assigning: 長期 ちょうき to 長期 ちょうき ALT? false
+assigning: 調査 ちょうさ to 調査 ちょうさ ALT? false
+assigning: 調子 ちょうし to 調子 ちょうし ALT? false
+assigning: 頂上 ちょうじょう to 頂上 ちょうじょう ALT? false
+0 頂戴 ちょうだい
+1 長大 ちょうだい
+2 帳台 ちょうだい
+3 町代 ちょうだい
+Which is it?  ちょうだい0
+assigning: 頂戴 ちょうだい to  ちょうだい ALT? false
+assigning: 貯金 ちょきん to 貯金 ちょきん ALT? false
+assigning: 直接 ちょくせつ to 直接 ちょくせつ ALT? false
+assigning: 著者 ちょしゃ to 著者 ちょしゃ ALT? false
+assigning: 遂に ついに to 遂に ついに ALT? false
+assigning: 通過 つうか to 通過 つうか ALT? false
+assigning: 通学 つうがく to 通学 つうがく ALT? false
+assigning: 通行 つうこう to 通行 つうこう ALT? false
+assigning: 通じる つうじる to 通じる つうじる ALT? false
+assigning: 通信 つうしん to 通信 つうしん ALT? false
+assigning: 捕まる つかまる to 捕まる つかまる ALT? false
+assigning: 掴む つかむ to 掴む つかむ ALT? false
+assigning: 疲れ つかれ to 疲れ つかれ ALT? false
+assigning: 月 つき to 月 つき ALT? false
+assigning: 付き合い つきあい to 付き合い つきあい ALT? false
+assigning: 次々 つぎつぎ to 次々 つぎつぎ ALT? false
+assigning: 就く つく to 就く つく ALT? false
+assigning: 注ぐ つぐ to 注ぐ つぐ ALT? false
+assigning: 付ける つける to 付ける つける ALT? false
+assigning: 土 つち to 土 つち ALT? false
+assigning: 続き つづき to 続き つづき ALT? false
+assigning: 包み つつみ to 包み つつみ ALT? false
+assigning: 勤め つとめ to 勤め つとめ ALT? false
+assigning: 繋ぐ つなぐ to 繋ぐ つなぐ ALT? false
+assigning: 常に つねに to 常に つねに ALT? false
+assigning: 翼 つばさ to 翼 つばさ ALT? false
+assigning: 詰まり つまり to  つまり ALT? false
+assigning: 罪 つみ to 罪 つみ ALT? false
+assigning: 詰める つめる to 詰める つめる ALT? false
+assigning: 積もる つもる to 積もる つもる ALT? false
+assigning: 梅雨 つゆ to 梅雨 つゆ ALT? false
+assigning: 辛い つらい to 辛い つらい ALT? false
+assigning: 釣り つり to 釣 つり ALT? true
+assigning: 連れ つれ to 連れ つれ ALT? false
+0 出 で
+1  で
+Which is it?  で0
+assigning: 出 で to  で ALT? false
+assigning: 出会い であい to 出会い であい ALT? false
+assigning: 出会う であう to 出会う であう ALT? false
+assigning: 提案 ていあん to 提案 ていあん ALT? false
+assigning: 定期 ていき to 定期 ていき ALT? false
+assigning: 抵抗 ていこう to 抵抗 ていこう ALT? false
+assigning: 提出 ていしゅつ to 提出 ていしゅつ ALT? false
+assigning: 程度 ていど to 程度 ていど ALT? false
+assigning: 停留所 ていりゅうじょ to 停留所 ていりゅうじょ ALT? false
+assigning:  デート to  デート ALT? false
+assigning: 敵 てき to 敵 てき ALT? false
+assigning: 出来事 できごと to 出来事 できごと ALT? false
+assigning: 適する てきする to 適する てきする ALT? false
+assigning: 適切 てきせつ to 適切 てきせつ ALT? false
+assigning: 適度 てきど to 適度 てきど ALT? false
+assigning: 適用 てきよう to 適用 てきよう ALT? false
+0 出切る できる
+1 出来る できる
+Which is it?  できる1
+assigning: 出来る できる to  できる ALT? false
+assigning: 出来るだけ できるだけ to 出来るだけ できるだけ ALT? false
+assigning: 出来れば できれば to  できれば ALT? false
+assigning: 手品 てじな to 手品 てじな ALT? false
+assigning:  ですから to  ですから ALT? false
+assigning: 鉄 てつ to 鉄 てつ ALT? false
+assigning: 哲学 てつがく to 哲学 てつがく ALT? false
+assigning: 手伝い てつだい to 手伝い てつだい ALT? false
+assigning: 徹底 てってい to 徹底 てってい ALT? false
+assigning: 鉄道 てつどう to 鉄道 てつどう ALT? false
+assigning: 徹夜 てつや to 徹夜 てつや ALT? false
+0  では
+1 出端 では
+Which is it? では では0
+assigning:  では to では では ALT? false
+assigning: 手間 てま to 手間 てま ALT? false
+assigning:  でも to でも でも ALT? false
+assigning:  デモ to  デモ ALT? false
+assigning: 典型 てんけい to 典型 てんけい ALT? false
+assigning: 天候 てんこう to 天候 てんこう ALT? false
+assigning: 電子 でんし to 電子 でんし ALT? false
+assigning:  テント to  テント ALT? false
+assigning: 伝統 でんとう to 伝統 でんとう ALT? false
+assigning: 天然 てんねん to 天然 てんねん ALT? false
+assigning: 度 ど to 度 ど ALT? false
+assigning: 問い とい to 問い とい ALT? false
+assigning: 党 とう to 党 とう ALT? false
+assigning: 塔 とう to 塔 とう ALT? false
+0 如何 どう
+1 動 どう
+2 同 どう
+3 堂 どう
+4 胴 どう
+5 銅 どう
+6 道 どう
+7  どう
+Which is it?  どうnext
+assigning: 如何 どう to  どう ALT? false
+assigning: 答案 とうあん to 答案 とうあん ALT? false
+assigning: 同一 どういつ to 同一 どういつ ALT? false
+0 同化 どうか
+1 同価 どうか
+2 銅貨 どうか
+3  どうか
+4 道家 どうか
+5 道歌 どうか
+6 銅戈 どうか
+Which is it?  どうか3
+assigning:  どうか to  どうか ALT? false
+assigning: 当時 とうじ to 当時 とうじ ALT? false
+assigning: 動詞 どうし to 動詞 どうし ALT? false
+assigning: 同時 どうじ to 同時 どうじ ALT? false
+assigning: 如何しても どうしても to  どうしても ALT? false
+assigning: 到着 とうちゃく to 到着 とうちゃく ALT? false
+assigning: 道徳 どうとく to 道徳 どうとく ALT? false
+assigning: 投票 とうひょう to 投票 とうひょう ALT? false
+assigning: 同様 どうよう to 同様 どうよう ALT? false
+assigning: 同僚 どうりょう to 同僚 どうりょう ALT? false
+assigning: 道路 どうろ to 道路 どうろ ALT? false
+NOT FOUND 十 とお
+assigning: 通す とおす to 通す とおす ALT? false
+assigning: 通り とおり to 通り とおり ALT? false
+assigning: 通り過ぎる とおりすぎる to 通り過ぎる とおりすぎる ALT? false
+assigning: 都会 とかい to 都会 とかい ALT? false
+assigning: 時 とき to 時 とき ALT? false
+assigning: 解く とく to 解く とく ALT? false
+assigning: 毒 どく to 毒 どく ALT? false
+assigning: 得意 とくい to 得意 とくい ALT? false
+assigning: 読書 どくしょ to 読書 どくしょ ALT? false
+assigning: 独身 どくしん to 独身 どくしん ALT? false
+assigning: 特徴 とくちょう to 特徴 とくちょう ALT? false
+assigning: 独特 どくとく to 独特 どくとく ALT? false
+assigning: 独立 どくりつ to 独立 どくりつ ALT? false
+assigning: 解ける とける to 解ける とける ALT? false
+assigning: 何処か どこか to  どこか ALT? false
+assigning: 所が ところが to  ところが ALT? false
+assigning: 所で ところで to  ところで ALT? false
+assigning: 登山 とざん to 登山 とざん ALT? false
+assigning: 都市 とし to 都市 とし ALT? false
+assigning: 年月 としつき to 年月 としつき ALT? false
+assigning: 図書 としょ to 図書 としょ ALT? false
+assigning: 年寄り としより to 年寄 としより ALT? true
+assigning: 閉じる とじる to 閉じる とじる ALT? false
+assigning: 途端 とたん to 途端 とたん ALT? false
+assigning: 土地 とち to 土地 とち ALT? false
+assigning: 突然 とつぜん to 突然 とつぜん ALT? false
+assigning:  トップ to  トップ ALT? false
+assigning: 届く とどく to 届く とどく ALT? false
+assigning: 兎に角 とにかく to  とにかく ALT? false
+assigning: 飛ばす とばす to 飛ばす とばす ALT? false
+assigning: 飛び出す とびだす to 飛び出す とびだす ALT? false
+assigning: 止める とめる to 留める とめる ALT? true
+assigning: 友 とも to 友 とも ALT? false
+assigning: 共に ともに to 共に ともに ALT? false
+assigning: 土曜 どよう to 土曜 どよう ALT? false
+assigning: 虎 とら to 虎 とら ALT? false
+assigning:  ドライブ to  ドライブ ALT? false
+assigning:  トラック to  トラック ALT? false
+assigning:  ドラマ to  ドラマ ALT? false
+assigning:  トランプ to  トランプ ALT? false
+assigning: 取り上げる とりあげる to 取り上げる とりあげる ALT? false
+assigning: 努力 どりょく to 努力 どりょく ALT? false
+assigning: 何れ どれ to どれ どれ ALT? false
+assigning:  ドレス to  ドレス ALT? false
+assigning: 取れる とれる to 取れる とれる ALT? false
+assigning: 泥 どろ to 泥 どろ ALT? false
+0 屯 トン
+1  トン
+2 東 トン
+Which is it?  トン0
+assigning: 屯 トン to  トン ALT? false
+assigning: とんでも無い とんでもない to  とんでもない ALT? false
+assigning:  どんな to  どんな ALT? false
+assigning:  どんなに to  どんなに ALT? false
+assigning:  トンネル to  トンネル ALT? false
+assigning: 名 な to 名 な ALT? false
+assigning: 内容 ないよう to 内容 ないよう ALT? false
+0 尚 なお
+1 直 なお
+Which is it?  なお0
+assigning: 尚 なお to  なお ALT? false
+assigning: 仲 なか to 仲 なか ALT? false
+assigning: 流す ながす to 流す ながす ALT? false
+assigning: 中々 なかなか to  なかなか ALT? false
+assigning: 半ば なかば to 半ば なかば ALT? false
+assigning: 仲間 なかま to 仲間 なかま ALT? false
+assigning: 眺め ながめ to 眺め ながめ ALT? false
+assigning: 眺める ながめる to 眺める ながめる ALT? false
+assigning: 流れ ながれ to 流れ ながれ ALT? false
+assigning: 流れる ながれる to 流れる ながれる ALT? false
+assigning: 無し なし to 無し なし ALT? false
+assigning: 何故なら なぜなら to  なぜなら ALT? false
+assigning: 謎 なぞ to 謎 なぞ ALT? false
+assigning: 納得 なっとく to 納得 なっとく ALT? false
+assigning: 等 など to 等 など ALT? false
+NOT FOUND 七 なな
+assigning: 何 なに to 何 なに ALT? false
+NOT FOUND 何 なん
+assigning: 何か なにか to 何か なにか ALT? false
+assigning: 何も なにも to  なにも ALT? false
+assigning: 鍋 なべ to 鍋 なべ ALT? false
+assigning: 生 なま to 生 なま ALT? false
+assigning: 怠ける なまける to 怠ける なまける ALT? false
+assigning: 波 なみ to 波 なみ ALT? false
+assigning: 涙 なみだ to 涙 なみだ ALT? false
+assigning: 悩む なやむ to 悩む なやむ ALT? false
+assigning: 成る なる to 為る なる ALT? true
+assigning: 縄 なわ to 縄 なわ ALT? false
+assigning: 何で なんで to 何で なんで ALT? false
+assigning: 何でも なんでも to 何でも なんでも ALT? false
+assigning: 何とか なんとか to 何とか なんとか ALT? false
+assigning: 似合う にあう to 似合う にあう ALT? false
+assigning: 匂い におい to 匂い におい ALT? false
+assigning: 苦手 にがて to 苦手 にがて ALT? false
+assigning: 握る にぎる to 握る にぎる ALT? false
+assigning: 日 にち to 日 にち ALT? false
+assigning: 日常 にちじょう to 日常 にちじょう ALT? false
+assigning: 日曜 にちよう to 日曜 にちよう ALT? false
+assigning: 日光 にっこう to 日光 にっこう ALT? false
+assigning: 日中 にっちゅう to 日中 にっちゅう ALT? false
+assigning:  にっこり to  にっこり ALT? false
+NOT FOUND 日本 にっぽん
+assigning: 日本 にほん to 日本 にほん ALT? false
+assigning: 入院 にゅういん to 入院 にゅういん ALT? false
+assigning: 入学 にゅうがく to 入学 にゅうがく ALT? false
+assigning: 入場 にゅうじょう to 入場 にゅうじょう ALT? false
+assigning: 人気 にんき to 人気 にんき ALT? false
+assigning: 人間 にんげん to 人間 にんげん ALT? false
+assigning: 抜く ぬく to 抜く ぬく ALT? false
+assigning: 抜ける ぬける to 抜ける ぬける ALT? false
+assigning: 布 ぬの to 布 ぬの ALT? false
+assigning: 濡れる ぬれる to 濡れる ぬれる ALT? false
+0 根 ね
+1 子 ね
+2 寝 ね
+3  ね
+4 値 ね
+Which is it?  ね3
+assigning:  ね to  ね ALT? false
+assigning: 根 ね to 根 ね ALT? false
+assigning: 値 ね to 値 ね ALT? false
+assigning: 願い ねがい to 願い ねがい ALT? false
+assigning: 願う ねがう to 願う ねがう ALT? false
+assigning: 鼠 ねずみ to 鼠 ねずみ ALT? false
+assigning: 値段 ねだん to 値段 ねだん ALT? false
+assigning: 熱心 ねっしん to 熱心 ねっしん ALT? false
+assigning: 熱帯 ねったい to 熱帯 ねったい ALT? false
+assigning: 熱中 ねっちゅう to 熱中 ねっちゅう ALT? false
+assigning: 年間 ねんかん to 年間 ねんかん ALT? false
+NOT FOUND 年月 ねんげつ
+assigning: 年中 ねんじゅう to 年中 ねんじゅう ALT? false
+assigning: 年代 ねんだい to 年代 ねんだい ALT? false
+assigning: 年齢 ねんれい to 年齢 ねんれい ALT? false
+assigning: 野 の to 野 の ALT? false
+assigning: 能 のう to 能 のう ALT? false
+assigning: 農家 のうか to 農家 のうか ALT? false
+assigning: 農業 のうぎょう to 農業 のうぎょう ALT? false
+assigning: 農民 のうみん to 農民 のうみん ALT? false
+assigning: 能力 のうりょく to 能力 のうりょく ALT? false
+assigning:  ノー to  ノー ALT? false
+assigning: 軒 のき to 軒 のき ALT? false
+assigning: 残す のこす to 残す のこす ALT? false
+assigning: 残り のこり to 残り のこり ALT? false
+assigning: 乗せる のせる to 乗せる のせる ALT? false
+assigning: 除く のぞく to 除く のぞく ALT? false
+assigning: 望み のぞみ to 望み のぞみ ALT? false
+assigning: 望む のぞむ to 望む のぞむ ALT? false
+assigning: 後 のち to 後 のち ALT? false
+assigning:  ノック to  ノック ALT? false
+assigning: 喉 のど to 喉 のど ALT? false
+assigning: 伸ばす のばす to 伸ばす のばす ALT? false
+assigning: 伸びる のびる to 伸びる のびる ALT? false
+assigning: 述べる のべる to 述べる のべる ALT? false
+assigning: 上る のぼる to 昇る のぼる ALT? true
+assigning:  のんびり to  のんびり ALT? false
+assigning: 場 ば to 場 ば ALT? false
+assigning:  はあ to  はあ ALT? false
+assigning:  パーセント to  パーセント ALT? false
+0  はい
+1 灰 はい
+2 肺 はい
+3 佩 はい
+4 拝 はい
+5 敗 はい
+6 杯 はい
+7 胚 はい
+8 輩 はい
+9 蔤 はい
+10 牌 はい
+11 排 はい
+Which is it?  はい0
+assigning:  はい to  はい ALT? false
+assigning: 灰 はい to 灰 はい ALT? false
+NOT FOUND 梅雨 ばいう
+assigning:  バイオリン to  バイオリン ALT? false
+assigning:  ハイキング to  ハイキング ALT? false
+assigning: 配達 はいたつ to 配達 はいたつ ALT? false
+assigning:  パイプ to  パイプ ALT? false
+assigning: 俳優 はいゆう to 俳優 はいゆう ALT? false
+assigning:  パイロット to  パイロット ALT? false
+assigning: 墓 はか to 墓 はか ALT? false
+assigning: 馬鹿 ばか to 馬鹿 ばか ALT? false
+assigning: 博士 はかせ to 博士 はかせ ALT? false
+assigning: 計る はかる to 計る はかる ALT? false
+assigning: 履く はく to 履く はく ALT? false
+assigning: 吐く はく to 吐く はく ALT? false
+assigning: 拍手 はくしゅ to 拍手 はくしゅ ALT? false
+assigning: 莫大 ばくだい to 莫大 ばくだい ALT? false
+assigning: 爆発 ばくはつ to 爆発 ばくはつ ALT? false
+assigning: 博物館 はくぶつかん to 博物館 はくぶつかん ALT? false
+assigning: 激しい はげしい to 激しい はげしい ALT? false
+0 鋏 はさみ
+1 螯 はさみ
+Which is it?  はさみ0
+assigning: 鋏 はさみ to  はさみ ALT? false
+assigning: 破産 はさん to 破産 はさん ALT? false
+assigning: 端 はし to 端 はし ALT? false
+assigning: 始まり はじまり to 始まり はじまり ALT? false
+assigning:  パス to  パス ALT? false
+assigning: 外す はずす to 外す はずす ALT? false
+assigning:  パスポート to  パスポート ALT? false
+assigning: 旗 はた to 旗 はた ALT? false
+assigning: 肌 はだ to 肌 はだ ALT? false
+assigning: 裸 はだか to 裸 はだか ALT? false
+assigning: 畑 はたけ to 畑 はたけ ALT? false
+assigning: 二十歳 はたち to 二十 はたち ALT? true
+assigning: 働き はたらき to 働き はたらき ALT? false
+assigning:  バッグ to  バッグ ALT? false
+assigning: 発見 はっけん to 発見 はっけん ALT? false
+assigning: 発行 はっこう to 発行 はっこう ALT? false
+assigning: 発車 はっしゃ to 発車 はっしゃ ALT? false
+assigning: 罰する ばっする to 罰する ばっする ALT? false
+assigning: 発達 はったつ to 発達 はったつ ALT? false
+assigning:  ばったり to  ばったり ALT? false
+assigning: 発展 はってん to 発展 はってん ALT? false
+assigning: 発表 はっぴょう to 発表 はっぴょう ALT? false
+assigning: 発明 はつめい to 発明 はつめい ALT? false
+assigning: 話し合う はなしあう to 話し合う はなしあう ALT? false
+assigning: 離す はなす to 離す はなす ALT? false
+assigning: 放す はなす to 放す はなす ALT? false
+assigning: 離れる はなれる to 離れる はなれる ALT? false
+assigning: 羽 はね to 羽 はね ALT? false
+assigning: 幅 はば to 幅 はば ALT? false
+assigning: 母親 ははおや to 母親 ははおや ALT? false
+assigning: 省く はぶく to 省く はぶく ALT? false
+assigning: 場面 ばめん to 場面 ばめん ALT? false
+assigning: 腹 はら to 腹 はら ALT? false
+assigning: 原 はら to 原 はら ALT? false
+assigning: 針 はり to 針 はり ALT? false
+assigning: 張る はる to 張る はる ALT? false
+assigning: 番 ばん to 番 ばん ALT? false
+0  バン
+1 ＶＡＮ バン
+Which is it?  バン 0
+assigning:  バン to  バン ALT? false
+assigning: 範囲 はんい to 範囲 はんい ALT? false
+assigning: 反抗 はんこう to 反抗 はんこう ALT? false
+assigning: 犯罪 はんざい to 犯罪 はんざい ALT? false
+assigning:  ハンサム to  ハンサム ALT? false
+assigning: 判断 はんだん to 判断 はんだん ALT? false
+assigning: 犯人 はんにん to 犯人 はんにん ALT? false
+assigning: 販売 はんばい to 販売 はんばい ALT? false
+assigning: 灯 ひ to 灯 ひ ALT? false
+assigning:  ビール to  ビール ALT? false
+assigning: 被害 ひがい to 被害 ひがい ALT? false
+assigning: 比較 ひかく to 比較 ひかく ALT? false
+assigning: 轢く ひく to 轢く ひく ALT? false
+assigning:  ピクニック to  ピクニック ALT? false
+assigning: 悲劇 ひげき to 悲劇 ひげき ALT? false
+assigning: 飛行 ひこう to 飛行 ひこう ALT? false
+assigning: 膝 ひざ to 膝 ひざ ALT? false
+assigning: 非常 ひじょう to 非常 ひじょう ALT? false
+assigning: 美人 びじん to 美人 びじん ALT? false
+assigning: 額 ひたい to 額 ひたい ALT? false
+assigning: 吃驚 びっくり to  びっくり ALT? false
+assigning: 日付 ひづけ to 日付 ひづけ ALT? false
+assigning: 必死 ひっし to 必死 ひっし ALT? false
+assigning:  ぴったり to  ぴったり ALT? false
+assigning: 引っ張る ひっぱる to 引っ張る ひっぱる ALT? false
+assigning: 否定 ひてい to 否定 ひてい ALT? false
+assigning:  ビデオ to  ビデオ ALT? false
+assigning: 一言 ひとこと to 一言 ひとこと ALT? false
+assigning: 人ごみ ひとごみ to 人込み ひとごみ ALT? true
+assigning: 等しい ひとしい to 等しい ひとしい ALT? false
+assigning: 一人 ひとり to 独り ひとり ALT? true
+assigning: 一人一人 ひとりひとり to 一人一人 ひとりひとり ALT? false
+assigning: 批判 ひはん to 批判 ひはん ALT? false
+assigning: 批評 ひひょう to 批評 ひひょう ALT? false
+assigning: 秘密 ひみつ to 秘密 ひみつ ALT? false
+assigning: 微妙 びみょう to 微妙 びみょう ALT? false
+assigning: 紐 ひも to 紐 ひも ALT? false
+assigning: 費用 ひよう to 費用 ひよう ALT? false
+assigning: 表 ひょう to 表 ひょう ALT? false
+assigning: 秒 びょう to 秒 びょう ALT? false
+assigning: 評価 ひょうか to 評価 ひょうか ALT? false
+assigning: 表現 ひょうげん to 表現 ひょうげん ALT? false
+assigning: 表情 ひょうじょう to 表情 ひょうじょう ALT? false
+assigning: 平等 びょうどう to 平等 びょうどう ALT? false
+assigning: 評判 ひょうばん to 評判 ひょうばん ALT? false
+assigning: 表面 ひょうめん to 表面 ひょうめん ALT? false
+assigning: 広がる ひろがる to 広がる ひろがる ALT? false
+assigning: 品 ひん to 品 ひん ALT? false
+assigning: 瓶 びん to 瓶 びん ALT? false
+assigning: 便 びん to 便 びん ALT? false
+0  ピン
+1 筒 ピン
+Which is it?  ピン0
+assigning:  ピン to  ピン ALT? false
+assigning: 不 ふ to 不 ふ ALT? false
+assigning: 無 ぶ to 不 ぶ ALT? true
+assigning: 分 ぶ to 分 ぶ ALT? false
+assigning: 不安 ふあん to 不安 ふあん ALT? false
+assigning: 風景 ふうけい to 風景 ふうけい ALT? false
+assigning: 夫婦 ふうふ to 夫婦 ふうふ ALT? false
+assigning: 笛 ふえ to 笛 ふえ ALT? false
+assigning: 不可 ふか to 不可 ふか ALT? false
+assigning: 武器 ぶき to 武器 ぶき ALT? false
+assigning: 服装 ふくそう to 服装 ふくそう ALT? false
+assigning: 含む ふくむ to 含む ふくむ ALT? false
+assigning: 袋 ふくろ to 袋 ふくろ ALT? false
+assigning: 不幸 ふこう to 不幸 ふこう ALT? false
+assigning: 節 ふし to 節 ふし ALT? false
+assigning: 無事 ぶじ to 無事 ぶじ ALT? false
+assigning: 不思議 ふしぎ to 不思議 ふしぎ ALT? false
+assigning: 不自由 ふじゆう to 不自由 ふじゆう ALT? false
+assigning: 夫人 ふじん to 夫人 ふじん ALT? false
+assigning: 婦人 ふじん to 婦人 ふじん ALT? false
+assigning: 不正 ふせい to 不正 ふせい ALT? false
+assigning: 防ぐ ふせぐ to 防ぐ ふせぐ ALT? false
+assigning: 不足 ふそく to 不足 ふそく ALT? false
+assigning: 舞台 ぶたい to 舞台 ぶたい ALT? false
+assigning: 双子 ふたご to 双子 ふたご ALT? false
+assigning: 再び ふたたび to 再び ふたたび ALT? false
+assigning: 普段 ふだん to 普段 ふだん ALT? false
+assigning: 縁 ふち to 縁 ふち ALT? false
+assigning: 打つ ぶつ to 打つ ぶつ ALT? false
+assigning: 物価 ぶっか to 物価 ぶっか ALT? false
+assigning: 物質 ぶっしつ to 物質 ぶっしつ ALT? false
+assigning: 物理 ぶつり to 物理 ぶつり ALT? false
+assigning: 筆 ふで to 筆 ふで ALT? false
+0 不図 ふと
+1 浮屠 ふと
+2 太 ふと
+Which is it?  ふと0
+assigning: 不図 ふと to  ふと ALT? false
+assigning: 船 ふね to 船 ふね ALT? false
+assigning: 部分 ぶぶん to 部分 ぶぶん ALT? false
+assigning: 不平 ふへい to 不平 ふへい ALT? false
+assigning: 不満 ふまん to 不満 ふまん ALT? false
+assigning:  プラス to  プラス ALT? false
+assigning:  プラン to  プラン ALT? false
+assigning: 不利 ふり to 不利 ふり ALT? false
+assigning: 振る ふる to 振る ふる ALT? false
+assigning: 震える ふるえる to 震える ふるえる ALT? false
+assigning:  ブレーキ to  ブレーキ ALT? false
+assigning: 触れる ふれる to 触れる ふれる ALT? false
+assigning: 風呂 ふろ to 風呂 ふろ ALT? false
+assigning:  プロ to  プロ ALT? false
+assigning: 分 ぶん to 分 ぶん ALT? false
+assigning: 文 ぶん to 文 ぶん ALT? false
+assigning: 雰囲気 ふんいき to 雰囲気 ふんいき ALT? false
+assigning: 分析 ぶんせき to 分析 ぶんせき ALT? false
+assigning: 文明 ぶんめい to 文明 ぶんめい ALT? false
+assigning: 分野 ぶんや to 分野 ぶんや ALT? false
+assigning: 塀 へい to 塀 へい ALT? false
+assigning: 平均 へいきん to 平均 へいきん ALT? false
+assigning: 平和 へいわ to 平和 へいわ ALT? false
+assigning: 別に べつに to 別に べつに ALT? false
+assigning: 減らす へらす to 減らす へらす ALT? false
+assigning: 減る へる to 減る へる ALT? false
+assigning:  ベルト to  ベルト ALT? false
+assigning: 変化 へんか to 変化 へんか ALT? false
+assigning:  ペンキ to  ペンキ ALT? false
+assigning: 勉強 べんきょう to 勉強 べんきょう ALT? false
+assigning: 変更 へんこう to 変更 へんこう ALT? false
+assigning:  ベンチ to  ベンチ ALT? false
+assigning: 弁当 べんとう to 弁当 べんとう ALT? false
+assigning: 方 ほう to 方 ほう ALT? false
+assigning: 法 ほう to 法 ほう ALT? false
+assigning: 棒 ぼう to 棒 ぼう ALT? false
+assigning: 冒険 ぼうけん to 冒険 ぼうけん ALT? false
+assigning: 方向 ほうこう to 方向 ほうこう ALT? false
+assigning: 報告 ほうこく to 報告 ほうこく ALT? false
+assigning: 宝石 ほうせき to 宝石 ほうせき ALT? false
+assigning: 放送 ほうそう to 放送 ほうそう ALT? false
+assigning: 豊富 ほうふ to 豊富 ほうふ ALT? false
+assigning: 方法 ほうほう to 方法 ほうほう ALT? false
+assigning: 方々 ほうぼう to 方々 ほうぼう ALT? false
+assigning: 訪問 ほうもん to 訪問 ほうもん ALT? false
+assigning: 吠える ほえる to 吠える ほえる ALT? false
+assigning:  ボーイ to  ボーイ ALT? false
+assigning:  ボート to  ボート ALT? false
+assigning:  ホーム to  ホーム ALT? false
+assigning:  ボール to  ボール ALT? false
+assigning: 他 ほか to 他 ほか ALT? false
+0 他 ほか
+1 余所 よそ
+Which is it? 外 ほか0
+assigning: 誇り ほこり to 誇り ほこり ALT? false
+assigning: 埃 ほこり to 埃 ほこり ALT? false
+assigning: 保証 ほしょう to 保証 ほしょう ALT? false
+assigning: 保存 ほぞん to 保存 ほぞん ALT? false
+assigning: 程 ほど to 程 ほど ALT? false
+assigning: 歩道 ほどう to 歩道 ほどう ALT? false
+assigning: 仏 ほとけ to 仏 ほとけ ALT? false
+assigning: 骨 ほね to 骨 ほね ALT? false
+assigning: 炎 ほのお to 炎 ほのお ALT? false
+assigning: 面 つら to 頬 ほほ ALT? true
+assigning: 頬 ほお to 頬 ほお ALT? false
+0 略 ほぼ
+1 保母 ほぼ
+Which is it?  ほぼ 0
+assigning: 略 ほぼ to  ほぼ ALT? false
+assigning: 微笑む ほほえむ to 微笑む ほほえむ ALT? false
+assigning: 褒める ほめる to 褒める ほめる ALT? false
+0 堀 ほり
+1 壕 ごう
+2 豪 ごう
+Which is it? 濠 ほり1
+assigning: 壕 ごう to 濠 ほり ALT? true
+NOT FOUND 本当 ほんと
+assigning: 本当 ほんとう to 本当 ほんとう ALT? false
+assigning: 本人 ほんにん to 本人 ほんにん ALT? false
+assigning: 本物 ほんもの to 本物 ほんもの ALT? false
+assigning:  ぼんやり to  ぼんやり ALT? false
+assigning: 間 ま to 間 ま ALT? false
+assigning:  まあ to  まあ ALT? false
+assigning:  マーケット to  マーケット ALT? false
+assigning:  マイク to  マイク ALT? false
+assigning: 迷子 まいご to 迷子 まいご ALT? false
+assigning: 任せる まかせる to 任せる まかせる ALT? false
+assigning: 幕 まく to 幕 まく ALT? false
+assigning: 負け まけ to 負け まけ ALT? false
+assigning: 孫 まご to 孫 まご ALT? false
+assigning: 真逆 まさか to  まさか ALT? false
+assigning: 正に まさに to  まさに ALT? false
+assigning: 真面目 まじめ to 真面目 まじめ ALT? false
+assigning: 増す ます to 増す ます ALT? false
+assigning: 先ず まず to 先ず まず ALT? false
+assigning: 貧しい まずしい to 貧しい まずしい ALT? false
+assigning:  マスター to  マスター ALT? false
+assigning: 益々 ますます to  ますます ALT? false
+assigning: 又 また to 又 また ALT? false
+assigning: 未だ まだ to 未だ まだ ALT? false
+assigning: 町 まち to 街 まち ALT? true
+assigning: 間違い まちがい to 間違い まちがい ALT? false
+assigning: 松 まつ to 松 まつ ALT? false
+assigning: 真っ赤 まっか to 真っ赤 まっか ALT? false
+assigning: 真っ直ぐ まっすぐ to 真っ直ぐ まっすぐ ALT? false
+assigning: 全く まったく to 全く まったく ALT? false
+assigning: 祭 まつり to 祭 まつり ALT? false
+assigning: 学ぶ まなぶ to 学ぶ まなぶ ALT? false
+assigning: 真似 まね to 真似 まね ALT? false
+assigning: 招く まねく to 招く まねく ALT? false
+assigning:  ママ to  ママ ALT? false
+assigning: 豆 まめ to 豆 まめ ALT? false
+assigning: 守る まもる to 守る まもる ALT? false
+assigning: 丸 まる to 丸 まる ALT? false
+assigning: 丸い まるい to 丸い まるい ALT? false
+assigning: 丸で まるで to  まるで ALT? false
+assigning: 回す まわす to 回す まわす ALT? false
+assigning: 回り まわり to 回り まわり ALT? false
+assigning: 万一 まんいち to 万一 まんいち ALT? false
+assigning: 満足 まんぞく to 満足 まんぞく ALT? false
+assigning: 身 み to 身 み ALT? false
+assigning: 実 み to 実 み ALT? false
+assigning: 見送り みおくり to 見送り みおくり ALT? false
+assigning: 味方 みかた to 味方 みかた ALT? false
+assigning: 見事 みごと to 見事 みごと ALT? false
+0  ミス
+1 ＭＩＳ ミス
+Which is it?  ミス0
+assigning:  ミス to  ミス ALT? false
+assigning: 満ちる みちる to 満ちる みちる ALT? false
+assigning: 密 みつ to 密 みつ ALT? false
+assigning: 認める みとめる to 認める みとめる ALT? false
+assigning: 皆 みんな to 皆 みんな ALT? false
+assigning: 見舞い みまい to 見舞い みまい ALT? false
+assigning: 土産 みやげ to 土産 みやげ ALT? false
+assigning: 都 みやこ to 都 みやこ ALT? false
+assigning: 妙 みょう to 妙 みょう ALT? false
+NOT FOUND 明後日 みょうごにち
+assigning: 未来 みらい to 未来 みらい ALT? false
+assigning: 魅力 みりょく to 魅力 みりょく ALT? false
+assigning: 見る みる to 見る みる ALT? false
+assigning:  ミルク to  ミルク ALT? false
+assigning: 無 む to 無 む ALT? false
+assigning: 向い むかい to 向かい むかい ALT? true
+assigning: 迎え むかえ to 迎え むかえ ALT? false
+assigning: 向く むく to 向く むく ALT? false
+assigning: 向ける むける to 向ける むける ALT? false
+assigning: 無視 むし to 無視 むし ALT? false
+assigning: 虫歯 むしば to 虫歯 むしば ALT? false
+assigning: 寧ろ むしろ to 寧ろ むしろ ALT? false
+assigning: 結ぶ むすぶ to 結ぶ むすぶ ALT? false
+assigning: 無駄 むだ to 無駄 むだ ALT? false
+assigning: 夢中 むちゅう to 夢中 むちゅう ALT? false
+assigning: 胸 むね to 胸 むね ALT? false
+assigning: 無料 むりょう to 無料 むりょう ALT? false
+assigning: 芽 め to 芽 め ALT? false
+assigning: 明確 めいかく to 明確 めいかく ALT? false
+assigning: 命じる めいじる to 命じる めいじる ALT? false
+assigning: 名人 めいじん to 名人 めいじん ALT? false
+assigning: 命令 めいれい to 命令 めいれい ALT? false
+assigning: 迷惑 めいわく to 迷惑 めいわく ALT? false
+assigning: 飯 めし to 飯 めし ALT? false
+assigning: 滅多に めったに to 滅多に めったに ALT? false
+assigning:  メモ to  メモ ALT? false
+assigning: 面 めん to 面 めん ALT? false
+assigning: 綿 めん to 綿 めん ALT? false
+assigning: 免許 めんきょ to 免許 めんきょ ALT? false
+assigning: 面倒 めんどう to 面倒 めんどう ALT? false
+assigning:  メンバー to  メンバー ALT? false
+assigning: 申し込む もうしこむ to 申し込む もうしこむ ALT? false
+assigning: 申し訳 もうしわけ to 申し訳 もうしわけ ALT? false
+assigning: 毛布 もうふ to 毛布 もうふ ALT? false
+assigning: 燃える もえる to 燃える もえる ALT? false
+assigning: 目的 もくてき to 目的 もくてき ALT? false
+assigning: 目標 もくひょう to 目標 もくひょう ALT? false
+assigning: 木曜 もくよう to 木曜 もくよう ALT? false
+assigning: 文字 もじ to 文字 もじ ALT? false
+NOT FOUND 文字 もんじ
+assigning: 若しも もしも to  もしも ALT? false
+assigning: 持ち上げる もちあげる to 持ち上げる もちあげる ALT? false
+assigning: 用いる もちいる to 用いる もちいる ALT? false
+assigning: 勿論 もちろん to 勿論 もちろん ALT? false
+assigning: 最も もっとも to 最も もっとも ALT? false
+assigning: 尤も もっとも to 尤も もっとも ALT? false
+0 元 もと
+1 元 もと
+Which is it? 元 もと0
+assigning: 元 もと to 元 もと ALT? false
+assigning: 戻す もどす to 戻す もどす ALT? false
+assigning: 基づく もとづく to 基づく もとづく ALT? false
+assigning: 求める もとめる to 求める もとめる ALT? false
+assigning: 者 もの to 者 もの ALT? false
+assigning: 物音 ものおと to 物音 ものおと ALT? false
+assigning: 物語 ものがたり to 物語 ものがたり ALT? false
+assigning: 物事 ものごと to 物事 ものごと ALT? false
+assigning: 模様 もよう to 模様 もよう ALT? false
+assigning: 貰う もらう to 貰う もらう ALT? false
+assigning: 文句 もんく to 文句 もんく ALT? false
+assigning: 軈て やがて to  やがて ALT? false
+assigning: 役 やく to 役 やく ALT? false
+assigning: 約 やく to 約 やく ALT? false
+assigning: 訳 やく to 訳 やく ALT? false
+assigning: 役割 やくわり to 役割 やくわり ALT? false
+assigning: 家賃 やちん to 家賃 やちん ALT? false
+assigning: 厄介 やっかい to 厄介 やっかい ALT? false
+assigning: 宿 やど to 宿 やど ALT? false
+assigning: 雇う やとう to 雇う やとう ALT? false
+assigning: 屋根 やね to 屋根 やね ALT? false
+assigning: 矢張り やはり to  やはり ALT? false
+assigning: 破る やぶる to 破る やぶる ALT? false
+assigning: 辞める やめる to 辞める やめる ALT? false
+0 稍 やや
+1  やや
+2 稚 やや
+Which is it?  やや1
+assigning:  やや to  やや ALT? false
+assigning: 唯一 ゆいいつ to 唯一 ゆいいつ ALT? false
+assigning: 勇気 ゆうき to 勇気 ゆうき ALT? false
+assigning: 有効 ゆうこう to 有効 ゆうこう ALT? false
+assigning: 優秀 ゆうしゅう to 優秀 ゆうしゅう ALT? false
+assigning: 優勝 ゆうしょう to 優勝 ゆうしょう ALT? false
+assigning: 友情 ゆうじょう to 友情 ゆうじょう ALT? false
+assigning: 友人 ゆうじん to 友人 ゆうじん ALT? false
+assigning: 有能 ゆうのう to 有能 ゆうのう ALT? false
+assigning: 郵便 ゆうびん to 郵便 ゆうびん ALT? false
+assigning: 夕べ ゆうべ to 夕べ ゆうべ ALT? false
+assigning:  ユーモア to  ユーモア ALT? false
+assigning: 有利 ゆうり to 有利 ゆうり ALT? false
+assigning: 床 ゆか to 床 ゆか ALT? false
+assigning: 愉快 ゆかい to 愉快 ゆかい ALT? false
+assigning: 輸出 ゆしゅつ to 輸出 ゆしゅつ ALT? false
+assigning: 譲る ゆずる to 譲る ゆずる ALT? false
+assigning: 豊か ゆたか to 豊か ゆたか ALT? false
+assigning:  ゆっくり to  ゆっくり ALT? false
+assigning: 輸入 ゆにゅう to 輸入 ゆにゅう ALT? false
+assigning: 許す ゆるす to 許す ゆるす ALT? false
+NOT FOUND 夜 よ
+assigning: 夜明け よあけ to 夜明け よあけ ALT? false
+assigning: 様 よう to 様 よう ALT? false
+assigning: 酔う よう to 酔う よう ALT? false
+assigning: 容易 ようい to 容易 ようい ALT? false
+assigning: 陽気 ようき to 陽気 ようき ALT? false
+assigning: 要求 ようきゅう to 要求 ようきゅう ALT? false
+assigning: 用心 ようじん to 用心 ようじん ALT? false
+assigning: 様子 ようす to 様子 ようす ALT? false
+assigning: 要するに ようするに to 要するに ようするに ALT? false
+assigning: 要素 ようそ to 要素 ようそ ALT? false
+assigning: 要点 ようてん to 要点 ようてん ALT? false
+assigning: 曜日 ようび to 曜日 ようび ALT? false
+assigning: 欧羅巴 ヨーロッパ to  ヨーロッパ ALT? false
+assigning: 予期 よき to 予期 よき ALT? false
+assigning: 横切る よこぎる to 横切る よこぎる ALT? false
+assigning: 予算 よさん to 予算 よさん ALT? false
+assigning: 止す よす to 止す よす ALT? false
+assigning: 予測 よそく to 予測 よそく ALT? false
+assigning:  ヨット to  ヨット ALT? false
+assigning: 夜中 よなか to 夜中 よなか ALT? false
+assigning: 世の中 よのなか to 世の中 よのなか ALT? false
+assigning: 余分 よぶん to 余分 よぶん ALT? false
+assigning: 予報 よほう to 予報 よほう ALT? false
+assigning: 予防 よぼう to 予防 よぼう ALT? false
+assigning: 読み よみ to 読み よみ ALT? false
+assigning: 嫁 よめ to 嫁 よめ ALT? false
+assigning: 余裕 よゆう to 余裕 よゆう ALT? false
+0  より
+1 縒り より
+2 寄り より
+3 選り より
+Which is it?  よりnext
+assigning:  より to  より ALT? false
+assigning: 依ると よると to  よると ALT? false
+assigning: 喜び よろこび to 喜び よろこび ALT? false
+assigning: 宜しい よろしい to 宜しい よろしい ALT? false
+0 宜しく よろしく
+1 夜露死苦 よろしく
+Which is it?  よろしく0
+assigning: 宜しく よろしく to  よろしく ALT? false
+NOT FOUND 四 よん
+assigning: 来 らい to 来 らい ALT? false
+assigning:  ライター to  ライター ALT? false
+assigning: 楽 らく to 楽 らく ALT? false
+assigning:  ラケット to  ラケット ALT? false
+assigning: 利益 りえき to 利益 りえき ALT? false
+assigning: 理解 りかい to 理解 りかい ALT? false
+assigning: 陸 りく to 陸 りく ALT? false
+assigning: 利口 りこう to 利口 りこう ALT? false
+assigning: 離婚 りこん to 離婚 りこん ALT? false
+assigning: 理想 りそう to 理想 りそう ALT? false
+assigning: 率 りつ to 率 りつ ALT? false
+assigning: 立派 りっぱ to 立派 りっぱ ALT? false
+assigning: 留学 りゅうがく to 留学 りゅうがく ALT? false
+assigning: 流行 りゅうこう to 流行 りゅうこう ALT? false
+assigning: 量 りょう to 量 りょう ALT? false
+assigning: 両替 りょうがえ to 両替 りょうがえ ALT? false
+assigning: 料金 りょうきん to 料金 りょうきん ALT? false
+assigning: 例 れい to 例 れい ALT? false
+assigning: 礼 れい to 礼 れい ALT? false
+assigning: 礼儀 れいぎ to 礼儀 れいぎ ALT? false
+assigning: 冷静 れいせい to 冷静 れいせい ALT? false
+assigning: 列 れつ to 列 れつ ALT? false
+assigning: 列車 れっしゃ to 列車 れっしゃ ALT? false
+assigning:  レポート to  レポート ALT? false
+assigning: 練習 れんしゅう to 練習 れんしゅう ALT? false
+assigning: 連想 れんそう to 連想 れんそう ALT? false
+assigning: 連続 れんぞく to 連続 れんぞく ALT? false
+assigning: 老人 ろうじん to 老人 ろうじん ALT? false
+assigning: 労働 ろうどう to 労働 ろうどう ALT? false
+assigning:  ロケット to  ロケット ALT? false
+assigning: 論じる ろんじる to 論じる ろんじる ALT? false
+assigning: 論争 ろんそう to 論争 ろんそう ALT? false
+assigning: 論文 ろんぶん to 論文 ろんぶん ALT? false
+assigning: 輪 わ to 輪 わ ALT? false
+assigning:  ワイン to  ワイン ALT? false
+assigning: 我が儘 わがまま to  わがまま ALT? false
+assigning: 別れ わかれ to 別れ わかれ ALT? false
+assigning: 脇 わき to 脇 わき ALT? false
+assigning: 分ける わける to 分ける わける ALT? false
+assigning: 態と わざと to  わざと ALT? false
+assigning: 僅か わずか to 僅か わずか ALT? false
+assigning: 綿 わた to 綿 わた ALT? false
+assigning: 話題 わだい to 話題 わだい ALT? false
+assigning: 笑い わらい to 笑い わらい ALT? false
+assigning: 割る わる to 割る わる ALT? false
+NOT FOUND 悪口 わるくち
+assigning: 我々 われわれ to 我々 われわれ ALT? false
+assigning: 湾 わん to 湾 わん ALT? false
+unknown tokens of size 0: []
+2018-09-10 22:29:16 -0700: Done
+siena jmdict $

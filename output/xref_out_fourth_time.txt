@@ -1,0 +1,2042 @@
+2018-09-03 16:57:36 -0700: File: /Users/siena/workspace/nanodegree/capstone/jmdict_to_sqlite/jmdict/app/models/cross_reference_adder.rb
+CrossReference.count: 24884
+
+created xref: やまびこ | skips-most-stations Tōhoku-line Shinkansen | 94073 | 95876
+
+xref: どこ・1 94085 there (place physically distant from both speaker and listener);over there;that place;yonder;you-know-where
+** no alternates/entry found
+
+xref: そこ・1 94085 there (place physically distant from both speaker and listener);over there;that place;yonder;you-know-where
+** no alternates/entry found
+
+xref: あれほど 94087 that far (something psychologically distant from both speaker and listener);that much;that point
+** no alternates/entry found
+
+xref: 何れ・1 94109 that (indicating something distant from both speaker and listener (in space, time or psychologically), or something understood without naming it directly)
+** no alternates/entry found
+
+xref: おにぎり 94260 rice ball
+** no alternates/entry found
+
+xref: 仕舞い・1 94272 the end;closing;being done for
+** no alternates/entry found
+
+xref: 猪口・1 94342 sake cup
+** no alternates/entry found
+
+xref: おばあさん・2 94356 old maid;frump;hag;old woman
+** no alternates/entry found
+
+created xref: がりがり・3 | very skinny;emaciated;all skin and bones | 94492 | 115736
+
+created xref: ああ | like that (used for something or someone distant from both speaker and listener);so | 94638 | 212228
+
+created xref: ひかり | Hikari;high-speed Tōkaidō and Sanyō-line Shinkansen train service (faster than Kodama; slower than Nozomi) | 94651 | 95508
+
+created xref: のぞみ | Nozomi;fastest Tōkaidō and Sanyō-line Shinkansen train service (stopping only at largest stations) | 94651 | 95419
+
+xref: こちら・1 94663 this way;here
+** no alternates/entry found
+
+created xref: あんな | such (about something or someone distant from both speaker and listener, or about a situation unfamiliar to both speaker and listener);so;that;sort of | 94720 | 94116
+
+created xref: では | then;well;so;well then | 94857 | 95212
+
+created xref: で・1 | indicates location of action;at;in | 94858 | 206416
+
+created xref: で・2 | indicates time of action | 94858 | 206417
+
+created xref: で・3 | indicates means of action;cause of effect;by | 94858 | 206418
+
+created xref: で・4 | and then;so | 94858 | 206419
+
+created xref: は | topic marker particle | 94858 | 206388
+
+created xref: だ・1 | be;is | 94859 | 212667
+
+created xref: ざる | not;un- | 94950 | 213556
+
+xref: 何れ・1 95013 that (indicating an item or person near the listener, the action of the listener, or something on their mind);it
+** no alternates/entry found
+
+created xref: あんな | such (about something or someone distant from both speaker and listener, or about a situation unfamiliar to both speaker and listener);so;that;sort of | 95032 | 94116
+
+created xref: しか | only;nothing but | 95059 | 94802
+
+created xref: だ・1 | be;is | 95067 | 212667
+
+xref: ちょっと・1 95132 a little;for a moment;a short while;just a minute
+** no alternates/entry found
+
+created xref: のめる | to fall forward | 95193 | 95429
+
+created xref: だ・1 | be;is | 95202 | 212667
+
+xref: それでは 95212 then;well;so;well then
+** no alternates/entry found
+
+created xref: とする・1 | to try to ...;to be about to do ... | 95242 | 217520
+
+created xref: ああ | like that (used for something or someone distant from both speaker and listener);so | 95280 | 212228
+
+xref: どうしても 95295 in spite of oneself;try as one might;no matter how hard one may try (to, not to)
+** no alternates/entry found
+
+xref: どれも 95333 whichever;any
+** no alternates/entry found
+
+xref: どれどれ・2 95334 well;now;let me see
+** no alternates/entry found
+
+created xref: あんな | such (about something or someone distant from both speaker and listener, or about a situation unfamiliar to both speaker and listener);so;that;sort of | 95343 | 94116
+
+xref: それなら 95363 if that's the case;if so;that being the case
+** no alternates/entry found
+
+xref: について・1 95403 regarding
+** no alternates/entry found
+
+xref: について・2 95404 per;apiece
+** no alternates/entry found
+
+created xref: こだま | Kodama;slowest Tōkaidō and Sanyō-line Shinkansen train service (stopping at all stations) | 95419 | 94651
+
+created xref: ひかり | Hikari;high-speed Tōkaidō and Sanyō-line Shinkansen train service (faster than Kodama; slower than Nozomi) | 95419 | 95508
+
+created xref: こだま | Kodama;slowest Tōkaidō and Sanyō-line Shinkansen train service (stopping at all stations) | 95508 | 94651
+
+created xref: のぞみ | Nozomi;fastest Tōkaidō and Sanyō-line Shinkansen train service (stopping only at largest stations) | 95508 | 95419
+
+xref: 通し・1 95620 continuous;nonstop;consecutive;ceaseless
+** no alternates/entry found
+
+created xref: ぼつぼつ・1 | gradually;little by little;in a breezy manner | 95726 | 95730
+
+xref: まごつく 95779 confused;flustered;at a loss
+** no alternates/entry found
+
+xref: ままならない 95786 beyond one's control
+** no alternates/entry found
+
+xref: ままならぬ 95787 unable to have one's way with
+** no alternates/entry found
+
+xref: すでに 95821 already;yet;by now;(not) anymore
+** no alternates/entry found
+
+xref: かつら 97130 wig
+** no alternates/entry found
+
+xref: アイルランド・1 97289 Eire;Ireland
+** no alternates/entry found
+
+xref: カミツレ 98442 German chamomile (Matricaria recutita);German camomile
+** no alternates/entry found
+
+created xref: ロー・4 | row | 98470 | 109748
+
+xref: うどん 98518 curry udon;udon with curry sauce
+** no alternates/entry found
+
+xref: ゴム・1 98644 gum;rubber
+** no alternates/entry found
+
+xref: キログラム 98891 kilogram;kilogramme
+** no alternates/entry found
+
+xref: キロメートル 98892 kilometre;kilometer
+** no alternates/entry found
+
+created xref: タン | tongue of beef, pork, etc. | 99624 | 102451
+
+created xref: ラップ・1 | cling film;plastic wrap;cling wrap | 100497 | 108975
+
+xref: バックス・1 106059 forward
+** no alternates/entry found
+
+created xref: スナップ・3 | snap fastener;press stud | 107265 | 101935
+
+created xref: まい | probably isn't (doesn't, won't, etc.) | 107833 | 225324
+
+xref: メートル・1 108313 metre (i.e. 100 cm);meter
+** no alternates/entry found
+
+xref: メリケン・1 108459 wheat flour
+** no alternates/entry found
+
+created xref: ランプ・3 | rump | 109057 | 109107
+
+xref: 歌詞 109430 lyrics
+** no alternates/entry found
+
+xref: ロサンゼルス 109873 Los Angeles
+** no alternates/entry found
+
+xref: ロムる 109937 lurker (on a forum);read-only member
+** no alternates/entry found
+
+xref: めかけ 110216 beloved concubine;favourite concubine (e.g. of the shogun)
+** no alternates/entry found
+
+xref: おしん 110353 evil thought;malicious motive
+** no alternates/entry found
+
+xref: あくしん 110354 nausea;urge to vomit
+** no alternates/entry found
+
+created xref: とする・1 | to try to ...;to be about to do ... | 111007 | 217520
+
+xref: たがえる・1 111225 to fail to keep (e.g. one's promise)
+** no alternates/entry found
+
+xref: たがえる・2 111225 to fail to keep (e.g. one's promise)
+** no alternates/entry found
+
+created xref: ワン・1 | one | 111424 | 110039
+
+xref: 着・1 111925 suit of clothes
+** no alternates/entry found
+
+xref: において 113642 at;in;on
+** no alternates/entry found
+
+xref: ではない 114740 nothing of the sort;not at all
+** no alternates/entry found
+
+xref: かきね 116674 fence;hedge;barrier;wall;railing
+** no alternates/entry found
+
+created xref: さ・1 | -ness | 117394 | 206471
+
+created xref: ミス・1 | mistake;error;failure | 117979 | 108134
+
+xref: 大韓民国 118083 South Korea;Republic of Korea
+** no alternates/entry found
+
+xref: 妹 119247 younger stepsister;younger adopted sister;non-blood-related younger sister
+** no alternates/entry found
+
+xref: 正気 120603 madness;insanity
+** no alternates/entry found
+
+xref: おむすび 122698 rice ball
+** no alternates/entry found
+
+xref: 袴 124211 ceremony fitting child with a hakama
+** no alternates/entry found
+
+xref: 幣 124578 staff with plaited paper streamers
+** no alternates/entry found
+
+xref: おめでたい・1 124590 congratulations!;an auspicious occasion!
+** no alternates/entry found
+
+xref: 腰・1 124593 buttocks;lower back;waist;hips
+** no alternates/entry found
+
+xref: 白・1 126523 black
+** no alternates/entry found
+
+xref: すみません・1 127450 to feel unease or guilt for troubling someone;to be sorry
+** no alternates/entry found
+
+xref: くだけた・2 127465 to become less formal;to throw off reserve;to become affable
+** no alternates/entry found
+
+xref: くだけた・1 127466 to become easy to understand (e.g. a story)
+** no alternates/entry found
+
+xref: 白菜 127540 greens;vegetable leaves;leaf vegetable
+** no alternates/entry found
+
+xref: 平城 128383 mountain castle
+** no alternates/entry found
+
+xref: 雄 129592 female (animal)
+** no alternates/entry found
+
+created xref: しゃり | sushi rice;rice seasoned with vinegar, sugar and salt | 130639 | 94831
+
+xref: おぬし 131012 you
+** no alternates/entry found
+
+xref: 十 132133 10;ten
+** no alternates/entry found
+
+xref: にしたがって 132280 therefore;consequently;accordingly
+** no alternates/entry found
+
+xref: 名主 133976 village headman
+** no alternates/entry found
+
+xref: まっさかさま 135828 headlong;head over heels
+** no alternates/entry found
+
+xref: 石・2 138954 large junk, with capacity for 1,000 koku of rice
+** no alternates/entry found
+
+xref: 貫・2 139360 one-thousandth of a kan (as a unit of currency)
+** no alternates/entry found
+
+created xref: タイ | tie | 141586 | 102375
+
+xref: だいじょうぶ・1 141954 safe;OK
+** no alternates/entry found
+
+xref: 短・1 143891 merit;strong point
+** no alternates/entry found
+
+xref: 短・2 143893 major
+** no alternates/entry found
+
+xref: にわたって 145713 to extend;to cover;to range;to span
+** no alternates/entry found
+
+xref: ないうちに 147343 while
+** no alternates/entry found
+
+created xref: が・1 | indicates sentence subject (occasionally object) | 148743 | 206391
+
+xref: しょってる 149122 to be conceited;to think highly of oneself
+** no alternates/entry found
+
+xref: 仲人・1 149185 matchmaker;go-between
+** no alternates/entry found
+
+xref: 礼服 153313 ordinary clothes;everyday attire;plain clothes;civilian clothes
+** no alternates/entry found
+
+xref: 壷・つぼ・1 153880 night-soil vault;clay pot used to collect feces in an outhouse
+** too many alternates
+*** alternates.count 2
+*** alternates.map ids [118575, 190398]
+
+xref: 白熊 154851 polar bear (Ursus maritimus)
+** no alternates/entry found
+
+xref: しもべ 154901 manservant
+** no alternates/entry found
+
+xref: おおよそ・1 155163 about;roughly;approximately
+** no alternates/entry found
+
+xref: ごとに 155302 each;every
+** no alternates/entry found
+
+xref: のちに 155372 finally;after;following
+** no alternates/entry found
+
+xref: またとない 155844 unique
+** no alternates/entry found
+
+created xref: ない・1 | not | 155846 | 230474
+
+xref: めっちゃ 155985 very;extremely;excessively
+** no alternates/entry found
+
+xref: 鋒先・ほさき・2 156048 point of spear;spearhead
+** too many alternates
+*** alternates.count 2
+*** alternates.map ids [126398, 127966]
+
+created xref: なる・1 | that is in | 156698 | 217670
+
+xref: どおり・1 157484 as expected;predictably;not surprisingly
+** no alternates/entry found
+
+xref: めちゃくちゃ・3 158164 to throw out of order;to disarrange;to disturb
+** no alternates/entry found
+
+xref: たわごと 160970 talking in delirium;incoherent muttering
+** no alternates/entry found
+
+xref: ぶる・1 161193 woman or girl who acts cute by playing innocent and helpless
+** no alternates/entry found
+
+xref: ついたち・1 161362 first day of the month
+** no alternates/entry found
+
+xref: なにびと 161471 (no matter) who;everyone;anyone
+** no alternates/entry found
+
+xref: 傾く・1 161616 to incline toward;to slant;to lurch;to heel over;to be disposed to;to trend toward;to be prone to
+** no alternates/entry found
+
+xref: 傾く・2 161617 to go down (sun);to wane;to sink;to decline
+** no alternates/entry found
+
+xref: ころがる・1 162213 to roll;to tumble
+** no alternates/entry found
+
+xref: あまりに 162617 too much;excessively;overly
+** no alternates/entry found
+
+xref: ねじ・1 162634 screw
+** no alternates/entry found
+
+xref: つくづく・1 162702 carefully;attentively;profoundly;deeply;at length
+** no alternates/entry found
+
+xref: いろっぽい 162861 charming;bewitching;mysterious
+** no alternates/entry found
+
+xref: うらぼん 163098 Bon festival;Feast of Lanterns;Buddhist ceremony held on July 15;ullambana
+** no alternates/entry found
+
+xref: 雌 163203 male (animal)
+** no alternates/entry found
+
+xref: 下り物 163274 to be passed (from the body; e.g. of a roundworm)
+** no alternates/entry found
+
+xref: なかぐろ 163698 middle dot;interpunct
+** no alternates/entry found
+
+created xref: しめる | to make;to let | 163983 | 217694
+
+xref: 台・5 164092 the teens (10-19);teenage
+** no alternates/entry found
+
+created xref: いい・1 | good;excellent;fine;nice;pleasant;agreeable | 165578 | 287059
+
+created xref: いい・2 | sufficient (can be used to turn down an offer);ready;prepared | 165579 | 287060
+
+created xref: いい・3 | profitable (e.g. deal, business offer, etc.);beneficial | 165580 | 287061
+
+created xref: いい・4 | OK | 165581 | 287062
+
+xref: よそにする 165604 unrelated matter
+** no alternates/entry found
+
+xref: おめでたい・1 165915 happy;auspicious;propitious;joyous
+** no alternates/entry found
+
+xref: おめでたい・2 165916 naive
+** no alternates/entry found
+
+xref: かつら 166030 wig;hairpiece
+** no alternates/entry found
+
+xref: とどのつまり 166156 end;conclusion
+** no alternates/entry found
+
+xref: 饅頭 166170 filling (e.g. of a manjū)
+** no alternates/entry found
+
+xref: おはこ・1 167184 one's special talent
+** no alternates/entry found
+
+xref: おまえ・2 167686 presence (of a nobleman, the emperor, etc.)
+** no alternates/entry found
+
+created xref: だ・1 | be;is | 168014 | 212667
+
+xref: 何れ・1 168017 this (indicating an item near the speaker, the action of the speaker, or the current topic)
+** no alternates/entry found
+
+created xref: おい・1 | hey!;oi!;ahoy! | 168375 | 94188
+
+created xref: とろみ | thickness (e.g. of a sauce, oil, etc.);viscosity | 168441 | 209397
+
+created xref: どう | whoa (command used to stop a horse, etc.) | 168447 | 230219
+
+xref: めでたい・1 170051 special;auspicious;happy
+** no alternates/entry found
+
+xref: めでたい・2 170052 naive;innocent;good-natured;gullible;foolish
+** no alternates/entry found
+
+xref: 青眼・2 170404 cold, unwelcoming eyes
+** too many alternates
+*** alternates.count 2
+*** alternates.map ids [113057, 183259]
+
+xref: ざいこくしゅう 171080 daimyo who did not leave his domains to meet the shogun in Kyoto (during the Muromachi period)
+** no alternates/entry found
+
+xref: 猫・6 171272 submissive partner of a homosexual relationship
+** no alternates/entry found
+
+xref: みやげ 175613 present;souvenir
+** no alternates/entry found
+
+xref: 夏日・2 175885 day on which the temperature rises above 30 degrees Celsius
+** no alternates/entry found
+
+xref: もてなし 176138 entertainment;treatment;reception
+** no alternates/entry found
+
+xref: のっぺらぼう・3 179505 faceless ghost with an eye in its rump
+** no alternates/entry found
+
+xref: ユーエイチティー 181216 pasteurization (at a low temperature);pasteurisation
+** no alternates/entry found
+
+xref: ゆもじ・1 182802 women's waistcloth;loincloth
+** no alternates/entry found
+
+xref: 大人 183884 adult
+** no alternates/entry found
+
+xref: かやぶき 187211 thatching;thatch;thatched roof
+** no alternates/entry found
+
+xref: 麸・ふ 188414 nama-fu;wheat gluten mixed with rice flour and steamed in large blocks
+** too many alternates
+*** alternates.count 2
+*** alternates.map ids [132117, 207598]
+
+xref: 鰻 189492 fry of the Japanese anchovy, eel, etc.
+** no alternates/entry found
+
+xref: どぶろく 189538 doburoku (unrefined sake)
+** no alternates/entry found
+
+xref: 便所 189659 toilet;lavatory
+** no alternates/entry found
+
+xref: すきやき 189933 thin slices of beef, cooked with various vegetables in a table-top cast-iron pan;sukiyaki
+** no alternates/entry found
+
+xref: いけにえ・1 190685 offering;sacrifice
+** no alternates/entry found
+
+xref: ネコ目 192956 Carnivora
+** no alternates/entry found
+
+xref: グレートブリテン 193657 Great Britain (island)
+** no alternates/entry found
+
+xref: グレートブリテン 193658 Great Britain (island)
+** no alternates/entry found
+
+xref: ふとんかご 198734 gabion;cage filled with stones
+** no alternates/entry found
+
+xref: ウィンナコーヒー 199474 Vienna coffee
+** no alternates/entry found
+
+xref: とんでもない・1 201909 unthinkable;unexpected;outrageous;offensive
+** no alternates/entry found
+
+xref: おかず・1 201949 vegetables that accompany rice (secret language of court ladies)
+** no alternates/entry found
+
+created xref: うん・2 | hum;hmmm;well;erm | 203644 | 94170
+
+created xref: うん・3 | oof | 203646 | 94171
+
+xref: がざみ 204062 swimming crab (Portunus trituberculatus);Japanese blue crab
+** no alternates/entry found
+
+xref: どうして 204227 thus;in this way
+** no alternates/entry found
+
+xref: そうして 204227 thus;in this way
+** no alternates/entry found
+
+created xref: ぽっくり・1 | (dying) suddenly | 204232 | 209169
+
+xref: しでかす 204450 to fail;to blunder;to make a mess;to perpetrate;to do
+** no alternates/entry found
+
+xref: おかあさん・1 205119 mother;mom;mum;mama
+** no alternates/entry found
+
+created xref: ミス・1 | mistake;error;failure | 205180 | 108134
+
+xref: めでたい 205223 very ...
+** no alternates/entry found
+
+xref: うまい・2 205423 delicious
+** no alternates/entry found
+
+created xref: けり | indicates recollection or realization (i.e. of hearsay or the past);can form a poetic past tense | 205998 | 212734
+
+created xref: ミス・1 | mistake;error;failure | 206047 | 108134
+
+created xref: か・1 | yes?;no?;isn't it?;is it? | 206193 | 206409
+
+created xref: だ・1 | be;is | 206193 | 212667
+
+created xref: つつ・1 | while | 206287 | 95177
+
+created xref: もう・3 | further;more;again;another;the other | 206399 | 95822
+
+created xref: だ・1 | be;is | 206403 | 212667
+
+created xref: とか | among other things;such things as;or something like that | 206412 | 95233
+
+created xref: て | indicates continuing action | 206420 | 270039
+
+created xref: よ・1 | hey;you | 206421 | 206458
+
+created xref: が・1 | indicates sentence subject (occasionally object) | 206437 | 206391
+
+created xref: が・2 | indicates possessive (esp. in literary expressions) | 206437 | 206392
+
+created xref: が・3 | but;however;still;and | 206437 | 206393
+
+created xref: たる | (those) who are;(that) which is;often used in relation to qualifications and requirements for a position;in the capacity of | 206449 | 213006
+
+created xref: ない・1 | not | 206457 | 230474
+
+created xref: さえ | even;if only;if just;as long as;the only thing needed | 206999 | 94752
+
+created xref: ない・1 | not | 207286 | 230474
+
+created xref: ゆとり | elbowroom;leeway;room;reserve;margin;allowance;latitude;time | 207454 | 95909
+
+xref: 仲人・ちゅうにん・1 209557 go-between;intermediary;middleman;mediator;intercessor
+** no alternates/entry found
+
+xref: 難い 209718 difficult;hard
+** no alternates/entry found
+
+xref: ぶちあける・2 209747 to speak frankly;to put things bluntly
+** no alternates/entry found
+
+xref: ごわごわ 210120 to be stiff;to be starchy
+** no alternates/entry found
+
+xref: 期す・1 210139 to fix (a time, date, etc.);to set
+** no alternates/entry found
+
+xref: 期す・2 210140 to expect;to hope for;to look forward to;to foresee;to anticipate
+** no alternates/entry found
+
+xref: 期す・3 210141 to resolve (to do);to decide upon;to prepare for;to promise;to pledge
+** no alternates/entry found
+
+xref: 水木 210207 Cornaceae (dogwood family of plants)
+** no alternates/entry found
+
+xref: あちら 210414 or so;rough indicator of direction, location, amount, etc.
+** no alternates/entry found
+
+xref: いくら・1 210414 or so;rough indicator of direction, location, amount, etc.
+** no alternates/entry found
+
+created xref: ミス・1 | mistake;error;failure | 210458 | 108134
+
+created xref: クラブ・2 | clubs (card suit) | 210552 | 99079
+
+xref: ちょっと・1 210711 a little;a bit;slightly
+** no alternates/entry found
+
+xref: あほ 210722 total idiot
+** no alternates/entry found
+
+xref: そこら 210951 hereabouts;around there;that area
+** no alternates/entry found
+
+xref: にもとづいて 210999 based on
+** no alternates/entry found
+
+xref: こんにちは 211022 hi;good day
+** no alternates/entry found
+
+xref: 木瓜 211141 quince (Cydonia oblonga)
+** no alternates/entry found
+
+xref: によって 211321 according to;by (means of);due to;because of
+** no alternates/entry found
+
+created xref: まじ・1 | serious;not joking;straight | 211481 | 107832
+
+xref: じつくうかん 211939 momentum space (quantum mechanics)
+** no alternates/entry found
+
+xref: おのれ・3 212199 you
+** no alternates/entry found
+
+xref: あかん 212236 no good;unacceptable
+** no alternates/entry found
+
+created xref: と・4 | particle used for quoting (with speech, thoughts, etc.) | 212437 | 95227
+
+xref: イギリス・1 212552 United Kingdom;England
+** no alternates/entry found
+
+created xref: まずい・2 | unskillful;inexpert;maladroit;inept;foolish;clumsy | 212632 | 138479
+
+created xref: はい・2 | understood;I see;OK;okay | 212661 | 95435
+
+created xref: はい・3 | present;here | 212664 | 95436
+
+created xref: た・1 | did;(have) done | 212668 | 270037
+
+created xref: た・2 | (please) do | 212669 | 270038
+
+xref: もしかしたら 213026 perhaps;maybe;by some chance
+** no alternates/entry found
+
+xref: しなやか・1 213511 to be supple (e.g. bamboo, body);to be flexible;to be pliant
+** no alternates/entry found
+
+xref: しなやか・1 213513 to be supple (e.g. bamboo, body);to be flexible;to be pliant
+** no alternates/entry found
+
+xref: いらっしゃってください 213590 please come (and visit us);please come (to our shop)
+** no alternates/entry found
+
+xref: 封じる 213619 to seal (letter)
+** no alternates/entry found
+
+created xref: つい・3 | unintentionally;unconsciously;by mistake;against one's better judgement (judgment) | 213860 | 95170
+
+xref: ちょっと・1 214595 a little;a bit;slightly
+** no alternates/entry found
+
+xref: ちょっと・2 214596 just a minute;for a moment;briefly
+** no alternates/entry found
+
+xref: ちょっと・3 214597 somewhat;rather;fairly;pretty;quite
+** no alternates/entry found
+
+xref: そつのない 214639 cautious;careful;shrewd;without error;without slip
+** no alternates/entry found
+
+xref: そつがない 214640 cautious;careful;shrewd;without error;without slip
+** no alternates/entry found
+
+xref: やけ 214821 complete desperation
+** no alternates/entry found
+
+xref: それでは 215097 then;well then;if so
+** no alternates/entry found
+
+xref: それなら 215097 then;well then;if so
+** no alternates/entry found
+
+xref: ちゃう・1 215103 That's not true!
+** no alternates/entry found
+
+created xref: わやく・2 | fiasco | 215105 | 215109
+
+xref: なさる 215115 to do
+** no alternates/entry found
+
+xref: なさる 215116 to do
+** no alternates/entry found
+
+xref: きんぱつ 215169 blond hair
+** no alternates/entry found
+
+xref: へそピ 215180 navel piercing;belly button ring
+** no alternates/entry found
+
+xref: つゆだく 215528 containing more onions or leeks than usual (of gyudon, etc.)
+** no alternates/entry found
+
+xref: ごちそう・1 215536 treat;banquet;feast;entertainment;goodies
+** no alternates/entry found
+
+xref: ごちそうさま・1 215537 thank you (for the meal);that was a delicious meal
+** no alternates/entry found
+
+xref: ふりかけ 215540 furikake put on rice to make it blue, which is said to act as an appetite suppressant
+** no alternates/entry found
+
+xref: あんた 215592 you (often used by a wife addressing her husband)
+** no alternates/entry found
+
+xref: ありがとうございます 215831 thanks
+** no alternates/entry found
+
+xref: さりげない 215832 nonchalantly;unconcernedly;casually
+** no alternates/entry found
+
+xref: いたずら・1 215833 nuisance mail (such as chain mail, etc.)
+** no alternates/entry found
+
+xref: やりっぱなし 215878 leave unfinished or incomplete
+** no alternates/entry found
+
+xref: さっと・1 215915 relatively quickly (esp. actions)
+** no alternates/entry found
+
+xref: さっと・2 215916 quite suddenly (esp. wind, rain, etc.)
+** no alternates/entry found
+
+xref: さもありなん 215937 it's probably so;it stands to reason
+** no alternates/entry found
+
+created xref: はい・1 | yes;that is correct | 216039 | 95434
+
+xref: かえ 216040 strengthens a question, assertion, etc.
+** too many alternates
+*** alternates.count 2
+*** alternates.map ids [137669, 171652]
+
+xref: わえ 216040 strengthens a question, assertion, etc.
+** too many alternates
+*** alternates.count 2
+*** alternates.map ids [139173, 189065]
+
+xref: よそおう・1 216044 to serve;to dish up;to prepare
+** no alternates/entry found
+
+created xref: たい・1 | want to ... do something;would like to ... | 216107 | 205221
+
+xref: 壷・つぼ・6 216396 to understand the essence;to catch the main points
+** too many alternates
+*** alternates.count 2
+*** alternates.map ids [118575, 190398]
+
+xref: すみません・1 216468 Excuse me (coll. form of sumimasen)
+** no alternates/entry found
+
+xref: すみません・1 216469 Excuse me (coll. form of sumaranai)
+** no alternates/entry found
+
+created xref: まじ・2 | cannot;should not;will not;must not | 216856 | 107833
+
+xref: どころか 216865 particle used to indicate that what precedes it is an extreme example and strongly negates it
+** no alternates/entry found
+
+created xref: さん・1 | Mr.;Mrs.;Miss;Ms.;-san | 216869 | 94786
+
+xref: 夏日・2 217030 day on which the temperate rises above 35 degrees Celsius
+** no alternates/entry found
+
+created xref: か・1 | yes?;no?;isn't it?;is it? | 217170 | 206409
+
+created xref: よ・1 | hey;you | 217170 | 206458
+
+xref: フィレオフィッシュ 217606 filet
+** no alternates/entry found
+
+created xref: ああ | like that (used for something or someone distant from both speaker and listener);so | 217615 | 212228
+
+xref: 強請り 217636 begging;pestering;pleading;coaxing
+** no alternates/entry found
+
+xref: なるほど 217673 I see
+** no alternates/entry found
+
+created xref: しめる | to make;to let | 217695 | 217694
+
+created xref: うん・1 | yes;yeah;uh huh | 217829 | 94169
+
+created xref: ぬ・1 | not | 217831 | 248441
+
+created xref: の・1 | indicates possessive | 217832 | 148741
+
+created xref: の・4 | (at sentence-end, falling tone) indicates a confident conclusion | 217832 | 148744
+
+created xref: に・1 | at (place, time);in;on;during | 217833 | 206422
+
+xref: おはよう 217924 good morning
+** no alternates/entry found
+
+xref: はめる・2 218049 photographing sex;filming sex
+** no alternates/entry found
+
+xref: なさい 218055 please be ...
+** no alternates/entry found
+
+created xref: ど・1 | precisely;exactly;plumb;totally;very much | 218145 | 229925
+
+created xref: ど・1 | precisely;exactly;plumb;totally;very much | 218148 | 229925
+
+xref: かもしれない 218215 may;might;perhaps;may be;possibly
+** no alternates/entry found
+
+xref: アメリカ・2 218989 (United States of) America;USA
+** no alternates/entry found
+
+xref: 猿・1 219249 monkey
+** no alternates/entry found
+
+xref: きっかけ 219426 chance;start;cue;excuse;motive;impetus;occasion
+** no alternates/entry found
+
+xref: さようなら 219441 goodbye;so long;farewell
+** no alternates/entry found
+
+created xref: やくざ・1 | yakuza;gangster;mobster;hoodlum;racketeer;gambler | 219813 | 95860
+
+xref: 鰻 219996 Japanese eel (Anguilla japonica)
+** no alternates/entry found
+
+xref: 鰻 219998 eel-like sea creature (i.e. saltwater eels, sea snakes, etc.)
+** no alternates/entry found
+
+xref: 鰻 220020 broiled eel (usu. mixed into rice)
+** no alternates/entry found
+
+xref: いとさん 220029 youngest daughter (of a good family)
+** no alternates/entry found
+
+xref: インド 220225 India
+** no alternates/entry found
+
+xref: イケめん 220296 average-looking guy
+** no alternates/entry found
+
+xref: イケめん 220302 exceptionally ugly man
+** no alternates/entry found
+
+xref: イケめん 220303 drab, depressed man
+** no alternates/entry found
+
+xref: そぞろに 220428 for some reason
+** no alternates/entry found
+
+xref: たくさん・1 220471 many;much;a great amount
+** no alternates/entry found
+
+xref: ありのまま 221449 in truth;as it is;as you are;in practice
+** no alternates/entry found
+
+xref: くださる・1 221582 to receive from another
+** no alternates/entry found
+
+xref: ＮＨＫ 221768 NHK fees
+** no alternates/entry found
+
+xref: 箕 221889 Chinese "winnowing basket" constellation (one of the 28 mansions)
+** no alternates/entry found
+
+xref: 混じる 221998 to be mixed in with;to blend with
+** no alternates/entry found
+
+created xref: まことに | indeed;really;absolutely;truly;actually;very;quite | 222024 | 287065
+
+created xref: ふん・1 | hmm;well ...;humph;huh;pshaw;pish | 222177 | 168485
+
+xref: ないではいられない 222392 feel compelled to;can't help but feel;can't help but do
+** no alternates/entry found
+
+xref: ずにはいられない 222393 feel compelled to;can't help but feel;can't help but do
+** no alternates/entry found
+
+xref: でならない 222394 unable to resist;unable to suppress
+** no alternates/entry found
+
+xref: てならない 222395 unable to resist;unable to suppress
+** no alternates/entry found
+
+created xref: トン | dot (in Morse code) | 222556 | 293928
+
+xref: 大根・1 222789 daikon (variety of large white Oriental radish, Raphanus sativus var. longipinnatus) (primarily used in context of the seven spring herbs)
+** no alternates/entry found
+
+xref: 方便 222835 upaya (skillful means, methods of teaching)
+** no alternates/entry found
+
+xref: 理・2 222892 individual concrete phenomenon (as opposed to a general principle)
+** no alternates/entry found
+
+xref: 細い・1 223543 thin;slender
+** no alternates/entry found
+
+created xref: こ・2 | doing together;contest;match | 223618 | 262164
+
+created xref: もつ | entrails;giblets;guts;internal organs | 223634 | 213400
+
+xref: 猿・1 224147 monkey
+** no alternates/entry found
+
+created xref: かつかつ | barely;scraping by | 224182 | 94409
+
+created xref: わ・1 | indicates emotion or admiration | 224394 | 206462
+
+created xref: ぎりぎり | grinding (sound);grating;gnashing | 224490 | 294849
+
+xref: 豚・1 224595 pig
+** no alternates/entry found
+
+xref: ギリシャ 224779 Greek
+** no alternates/entry found
+
+created xref: で・3 | indicates means of action;cause of effect;by | 224901 | 206418
+
+xref: それで 224911 and (so);because of which
+** no alternates/entry found
+
+created xref: そう | so;really;seeming | 225105 | 94961
+
+created xref: たい・1 | want to ... do something;would like to ... | 225291 | 205221
+
+created xref: ます・1 | used to indicate respect for the listener (or reader) | 225338 | 225342
+
+created xref: ませ | please | 225342 | 225347
+
+created xref: ます | used to indicate respect for the listener (or reader) | 225344 | 225342
+
+created xref: ます | used to indicate respect for the listener (or reader) | 225347 | 225342
+
+created xref: ない・1 | not | 225349 | 230474
+
+created xref: ます・1 | used to indicate respect for the listener (or reader) | 225349 | 225342
+
+created xref: ましょう | I'll | 225391 | 225344
+
+xref: しまう・1 225396 to do something completely
+** no alternates/entry found
+
+xref: ちゃう 225396 to do something completely
+** no alternates/entry found
+
+created xref: そう・2 | appearing that;seeming that;looking like;having the appearance of | 225405 | 94962
+
+created xref: ようが | regardless of;whether (or not) | 225735 | 225736
+
+created xref: が・4 | regardless of;whether (or not) | 225736 | 206394
+
+created xref: に・1 | at (place, time);in;on;during | 225897 | 206422
+
+created xref: は | topic marker particle | 225897 | 206388
+
+xref: いとさん 226012 daughter (of a good family)
+** no alternates/entry found
+
+created xref: ぼくぼく | (of soil, etc.) soft, dry and crumbly | 226179 | 226177
+
+xref: 猿・1 226360 male monkey
+** no alternates/entry found
+
+created xref: が・2 | indicates possessive (esp. in literary expressions) | 226433 | 206392
+
+xref: 猿・4 226608 sliding wooden bolt (for holding a door or window shut)
+** no alternates/entry found
+
+xref: 猿・4 226609 sliding wooden bolt (for holding a door or window shut)
+** no alternates/entry found
+
+xref: がなる 226637 to yell;to shout
+** no alternates/entry found
+
+created xref: ラップ・1 | cling film;plastic wrap;cling wrap | 226677 | 108975
+
+created xref: ない・1 | not | 226714 | 230474
+
+xref: 白癬 226731 ringworm (of the groin);jock itch;tinea cruris
+** no alternates/entry found
+
+xref: ワイシャツ 226755 white (business) shirt
+** no alternates/entry found
+
+xref: 晦・つごもり 226963 last day of the month
+** too many alternates
+*** alternates.count 2
+*** alternates.map ids [134967, 191380]
+
+xref: 苞 226999 bract (leaf)
+** no alternates/entry found
+
+xref: 獲る・とる 227302 to be harvested;to be reaped;to be yielded
+** too many alternates
+*** alternates.count 2
+*** alternates.map ids [126335, 133415]
+
+xref: 平調・1 228586 (in China) 3rd note of the ancient chromatic scale (approx. E)
+** no alternates/entry found
+
+xref: どれだけ 228945 oh my god;how;what the;incredible
+** no alternates/entry found
+
+created xref: ざる | not;un- | 229285 | 213556
+
+xref: でございます 229965 be;is
+** no alternates/entry found
+
+created xref: ぼいん | big breasts | 230041 | 205206
+
+created xref: どうどう・2 | whoa! (command used to stop or quieten down a horse, etc.) | 230219 | 168447
+
+created xref: ちゅう・1 | kiss | 230249 | 95118
+
+created xref: は・1 | topic marker particle | 230340 | 206388
+
+xref: 強飯 230478 soft rice (cooked in a pot)
+** no alternates/entry found
+
+xref: 強飯 230479 eating the first meal of soft rice (himeii) after the traditional hard rice of New Year (kowaii)
+** no alternates/entry found
+
+created xref: ハン | khan (medieval ruler of a Tatary tribe) | 230516 | 230519
+
+created xref: ない・1 | not | 230613 | 230474
+
+xref: バックス 230825 Dionysus (Greek god)
+** no alternates/entry found
+
+xref: 三線 231130 sanshin;Okinawan traditional three-stringed instrument; precursor to the shamisen
+** no alternates/entry found
+
+xref: さても 231249 wow
+** no alternates/entry found
+
+xref: 生薑 231324 ginger (Zingiber officinale)
+** too many alternates
+*** alternates.count 2
+*** alternates.map ids [113329, 248099]
+
+created xref: ぎりぎり | grinding (sound);grating;gnashing | 231435 | 294849
+
+created xref: とも・3 | without even;without so much as | 231482 | 168437
+
+xref: こんにちは 231804 hello;hi
+** no alternates/entry found
+
+created xref: の・1 | indicates possessive | 231859 | 148741
+
+xref: ぼだいさった 231890 bodhisattva
+** no alternates/entry found
+
+xref: キムチ・1 232151 cucumber kimchi
+** no alternates/entry found
+
+created xref: げっぷ | belch;burp;eructation | 232333 | 94632
+
+created xref: テフ | teff (Eragrostis tef);tef;taf;taff | 238080 | 102839
+
+created xref: キュー・1 | queue | 241534 | 98858
+
+created xref: となる | to become;to amount to | 243650 | 213831
+
+xref: それとも 243742 and then;even so;and
+** no alternates/entry found
+
+created xref: パー・2 | paper (in rock, paper, scissors game) | 243888 | 104953
+
+xref: どうということもない 244472 nothing special;no big deal;doesn't matter
+** no alternates/entry found
+
+created xref: うん・1 | yes;yeah;uh huh | 244780 | 94169
+
+xref: ように・1 245060 like;similar to
+** no alternates/entry found
+
+xref: ような 245062 like;similar to
+** no alternates/entry found
+
+xref: ように 245063 in order to (e.g. meet goal);so that
+** no alternates/entry found
+
+xref: 猿・4 245619 sliding wooden bolt (for holding a door or window shut)
+** no alternates/entry found
+
+xref: 袴 245666 typical dress of the military class, usually worn together with a hakama
+** no alternates/entry found
+
+xref: 袴 245868 ceremony of fitting child with a hakama
+** no alternates/entry found
+
+created xref: のめる | to fall forward | 246277 | 95429
+
+xref: そして 246732 and then
+** no alternates/entry found
+
+xref: うどん 246815 straight-from-the-pot udon;udon noodles pulled straight from the pot and served in the hot water used for boiling (traditionally without being soaked in cold water), eaten by dipping in sauce
+** no alternates/entry found
+
+xref: 大・おおい 247049 lesser (of equal court ranks);lower;junior
+** too many alternates
+*** alternates.count 2
+*** alternates.map ids [210501, 210502]
+
+xref: 従・ひろき 247067 greater (of equal court ranks);upper;senior
+** no alternates/entry found
+
+created xref: かい | yes?;no?;isn't it?;is it? | 247103 | 205243
+
+created xref: ぞい | (at sentence-end) indicates mild emphasis | 247103 | 247102
+
+created xref: だい | is it?;isn't it? | 247103 | 213523
+
+created xref: わい | indicates emotion | 247103 | 224394
+
+xref: さすがに 247175 as one would expect
+** no alternates/entry found
+
+xref: ぶっこみづり 247614 bottom fishing;legering
+** no alternates/entry found
+
+xref: 糞・2 247974 defecating outdoors;faeces lying on the ground (feces)
+** no alternates/entry found
+
+created xref: ない・1 | not | 248441 | 230474
+
+xref: エーブイ・2 248633 female porn star
+** no alternates/entry found
+
+created xref: ぼんぼん | fiercely (e.g. of a fire burning) | 249696 | 225010
+
+created xref: か・1 | yes?;no?;isn't it?;is it? | 250170 | 206409
+
+created xref: わ・1 | indicates emotion or admiration | 250171 | 206462
+
+created xref: ね・1 | indicates emphasis, agreement, request for confirmation, etc.;is it so | 250171 | 206455
+
+xref: 経 256085 sutra
+** too many alternates
+*** alternates.count 2
+*** alternates.map ids [109080, 140154]
+
+created xref: ど・1 | precisely;exactly;plumb;totally;very much | 256622 | 229925
+
+xref: ままに 256898 at the mercy of (e.g. wind, waves);(act) as one is told (by)
+** no alternates/entry found
+
+xref: 旅 256904 journey without a destination
+** no alternates/entry found
+
+xref: 上面 257016 underside;undersurface;inferior surface
+** no alternates/entry found
+
+created xref: わ・1 | indicates emotion or admiration | 257115 | 206462
+
+xref: しまった 257200 oops!;damn it!
+** no alternates/entry found
+
+created xref: やんま | prostitute | 257283 | 279436
+
+xref: だらしない・1 257302 slovenly
+** no alternates/entry found
+
+created xref: さえ | even;if only;if just;as long as;the only thing needed | 257647 | 94752
+
+xref: たまげる 257886 to be very surprised;to be flabbergasted
+** no alternates/entry found
+
+created xref: とする・1 | to try to ...;to be about to do ... | 258075 | 217520
+
+xref: はめる・2 258153 fucking;screwing;having sex
+** no alternates/entry found
+
+xref: 葛・1 258204 kudzu root
+** no alternates/entry found
+
+xref: 正法 259212 good God;good deities
+** no alternates/entry found
+
+xref: ために 259694 in order to
+** no alternates/entry found
+
+xref: うやうやしい 259705 polite;respectful;reverent
+** no alternates/entry found
+
+xref: くろへりめじろ 259730 copper shark (Carcharhinus brachyurus, only member of Carcharhinus found mostly at temperate latitudes);bronze whaler;narrowtooth shark
+** no alternates/entry found
+
+xref: えびすざめ 259859 broadnose sevengill shark (Notorynchus cepedianus, species of circumglobal cow shark with 7 gill slits)
+** no alternates/entry found
+
+xref: 鰍 260017 Japanese fluvial sculpin (fish, Cottus pollux)
+** no alternates/entry found
+
+xref: 藁苞 260185 straw-wrapped item;bundle of straw (containing a food item, etc.)
+** no alternates/entry found
+
+xref: それぞれ 260214 each and every one;individually
+** no alternates/entry found
+
+xref: どうしようもない 260294 it cannot be helped;there is no way
+** no alternates/entry found
+
+xref: それで 260465 and;thereupon;because of that
+** no alternates/entry found
+
+xref: シンガポール・スリング 260482 sling (e.g. Singapore sling)
+** no alternates/entry found
+
+created xref: まい | probably isn't (doesn't, won't, etc.) | 260506 | 225324
+
+xref: くさび・1 260541 wedge;lynchpin;cotter
+** no alternates/entry found
+
+xref: あご 260573 chin;jaw
+** no alternates/entry found
+
+xref: かぐわしい 260672 sweet-scented
+** no alternates/entry found
+
+xref: かぐわしい 260674 sweet-scented
+** no alternates/entry found
+
+created xref: くるり・1 | pivot hinge (using extensions on the top &amp; bottom of a door that fit into cavities in the frame) | 260721 | 226607
+
+xref: なぜかというと 260825 because;the reason why is
+** no alternates/entry found
+
+xref: 魂消る 260869 to be astonished;to be startled;to be appalled
+** no alternates/entry found
+
+xref: さほど 260929 (not) much;(not) very
+** no alternates/entry found
+
+xref: しもべ 260963 manservant
+** no alternates/entry found
+
+xref: モスリン 261029 mousseline de laine;mousseline;light woollen fabric
+** no alternates/entry found
+
+xref: 袴 261039 hakama fashioned in the style of the pantaloons worn by the Portuguese
+** no alternates/entry found
+
+xref: 饅頭 261046 steamed mochi;manjū;bread
+** no alternates/entry found
+
+xref: そらごと 261096 lie
+** no alternates/entry found
+
+xref: みちばた 261145 side of the road;roadside
+** no alternates/entry found
+
+xref: あしのうら 261152 planta;planta pedis;sole of the foot
+** no alternates/entry found
+
+created xref: せる・3 | auxiliary verb used as an honorific for others' actions | 261170 | 261167
+
+xref: すきま・1 261183 crack;slit;crevasse;crevice
+** no alternates/entry found
+
+xref: 半玉 261204 child geisha;geisha apprentice
+** no alternates/entry found
+
+xref: はざま・2 261236 gorge;ravine
+** no alternates/entry found
+
+xref: たおやか 261332 graceful young woman;sylph
+** no alternates/entry found
+
+xref: なくてもよい・2 261335 can be dispensed with;be better without;useless
+** no alternates/entry found
+
+xref: なまはんか 261339 halfway-done;mediocre;uncertain;half-hearted
+** no alternates/entry found
+
+xref: なまじっか・1 261340 half-heartedly;insufficiently
+** no alternates/entry found
+
+xref: あだしごころ 261345 cheating heart;fleeting heart;fickle heart
+** no alternates/entry found
+
+xref: なんとなく 261357 somehow;for some reason
+** no alternates/entry found
+
+xref: はるぎ 261405 spring clothing;New Year clothing
+** no alternates/entry found
+
+xref: はるぎ 261406 spring clothing;New Year clothing
+** no alternates/entry found
+
+xref: あらしごと 261416 hard work;rough physical labour
+** no alternates/entry found
+
+xref: あさがお・1 261504 morning glory seeds (medicinal use)
+** no alternates/entry found
+
+xref: いしぶみ 261531 stone monument;gravestone;tombstone
+** no alternates/entry found
+
+xref: おだて 261640 alluring words;endearing words;sugared words;sweet words;honeyed words;flattery;cajolery
+** no alternates/entry found
+
+xref: よろける 261686 tottering;staggering;reeling
+** no alternates/entry found
+
+xref: とんでもない・1 261758 unthinkable;unexpected;outrageous;offensive
+** no alternates/entry found
+
+xref: とんでもない・2 261759 absolutely not!;not at all!;far from it!;impossible!;preposterous!;what a thing to say!;no way!
+** no alternates/entry found
+
+xref: とんでもない・3 261760 don't mention it;you're welcome
+** no alternates/entry found
+
+xref: かんがらす 261919 winter crow
+** no alternates/entry found
+
+xref: 沢山・1 261967 many;a lot;much
+** no alternates/entry found
+
+created xref: から・3 | because;since | 261986 | 94423
+
+xref: なくてはならない・2 261987 must (do, be)
+** no alternates/entry found
+
+xref: きまりわるい 262044 embarrassed;ashamed
+** no alternates/entry found
+
+xref: 巫子・いちこ・1 262096 necromancer (esp. a blind female in northeastern Honshu);medium;shaman
+** too many alternates
+*** alternates.count 2
+*** alternates.map ids [106410, 134961]
+
+xref: 総領・3 262260 pre-ritsuryo official established in key provinces, responsible for administration of his home and surrounding provinces
+** no alternates/entry found
+
+xref: せっていり 262356 Rajput;member of a Hindu military caste
+** no alternates/entry found
+
+xref: 台・5 262489 a fall below a certain level (of a stock price, etc.)
+** no alternates/entry found
+
+created xref: ワン・2 | woof;bark | 262603 | 110040
+
+xref: ばかもの 262646 moron;idiot
+** no alternates/entry found
+
+xref: 腰・1 262694 buttocks;lower back;waist;hips
+** no alternates/entry found
+
+xref: なるたけ 262984 as much as one can;as much as possible
+** no alternates/entry found
+
+xref: できるだけ 262984 as much as one can;as much as possible
+** no alternates/entry found
+
+xref: なるべく 262984 as much as one can;as much as possible
+** no alternates/entry found
+
+created xref: ペット・1 | pet | 263231 | 107119
+
+xref: ホトトギス 263238 cry of the lesser cuckoo (Cuculus poliocephalus)
+** too many alternates
+*** alternates.count 2
+*** alternates.map ids [119611, 187941]
+
+xref: いまいましい 263297 annoying
+** no alternates/entry found
+
+xref: むかえざけ 263324 morning drink to get rid of a hangover
+** no alternates/entry found
+
+xref: 化粧水 263511 type of washing lotion from the end of the Edo period
+** no alternates/entry found
+
+xref: ゆまき・2 263532 garment used while bathing
+** no alternates/entry found
+
+xref: ゆもじ・2 263532 garment used while bathing
+** no alternates/entry found
+
+xref: とばり 263537 hanging curtain used in place of a wall (Heian period)
+** no alternates/entry found
+
+xref: すいふろ 263561 deep bathtub with a water-heating tank;bathtub heated from below
+** no alternates/entry found
+
+xref: ゆな 263569 female prostitute working at a bathhouse (Edo period)
+** no alternates/entry found
+
+xref: かげま・1 263632 kabuki actor who is also a male prostitute
+** no alternates/entry found
+
+xref: いたずら・1 263633 prank;joke
+** no alternates/entry found
+
+xref: いろり 263653 sunken hearth or fireplace
+** no alternates/entry found
+
+xref: 半玉 263673 becoming a geisha (of a geisha apprentice)
+** no alternates/entry found
+
+xref: 力役・1 263826 tax paid to avoid forced labor (ritsuryo period)
+** no alternates/entry found
+
+xref: からみあう 264422 to entangle themselves together (e.g. of butterflies);to be intertwined
+** no alternates/entry found
+
+xref: ひきかえす 264678 to turn back;to go back;to repeat;to send back;to bring back;to retrace one's steps
+** no alternates/entry found
+
+xref: 強請り 264724 demanding again what one has already obtained;coaxing out of someone for a second time
+** no alternates/entry found
+
+xref: 袴 265159 work hakama
+** no alternates/entry found
+
+xref: 山袴 265160 work hakama for use in the snow
+** no alternates/entry found
+
+xref: むさくるしい 265543 filthy;squalid;dirty;foul;sordid
+** no alternates/entry found
+
+xref: ぼっちゃん・1 265715 son;boy
+** no alternates/entry found
+
+xref: べらぼうめ 265840 natural;reasonable;obvious
+** no alternates/entry found
+
+xref: ははうえ 266054 mother
+** no alternates/entry found
+
+xref: パキスタン 266472 Pakistan
+** no alternates/entry found
+
+created xref: パー・3 | apiece;each | 266474 | 104954
+
+xref: おじさん・2 266863 old man;old-timer;old fogey
+** no alternates/entry found
+
+xref: うまい・2 268396 delicious;appetizing;appetising
+** no alternates/entry found
+
+xref: こわめし 268487 mochi rice with red beans steamed in a steaming basket;rice with red beans (eaten on celebratory occasions)
+** no alternates/entry found
+
+xref: とどのつまり 269018 in the end;after all is said and done
+** no alternates/entry found
+
+created xref: ど・1 | precisely;exactly;plumb;totally;very much | 269259 | 229925
+
+created xref: ど・1 | precisely;exactly;plumb;totally;very much | 269260 | 229925
+
+xref: すだれ・1 269416 combover;comb-over;bamboo screen head (due to looking like the slats of a bamboo screen)
+** no alternates/entry found
+
+created xref: よ・1 | hey;you | 269426 | 206458
+
+xref: たぬきうどん 269439 noodles with bits of deep-fried tempura batter (tenkasu, agedama)
+** no alternates/entry found
+
+xref: 伯父 269493 uncle
+** no alternates/entry found
+
+xref: タミフル 269496 to panic (from the flu panics of late 2000's and early 2010's);to act frantically;to act bizarrely
+** no alternates/entry found
+
+xref: よみくだす 269767 transliterating classical Chinese into Japanese
+** no alternates/entry found
+
+xref: たわいない 269964 sanity;soundness of mind;prudence and discretion
+** no alternates/entry found
+
+created xref: まじ・2 | cannot;should not;will not;must not | 269968 | 107833
+
+created xref: だ・2 | has;have | 270037 | 212668
+
+created xref: だ・3 | please;do | 270038 | 212669
+
+created xref: で・5 | indicates continuing action | 270039 | 206420
+
+created xref: よ | hey;you | 270047 | 206458
+
+xref: 唐紙・2 270343 sliding door covered with thick patterned paper
+** no alternates/entry found
+
+xref: しかし 270385 however;but
+** no alternates/entry found
+
+xref: またぎ 271257 ancient hunting communities in Tōhoku
+** no alternates/entry found
+
+created xref: つつ・2 | even though;despite | 271539 | 95178
+
+xref: にわたって 271568 throughout;over a period of ...;over a span of ...
+** no alternates/entry found
+
+xref: どうのこうの 271699 this and that;one thing or another
+** no alternates/entry found
+
+xref: っぱなし 272070 leaving a device on (e.g. TV, air conditioner);leaving something engaged (e.g. a key in a lock)
+** no alternates/entry found
+
+created xref: ランプ・3 | rump | 272189 | 109107
+
+created xref: ピン・3 | beginning;best | 272561 | 105668
+
+xref: こたつ 272849 someone who curls up under a kotatsu all winter;kotatsu snail
+** no alternates/entry found
+
+xref: こたつ 272850 someone who curls up under a kotatsu all winter;kotatsu bug;kotatsu snail
+** no alternates/entry found
+
+xref: しっ・1 273075 shh! (used to silence someone);sh!
+** no alternates/entry found
+
+xref: しっ・2 273076 shoo! (used to drive off an approaching animal, etc.)
+** no alternates/entry found
+
+xref: よっぱらう 273220 to get drunk
+** no alternates/entry found
+
+xref: まろうど 273488 visitor from afar
+** no alternates/entry found
+
+xref: そうすれば 273556 if so;in that case;in that situation
+** no alternates/entry found
+
+created xref: はい・1 | yes;that is correct | 273767 | 95434
+
+xref: なりかける 273786 to be on the verge;to be on the brink;to get close
+** no alternates/entry found
+
+xref: 猫・1 274403 cat
+** no alternates/entry found
+
+created xref: おす | to be | 274730 | 274726
+
+xref: みずむし・1 274800 athlete's foot;foot ringworm;tinea pedis
+** no alternates/entry found
+
+created xref: ピン・2 | one (on dice, in cards, etc.) | 274864 | 105667
+
+xref: よわみそ 274913 person who acts tough but is actually timid
+** no alternates/entry found
+
+created xref: いけめん | good-looking guy;handsome man;hunk;Adonis;cool guy | 274945 | 203970
+
+xref: いらいら 274946 TV personality who makes people irritated
+** no alternates/entry found
+
+xref: ありえない 275217 that's impossible;I can't believe it
+** no alternates/entry found
+
+xref: おかま・4 275225 effeminate man (often homosexual or transsexual)
+** no alternates/entry found
+
+xref: はかま 275327 hakama;man's formal divided shirt
+** no alternates/entry found
+
+xref: ものさし 275768 ruler;measure
+** no alternates/entry found
+
+created xref: の・4 | (at sentence-end, falling tone) indicates a confident conclusion | 276057 | 148744
+
+created xref: の・5 | (at sentence-end) indicates emotional emphasis | 276058 | 148745
+
+created xref: の・6 | (at sentence-end, rising tone) indicates question | 276059 | 148746
+
+xref: みだら 276157 loose;bawdy
+** no alternates/entry found
+
+xref: あさっぱら 276216 early morning
+** no alternates/entry found
+
+xref: アナバチックかぜ 276245 anabatic wind
+** no alternates/entry found
+
+xref: すみません・1 276379 sorry;excuse me;thank you
+** no alternates/entry found
+
+xref: うまい・2 276380 that was delicious
+** no alternates/entry found
+
+created xref: ため | the same (age, social status);peer | 276430 | 266076
+
+created xref: ため | the same (age, social status);peer | 276431 | 266076
+
+created xref: まい・1 | probably isn't (doesn't, won't, etc.) | 276434 | 225324
+
+xref: マージャン 276507 playing mahjong all night
+** no alternates/entry found
+
+xref: しまった 276524 damn it!;damn!;oops!;oh dear!;oh no!
+** no alternates/entry found
+
+xref: しまう・4 276526 having done ... by mistake;having messed up ...
+** no alternates/entry found
+
+xref: ちっとも 276527 not at all (neg. verb)
+** no alternates/entry found
+
+xref: しまった 276609 damn it!;damn!;oops!;oh dear!;oh no!
+** no alternates/entry found
+
+xref: ほんま 276629 genuine article;real thing;real deal
+** no alternates/entry found
+
+xref: しかしながら 276970 nevertheless;still;however;yet
+** no alternates/entry found
+
+created xref: だけ・1 | peak | 276980 | 116952
+
+created xref: しか | only;nothing but | 276980 | 94802
+
+xref: すごい 276990 incredible;unbelievable
+** no alternates/entry found
+
+xref: ございます 277009 to be;to exist
+** no alternates/entry found
+
+xref: でございます 277010 be;is
+** no alternates/entry found
+
+xref: 橡・くぬぎ 277115 sawtooth oak (Quercus acutissima);acorn
+** too many alternates
+*** alternates.count 2
+*** alternates.map ids [117156, 176224]
+
+xref: 橡・どんぐり 277115 sawtooth oak (Quercus acutissima);acorn
+** too many alternates
+*** alternates.count 2
+*** alternates.map ids [117156, 176224]
+
+xref: なさる 277178 to do
+** no alternates/entry found
+
+xref: なされる 277179 to do
+** no alternates/entry found
+
+xref: なさる 277180 to do
+** no alternates/entry found
+
+xref: なさる 277181 to do
+** no alternates/entry found
+
+xref: なさい 277182 do ...
+** no alternates/entry found
+
+xref: なさる 277183 did;done
+** no alternates/entry found
+
+xref: なさる 277184 doing
+** no alternates/entry found
+
+xref: しかたがない 277482 it can't be helped;there's nothing to do about it
+** no alternates/entry found
+
+created xref: くそ・3 | you | 277516 | 296387
+
+created xref: より・1 | than | 277591 | 95923
+
+xref: ジーコム 277800 Global Change Observation Mission;GCOM
+** no alternates/entry found
+
+xref: よろしく・2 277975 best regards;please remember me;please treat me favorably (favourably);please take care of
+** no alternates/entry found
+
+xref: ちょっと・1 278152 a little;somewhat
+** no alternates/entry found
+
+xref: ござる 278209 to be
+** no alternates/entry found
+
+xref: ごめんなさい 278991 sorry
+** no alternates/entry found
+
+xref: モスリン 279004 muslin
+** no alternates/entry found
+
+xref: まかせっきり 279059 leaving everything to someone else
+** no alternates/entry found
+
+xref: ぶつかる・1 279134 to strike against;to collide with;to bump into;to conflict
+** no alternates/entry found
+
+xref: ぶつかる・2 279135 to encounter;to meet
+** no alternates/entry found
+
+xref: ぶつかる・3 279136 to clash
+** no alternates/entry found
+
+xref: はんぱ・1 279184 something unfinished;something incomplete
+** no alternates/entry found
+
+xref: しばし 279320 little while;short while
+** no alternates/entry found
+
+xref: オーストラリア 279531 Australia
+** no alternates/entry found
+
+xref: テーブルトークアールピージー 279685 tabletop role-playing game
+** no alternates/entry found
+
+created xref: か・1 | yes?;no?;isn't it?;is it? | 279844 | 206409
+
+created xref: や・4 | o;oh | 279844 | 206404
+
+created xref: かたり | with a clatter;clatteringly | 279851 | 211441
+
+created xref: あんな | such (about something or someone distant from both speaker and listener, or about a situation unfamiliar to both speaker and listener);so;that;sort of | 279854 | 94116
+
+xref: メンゼン 279925 having only tiles of one suit and not having called any tiles (yaku);having only tiles of one suit and a concealed hand
+** no alternates/entry found
+
+xref: せりふ 280006 speech;one's lines
+** no alternates/entry found
+
+xref: ベルギー 280010 Belgium
+** no alternates/entry found
+
+created xref: わい | indicates emotion | 280027 | 224394
+
+created xref: の・5 | (at sentence-end) indicates emotional emphasis | 280027 | 148745
+
+created xref: な・1 | don't | 280027 | 206466
+
+created xref: かい | yes?;no?;isn't it?;is it? | 280116 | 205243
+
+xref: ありがとうございます 280261 thank you
+** no alternates/entry found
+
+created xref: トップス | top;upper garment | 280321 | 280322
+
+xref: ロンホー 280424 winning by picking up a discarded tile
+** no alternates/entry found
+
+xref: こればかり・2 280471 tiny amount (degree, extent);paltry amount;slightest bit
+** no alternates/entry found
+
+xref: なんとなく 280551 somehow or other;for some reason or another
+** no alternates/entry found
+
+xref: 麸・ふ 280819 yaki-fu;wheat gluten leavened with baking powder and baked into long bread-like sticks
+** too many alternates
+*** alternates.count 2
+*** alternates.map ids [132117, 207598]
+
+created xref: かも | may;might;perhaps;may be;possibly | 281117 | 218215
+
+created xref: ね・1 | indicates emphasis, agreement, request for confirmation, etc.;is it so | 281117 | 206455
+
+xref: それなら 281171 then;and then;and;if so;because then;if that's the case
+** no alternates/entry found
+
+created xref: はぶ | being left out;being excluded;being ostracized | 281270 | 281295
+
+xref: ふざけ 281330 joke;playfulness;kidding around
+** no alternates/entry found
+
+created xref: だ・1 | be;is | 281401 | 212667
+
+xref: ほんのわずか 281571 (not even) a little;(not even) a tiny bit
+** no alternates/entry found
+
+xref: 仕込み・1 281674 learned at ...;acquired at ...
+** no alternates/entry found
+
+xref: とんでもない・1 281683 it'll never happen
+** no alternates/entry found
+
+xref: とんでもない・1 281684 unthinkable;unexpected;outrageous;offensive
+** no alternates/entry found
+
+created xref: さん・2 | politeness marker | 281700 | 94787
+
+xref: ゆうびんきごう 281779 (Japanese) postal symbol
+** no alternates/entry found
+
+created xref: そうだ・1 | that is so;that is right;it looks to me;I am of the impression | 282017 | 94967
+
+xref: スペイン 282038 Spain
+** no alternates/entry found
+
+created xref: や・6 | hi | 282070 | 206406
+
+xref: しかねない 282155 capable of anything;liable to do
+** no alternates/entry found
+
+xref: やっぱり・1 282178 too;also;likewise;either
+** no alternates/entry found
+
+created xref: ちゅう・1 | kiss | 282200 | 95118
+
+xref: ねぶた 282261 Nebuta festival dancer
+** no alternates/entry found
+
+xref: ねぶた 282264 young delinquents wearing black at Aomori's Nebuta festival
+** no alternates/entry found
+
+created xref: ごくり | gulpingly;in one gulp | 282704 | 221984
+
+xref: 麸・ふ 282716 wheat gluten (usu. steamed or baked)
+** too many alternates
+*** alternates.count 2
+*** alternates.map ids [132117, 207598]
+
+created xref: ピン・2 | one (on dice, in cards, etc.) | 283193 | 105667
+
+xref: おいでなさい・1 283379 come;go;stay
+** no alternates/entry found
+
+created xref: ぎしぎし | creak;squeak;creaking sound | 283435 | 215303
+
+xref: ごろつき 283501 extortionist that blackmail corporations;corporate shakedown artist
+** no alternates/entry found
+
+xref: ぎょうじゃにんにく 284079 Alpine leek (Allium victorialis var. platyphyllum)
+** no alternates/entry found
+
+xref: ほとけ・2 284616 to die
+** no alternates/entry found
+
+xref: キムチ・1 284691 kimchi;kimchee
+** no alternates/entry found
+
+xref: 達 284790 pluralizing suffix
+** no alternates/entry found
+
+xref: はとこ 285021 second cousin
+** no alternates/entry found
+
+xref: こうもり・1 285048 bat (animal)
+** no alternates/entry found
+
+xref: こうもり・1 285049 bat (animal)
+** no alternates/entry found
+
+xref: はったい 285169 parched flour, esp. barley
+** no alternates/entry found
+
+created xref: ハン | khan (medieval ruler of a Tatary tribe) | 285230 | 230519
+
+created xref: ハン | khan (medieval ruler of a Tatary tribe) | 285231 | 230519
+
+created xref: ど・1 | precisely;exactly;plumb;totally;very much | 285306 | 229925
+
+created xref: とろ | fatty cut (esp. of tuna belly) | 285398 | 95258
+
+xref: たおれる・1 285442 to fall;to die;to be defeated
+** no alternates/entry found
+
+xref: 白菜 285448 baby Chinese cabbage;wawasai cabbage;variety of small Chinese cabbage
+** no alternates/entry found
+
+xref: めでたい・1 285567 happy;auspicious;propitious;joyous;lucky
+** no alternates/entry found
+
+created xref: しか | only;nothing but | 286207 | 94802
+
+xref: セイミ 286481 chemistry
+** no alternates/entry found
+
+created xref: そう・1 | so;really;seeming | 286508 | 94961
+
+xref: びら 286554 handing out flyers;distributing leaflets
+** no alternates/entry found
+
+xref: ギョーザ 286570 chicken wings filled with gyoza stuffing
+** no alternates/entry found
+
+xref: しかねる 286916 to be unable to do;to find something difficult to do
+** no alternates/entry found
+
+xref: かねる・1 286918 to be unable to do;to find something difficult to do
+** no alternates/entry found
+
+xref: モスリン 286927 mousseline de laine;light woollen fabric;muslin de laine;delaine
+** no alternates/entry found
+
+xref: さんざっぱら・1 286986 thoroughly;completely;utterly
+** no alternates/entry found
+
+xref: さんざっぱら・2 286987 severely;harshly;terribly;miserably;wretchedly;badly
+** no alternates/entry found
+
+created xref: だ・1 | be;is | 286990 | 212667
+
+created xref: か・1 | yes?;no?;isn't it?;is it? | 286992 | 206409
+
+created xref: だ・1 | be;is | 286992 | 212667
+
+created xref: か・1 | yes?;no?;isn't it?;is it? | 286994 | 206409
+
+created xref: だ・1 | be;is | 286994 | 212667
+
+xref: いってらっしゃい 287334 have a good day;take care;see you
+** no alternates/entry found
+
+xref: チマ 287430 chima jeogori;chi'ma chogori;costume traditionally worn by Korean women
+** no alternates/entry found
+
+xref: チョゴリ 287430 chima jeogori;chi'ma chogori;costume traditionally worn by Korean women
+** no alternates/entry found
+
+xref: かもしれない 287441 may;might;perhaps;may be;possibly
+** no alternates/entry found
+
+created xref: して・2 | indicates patient of a causative expression | 287718 | 246729
+
+created xref: マッチ | match (contest) | 287741 | 283372
+
+created xref: ね・2 | hey;come on;listen | 287886 | 206456
+
+xref: メキシコ 288059 Mexico
+** no alternates/entry found
+
+xref: オーストリア 288060 Austria
+** no alternates/entry found
+
+xref: 予言 288268 prophecy
+** no alternates/entry found
+
+xref: っぱなし 288441 keep ...-ing;have been ...-ing;leaving (something) on;leaving (something) still in use
+** no alternates/entry found
+
+created xref: にたり | smirkingly;smugly;broadly | 288699 | 244264
+
+created xref: さえ | even;if only;if just;as long as;the only thing needed | 288869 | 94752
+
+xref: たくさん・1 289551 plenty;many;a lot
+** no alternates/entry found
+
+xref: かたより・1 290083 deviation;bias
+** no alternates/entry found
+
+xref: あそびにん・1 290104 someone without a fixed occupation;man of leisure;playboy
+** no alternates/entry found
+
+xref: おかず・1 290159 accompaniments for a rice dish
+** no alternates/entry found
+
+xref: すりこぎ 290160 wooden pestle
+** no alternates/entry found
+
+xref: まんじゅう 290162 manjū
+** no alternates/entry found
+
+xref: おすもじ 290167 sushi
+** no alternates/entry found
+
+xref: はずかしい・1 290170 embarassed;ashamed of
+** no alternates/entry found
+
+xref: かたわら・1 290175 (one's) side
+** no alternates/entry found
+
+xref: さらばち 290501 platter;serving plate
+** no alternates/entry found
+
+xref: そうしたら 290688 then;and then;and;if so;because then
+** no alternates/entry found
+
+xref: むしあつい 290758 hot and humid;sultry
+** no alternates/entry found
+
+xref: むしあつい 290759 sultry;muggy;steamy;sticky;hot and humid
+** no alternates/entry found
+
+xref: むしあつい 290760 sultry;muggy;steamy;sticky;hot and humid
+** no alternates/entry found
+
+xref: あとずさり 290926 drawing back;stepping back;retreating
+** no alternates/entry found
+
+xref: ばいけん 291138 certificate of sale;deed of sale
+** no alternates/entry found
+
+created xref: たいこもち・1 | professional jester;professional entertainer;comedian;buffoon | 291152 | 297623
+
+xref: ゆそでん 291155 tax-exempt rice field (ritsuryo system)
+** no alternates/entry found
+
+xref: 大領 291163 director of a district (ritsuryo system)
+** no alternates/entry found
+
+xref: つぼみ・1 291410 flower bud
+** no alternates/entry found
+
+created xref: ぬ・1 | not | 291495 | 248441
+
+xref: ドイツ 291639 Germany
+** no alternates/entry found
+
+created xref: ちん | intimate (or disdainful) suffix used after a person's name (or the base of an adjective describing that person) | 291719 | 220152
+
+xref: ペキン 291820 Tokyo
+** no alternates/entry found
+
+created xref: いい・1 | good;excellent;fine;nice;pleasant;agreeable | 291828 | 287059
+
+created xref: ね・1 | indicates emphasis, agreement, request for confirmation, etc.;is it so | 291828 | 206455
+
+xref: ちなみに 291928 by the way;in this connection;incidentally;in passing
+** no alternates/entry found

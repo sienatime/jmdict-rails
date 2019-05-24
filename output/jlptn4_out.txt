@@ -1,0 +1,28 @@
+2018-08-27 21:49:00 -0700: File: /Users/siena/workspace/nanodegree/capstone/jmdict_to_sqlite/jmdict/app/models/jlpt_adder.rb
+NOT FOUND  あいさつ・する
+assigning: 亜細亜 あじあ to  アジア
+assigning: 起こす おこす to 起す おこす
+assigning: 落ちる おちる to 落る おちる
+assigning: 落とす おとす to 落す おとす
+assigning: 降りる おりる to 下りる おりる
+NOT FOUND 堅/硬/固い かたい
+NOT FOUND お・金持ち かねもち/おかねもち
+NOT FOUND  けが・する
+NOT FOUND  けれど/けれども
+NOT FOUND  けんか・する
+assigning: ご主人 ごしゅじん to 御主人 ごしゅじん
+assigning: 答え こたえ to 答 こたえ
+NOT FOUND  コンピュータ/コンピューター
+assigning: 再来月 さらいげつ to さ来月 さらいげつ
+assigning: 再来週 さらいしゅう to さ来週 さらいしゅう
+assigning: 楽しむ たのしむ to 楽む たのしむ
+NOT FOUND  チェック・する
+assigning: 治す なおす to 直す なおす
+assigning: 治る なおる to 直る なおる
+NOT FOUND  びっくり・する
+assigning: 船 ふね to 舟 ふね
+assigning: 真ん中 まんなか to 真中 まんなか
+NOT FOUND  やはり/やっぱり
+NOT FOUND  レポート/リポート
+unknown tokens of size 0: []
+2018-08-27 21:49:24 -0700: Done

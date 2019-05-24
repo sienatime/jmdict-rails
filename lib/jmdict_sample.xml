@@ -1,0 +1,187 @@
+<JMdict>
+  <entry>
+    <ent_seq>1000100</ent_seq>
+    <k_ele>
+      <keb>ＡＢＣ順</keb>
+    </k_ele>
+    <r_ele>
+      <reb>エービーシーじゅん</reb>
+    </r_ele>
+    <sense>
+      <pos>&n;</pos>
+      <gloss>alphabetical order</gloss>
+    </sense>
+  </entry>
+
+  <entry>
+    <ent_seq>1378440</ent_seq>
+    <k_ele>
+      <keb>生</keb>
+    </k_ele>
+    <r_ele>
+      <reb>き</reb>
+    </r_ele>
+    <sense>
+      <pos>&n;</pos>
+      <pos>&pref;</pos>
+      <gloss>pure</gloss>
+      <gloss>undiluted</gloss>
+      <gloss>raw</gloss>
+      <gloss>crude</gloss>
+    </sense>
+  </entry>
+
+  <entry>
+    <ent_seq>1378450</ent_seq>
+    <k_ele>
+      <keb>生</keb>
+      <ke_pri>ichi1</ke_pri>
+    </k_ele>
+    <r_ele>
+      <reb>なま</reb>
+      <re_pri>ichi1</re_pri>
+    </r_ele>
+    <sense>
+      <pos>&adj-no;</pos>
+      <pos>&adj-na;</pos>
+      <pos>&n;</pos>
+      <pos>&n-pref;</pos>
+      <gloss>raw</gloss>
+      <gloss>uncooked</gloss>
+      <gloss>fresh</gloss>
+    </sense>
+    <sense>
+      <gloss>natural</gloss>
+      <gloss>as it is</gloss>
+      <gloss>unedited</gloss>
+      <gloss>unprocessed</gloss>
+    </sense>
+    <sense>
+      <misc>&col;</misc>
+      <gloss>unprotected (i.e. not wearing a condom)</gloss>
+    </sense>
+    <sense>
+      <gloss>live (i.e. not recorded)</gloss>
+    </sense>
+    <sense>
+      <gloss>inexperienced</gloss>
+      <gloss>unpolished</gloss>
+      <gloss>green</gloss>
+      <gloss>crude</gloss>
+    </sense>
+    <sense>
+      <xref>生意気</xref>
+      <misc>&abbr;</misc>
+      <gloss>impudence</gloss>
+      <gloss>sauciness</gloss>
+    </sense>
+    <sense>
+      <xref>生ビール</xref>
+      <misc>&abbr;</misc>
+      <gloss>unpasteurized beer</gloss>
+      <gloss>draft beer</gloss>
+      <gloss>draught beer</gloss>
+    </sense>
+    <sense>
+      <pos>&pref;</pos>
+      <gloss>just a little</gloss>
+      <gloss>somehow</gloss>
+      <gloss>vaguely</gloss>
+      <gloss>partially</gloss>
+      <gloss>somewhat</gloss>
+      <gloss>half-</gloss>
+      <gloss>semi-</gloss>
+    </sense>
+    <sense>
+      <gloss>irresponsibly</gloss>
+      <gloss>half-baked</gloss>
+    </sense>
+    <sense>
+      <pos>&n;</pos>
+      <misc>&arch;</misc>
+      <gloss>cash</gloss>
+    </sense>
+    <sense>
+      <xref>生酔い</xref>
+      <misc>&abbr;</misc>
+      <gloss>tipsiness</gloss>
+    </sense>
+  </entry>
+
+  <entry>
+    <ent_seq>1578850</ent_seq>
+    <k_ele>
+      <keb>行く</keb>
+      <ke_pri>ichi1</ke_pri>
+    </k_ele>
+    <k_ele>
+      <keb>逝く</keb>
+    </k_ele>
+    <k_ele>
+      <keb>往く</keb>
+      <ke_inf>&oK;</ke_inf>
+    </k_ele>
+    <r_ele>
+      <reb>いく</reb>
+      <re_pri>ichi1</re_pri>
+    </r_ele>
+    <r_ele>
+      <reb>ゆく</reb>
+      <re_pri>ichi1</re_pri>
+    </r_ele>
+    <sense>
+      <pos>&v5k-s;</pos>
+      <pos>&vi;</pos>
+      <xref>来る・くる・1</xref>
+      <gloss>to go</gloss>
+      <gloss>to move (in a direction or towards a specific location)</gloss>
+      <gloss>to head (towards)</gloss>
+      <gloss>to be transported (towards)</gloss>
+      <gloss>to reach</gloss>
+    </sense>
+    <sense>
+      <xref>旨く行く</xref>
+      <s_inf>い sometimes omitted in auxiliary use</s_inf>
+      <gloss>to proceed</gloss>
+      <gloss>to take place</gloss>
+    </sense>
+    <sense>
+      <gloss>to pass through</gloss>
+      <gloss>to come and go</gloss>
+    </sense>
+    <sense>
+      <gloss>to walk</gloss>
+    </sense>
+    <sense>
+      <stagk>逝く</stagk>
+      <gloss>to die</gloss>
+      <gloss>to pass away</gloss>
+    </sense>
+    <sense>
+      <gloss>to do (in a specific way)</gloss>
+    </sense>
+    <sense>
+      <gloss>to stream</gloss>
+      <gloss>to flow</gloss>
+    </sense>
+    <sense>
+      <pos>&aux-v;</pos>
+      <gloss>to continue</gloss>
+    </sense>
+    <sense>
+      <pos>&v5k-s;</pos>
+      <pos>&vi;</pos>
+      <misc>&uk;</misc>
+      <gloss>to have an orgasm</gloss>
+      <gloss>to come</gloss>
+      <gloss>to cum</gloss>
+    </sense>
+    <sense>
+      <misc>&uk;</misc>
+      <misc>&sl;</misc>
+      <gloss>to trip</gloss>
+      <gloss>to get high</gloss>
+      <gloss>to have a drug-induced hallucination</gloss>
+    </sense>
+  </entry>
+</JMdict>

@@ -1,0 +1,398 @@
+2018-09-03 17:20:35 -0700: File: /Users/siena/workspace/nanodegree/capstone/jmdict_to_sqlite/jmdict/app/models/cross_reference_adder.rb
+CrossReference.count: 25122
+
+xref: そこ・1 94085 there (place physically distant from both speaker and listener);over there;that place;yonder;you-know-where
+** no alternates/entry found
+
+xref: かつら 97130 wig
+** no alternates/entry found
+
+created xref: 歌詞 | song lyrics;words of a song;libretto | 109430 | 115298
+
+created xref: 御・1 | honorific/polite/humble prefix | 111006 | 124521
+
+created xref: 着・1 | counter for suits of clothing | 111925 | 164363
+
+created xref: 大韓民国 | Republic of Korea | 118083 | 169012
+
+created xref: 妹 | younger sister | 119247 | 155296
+
+created xref: 正気 | sanity;consciousness;soberness | 120603 | 162016
+
+created xref: 袴 | hakama;man's formal divided skirt | 124211 | 124210
+
+created xref: 幣 | staff with plaited paper streamers | 124578 | 227680
+
+created xref: 腰・1 | back;lower back;waist;hips;lumbar region | 124593 | 126637
+
+created xref: 白・1 | white | 126523 | 149356
+
+created xref: 白菜 | napa cabbage (Brassica rapa subsp. pekinensis);nappa cabbage;Chinese cabbage | 127540 | 149393
+
+created xref: 平城 | castle on the plains | 128383 | 262433
+
+created xref: 雄 | male (animal) | 129592 | 163203
+
+created xref: 十 | ten | 132133 | 161851
+
+created xref: 名主 | village headman | 133976 | 180540
+
+created xref: 石・2 | gem;jewel | 138954 | 138098
+
+created xref: 貫・2 | kan (obs. unit of currency) | 139360 | 199095
+
+created xref: 短・1 | fault;defect;weak point | 143891 | 269303
+
+created xref: 短・2 | minor | 143893 | 269304
+
+created xref: 仲人・1 | matchmaker | 149185 | 143440
+
+created xref: 礼服 | ceremonial dress;evening dress;dress suit;morning suit | 153313 | 159241
+
+xref: 壷・つぼ・1 153880 night-soil vault;clay pot used to collect feces in an outhouse
+** too many alternates
+*** alternates.count 2
+*** alternates.map ids [118575, 190398]
+
+created xref: 白熊 | polar bear (Ursus maritimus) | 154851 | 189563
+
+xref: 鋒先・ほさき・2 156048 point of spear;spearhead
+** too many alternates
+*** alternates.count 2
+*** alternates.map ids [126398, 127966]
+
+created xref: 傾く・1 | to incline toward;to slant;to lurch;to heel over;to be disposed to;to trend toward;to be prone to | 161616 | 161614
+
+created xref: 傾く・2 | to go down (sun);to wane;to sink;to decline | 161617 | 161615
+
+created xref: 雌 | female (animal) | 163203 | 129592
+
+created xref: 下り物 | vaginal discharge | 163274 | 114286
+
+created xref: 代・2 | material | 164092 | 141679
+
+created xref: 台・5 | level (e.g. price level);range (e.g. after physical units);period (of time, e.g. a decade of one's life) | 164092 | 141796
+
+xref: かつら 166030 wig;hairpiece
+** no alternates/entry found
+
+created xref: 饅頭 | manjū;steamed yeast bun with filling | 166170 | 161136
+
+created xref: 何れ・1 | which (of three or more) | 168017 | 95332
+
+xref: 青眼・2 170404 cold, unwelcoming eyes
+** too many alternates
+*** alternates.count 2
+*** alternates.map ids [113057, 183259]
+
+created xref: 猫・6 | bottom;submissive partner of a homosexual relationship | 171272 | 148489
+
+created xref: 夏日・2 | summer day | 175885 | 115099
+
+created xref: 大人 | adult | 183884 | 141987
+
+xref: 麸・ふ 188414 nama-fu;wheat gluten mixed with rice flour and steamed in large blocks
+** too many alternates
+*** alternates.count 2
+*** alternates.map ids [132117, 207598]
+
+created xref: 鰻 | eel (esp. the Japanese eel, Anguilla japonica) | 189492 | 112908
+
+created xref: 便所 | toilet;lavatory;rest room;latrine;comfort station | 189659 | 153867
+
+created xref: 鹿・か | deer (esp. the sika deer, Cervus nippon);cervid | 191692 | 130308
+
+created xref: ネコ目 | Carnivora | 192956 | 255467
+
+created xref: 仲人・ちゅうにん・1 | matchmaker | 209557 | 143440
+
+created xref: 難い | difficult;hard | 209718 | 162301
+
+created xref: 期す・1 | to fix (a time, date, etc.);to set | 210139 | 166633
+
+created xref: 期す・2 | to expect;to hope for;to look forward to;to foresee;to anticipate | 210140 | 166634
+
+created xref: 期す・3 | to resolve (to do);to decide upon;to prepare for;to promise;to pledge | 210141 | 166635
+
+created xref: 水木 | dogwood (Cornus controversa) | 210207 | 179016
+
+created xref: 木瓜 | Japanese quince (Chaenomeles speciosa);flowering quince | 211141 | 156479
+
+created xref: 封じる | to seal (letter) | 213619 | 201479
+
+created xref: 頭・つむ | counter for large animals (e.g. head of cattle);counter for insects in a collection;counter for helmets, masks, etc. | 214831 | 146487
+
+xref: ちゃう・1 215103 That's not true!
+** no alternates/entry found
+
+xref: いたずら・1 215833 nuisance mail (such as chain mail, etc.)
+** no alternates/entry found
+
+xref: かえ 216040 strengthens a question, assertion, etc.
+** too many alternates
+*** alternates.count 2
+*** alternates.map ids [137669, 171652]
+
+xref: わえ 216040 strengthens a question, assertion, etc.
+** too many alternates
+*** alternates.count 2
+*** alternates.map ids [139173, 189065]
+
+xref: 壷・つぼ・6 216396 to understand the essence;to catch the main points
+** too many alternates
+*** alternates.count 2
+*** alternates.map ids [118575, 190398]
+
+created xref: 夏日・2 | summer day | 217030 | 115099
+
+xref: フィレオフィッシュ 217606 filet
+** no alternates/entry found
+
+created xref: 強請り | begging;pestering;pleading;coaxing | 217636 | 264731
+
+created xref: 猿・1 | monkey (esp. the Japanese macaque, Macaca fuscata);ape;non-human primate | 219249 | 113456
+
+created xref: 鰻 | eel (esp. the Japanese eel, Anguilla japonica) | 219996 | 112908
+
+created xref: 鰻 | eel (esp. the Japanese eel, Anguilla japonica) | 219998 | 112908
+
+created xref: 鰻 | eel (esp. the Japanese eel, Anguilla japonica) | 220020 | 112908
+
+xref: ＮＨＫ 221768 NHK fees
+** no alternates/entry found
+
+created xref: 箕 | Chinese "winnowing basket" constellation (one of the 28 mansions) | 221889 | 221888
+
+created xref: 混じる | to be mixed;to be blended with;to associate with;to mingle with;to interest;to join | 221998 | 165314
+
+created xref: 端・1 | end (e.g. of street);tip;point;edge;margin | 222304 | 162122
+
+created xref: 大根・1 | daikon (variety of large white Oriental radish, Raphanus sativus var. longipinnatus) | 222789 | 141931
+
+created xref: 方便 | upaya (skillful means, methods of teaching) | 222835 | 154429
+
+created xref: 理・2 | general principle (as opposed to individual concrete phenomenon) | 222892 | 199246
+
+created xref: 細い・1 | thin;slender;fine | 223543 | 127500
+
+created xref: 猿・1 | monkey (esp. the Japanese macaque, Macaca fuscata);ape;non-human primate | 224147 | 113456
+
+created xref: 豚・1 | pig (Sus scrofa domesticus) | 224595 | 147301
+
+xref: ちゃう 225396 to do something completely
+** no alternates/entry found
+
+created xref: 猿・1 | monkey (esp. the Japanese macaque, Macaca fuscata);ape;non-human primate | 226360 | 113456
+
+created xref: 家・ち・1 | house;residence;dwelling | 226428 | 115116
+
+created xref: 猿・4 | sliding wooden bolt (for holding a door or window shut) | 226608 | 113459
+
+created xref: 猿・4 | sliding wooden bolt (for holding a door or window shut) | 226609 | 113459
+
+created xref: 白癬 | ringworm;tinea | 226731 | 249922
+
+xref: 晦・つごもり 226963 last day of the month
+** too many alternates
+*** alternates.count 2
+*** alternates.map ids [134967, 191380]
+
+created xref: 苞 | bract (leaf) | 226999 | 227000
+
+xref: 獲る・とる 227302 to be harvested;to be reaped;to be yielded
+** too many alternates
+*** alternates.count 2
+*** alternates.map ids [126335, 133415]
+
+created xref: 平調・1 | (in Japan) 3rd note of the ancient chromatic scale (approx. E) | 228586 | 228584
+
+created xref: 強飯 | glutinous rice with red beans (eaten on celebratory occasions);mochi rice with red beans | 230478 | 185370
+
+created xref: 強飯 | glutinous rice with red beans (eaten on celebratory occasions);mochi rice with red beans | 230479 | 185370
+
+created xref: バックス | VAX;obsolete instruction set architecture | 230825 | 286789
+
+created xref: 三線 | sanshin;Okinawan traditional three-stringed instrument; precursor to the shamisen | 231130 | 219162
+
+xref: 生薑 231324 ginger (Zingiber officinale)
+** too many alternates
+*** alternates.count 2
+*** alternates.map ids [113329, 248099]
+
+xref: ように・1 245060 like;similar to
+** no alternates/entry found
+
+xref: ように 245063 in order to (e.g. meet goal);so that
+** no alternates/entry found
+
+created xref: 猿・4 | sliding wooden bolt (for holding a door or window shut) | 245619 | 113459
+
+created xref: 袴 | hakama;man's formal divided skirt | 245666 | 124210
+
+created xref: 袴 | hakama;man's formal divided skirt | 245868 | 124210
+
+created xref: 大・おおい | big;large | 247049 | 211908
+
+created xref: 従・ひろき | subordinate;secondary;junior;incidental | 247067 | 228377
+
+created xref: 糞・2 | pooh-pooh;poop;something dirty | 247974 | 95476
+
+created xref: 経 | sutra;Buddhist scriptures | 256085 | 199121
+
+created xref: 旅 | travel;trip;journey | 256904 | 158729
+
+created xref: 上面 | surface;appearances;exterior | 257016 | 134674
+
+created xref: 葛・1 | kudzu (Pueraria montana);Japanese arrowroot | 258204 | 117206
+
+created xref: 正法 | true dharma;true teachings of Buddha | 259212 | 259214
+
+created xref: 鰍 | sculpin (any fish of family Cottidae, incl. the bullheads and the miller's-thumb) | 260017 | 117055
+
+created xref: 藁苞 | straw wrapper | 260185 | 159873
+
+created xref: 魂消る | to be astonished;to be flabbergasted;to be startled;to be amazed | 260869 | 168567
+
+created xref: 袴 | hakama;man's formal divided skirt | 261039 | 124210
+
+created xref: 饅頭 | manjū;steamed yeast bun with filling | 261046 | 161136
+
+xref: そらごと 261096 lie
+** no alternates/entry found
+
+created xref: 半玉 | child geisha;apprentice entertainer | 261204 | 149898
+
+created xref: 沢山・1 | a lot;lots;plenty;many;a large number;much;a great deal;a good deal | 261967 | 142203
+
+xref: 巫子・いちこ・1 262096 necromancer (esp. a blind female in northeastern Honshu);medium;shaman
+** too many alternates
+*** alternates.count 2
+*** alternates.map ids [106410, 134961]
+
+created xref: 総領・3 | pre-ritsuryo official established in key provinces, responsible for administration of his home and surrounding provinces | 262260 | 140474
+
+created xref: 台・5 | level (e.g. price level);range (e.g. after physical units);period (of time, e.g. a decade of one's life) | 262489 | 141796
+
+created xref: 腰・1 | back;lower back;waist;hips;lumbar region | 262694 | 126637
+
+xref: ホトトギス 263238 cry of the lesser cuckoo (Cuculus poliocephalus)
+** too many alternates
+*** alternates.count 2
+*** alternates.map ids [119611, 187941]
+
+created xref: 化粧水 | face lotion | 263511 | 161455
+
+xref: いたずら・1 263633 prank;joke
+** no alternates/entry found
+
+created xref: 半玉 | child geisha;apprentice entertainer | 263673 | 149898
+
+created xref: 力役・1 | physical labor;physical labour;physical work | 263826 | 158966
+
+created xref: 強請り | begging;pestering;pleading;coaxing | 264724 | 264731
+
+created xref: 袴 | hakama;man's formal divided skirt | 265159 | 124210
+
+created xref: 山袴 | work hakama | 265160 | 265159
+
+created xref: 角・すみ・2 | square (or cube) | 267804 | 116828
+
+created xref: 伯父 | uncle | 269493 | 165758
+
+xref: タミフル 269496 to panic (from the flu panics of late 2000's and early 2010's);to act frantically;to act bizarrely
+** no alternates/entry found
+
+created xref: 唐紙・2 | paper sliding-door;sliding door covered with thick paper | 270343 | 182845
+
+xref: しかし 270385 however;but
+** no alternates/entry found
+
+xref: またぎ 271257 ancient hunting communities in Tōhoku
+** no alternates/entry found
+
+created xref: 猫・1 | cat | 274403 | 148484
+
+xref: ほんま 276629 genuine article;real thing;real deal
+** no alternates/entry found
+
+created xref: 橡・くぬぎ | Japanese horse chestnut (Aesculus turbinata) | 277115 | 195923
+
+xref: よろしく・2 277975 best regards;please remember me;please treat me favorably (favourably);please take care of
+** no alternates/entry found
+
+created xref: 候・そう・1 | season;weather | 278220 | 124825
+
+xref: 麸・ふ 280819 yaki-fu;wheat gluten leavened with baking powder and baked into long bread-like sticks
+** too many alternates
+*** alternates.count 2
+*** alternates.map ids [132117, 207598]
+
+created xref: 仕込み・1 | training;education;upbringing | 281674 | 128609
+
+xref: 麸・ふ 282716 wheat gluten (usu. steamed or baked)
+** too many alternates
+*** alternates.count 2
+*** alternates.map ids [132117, 207598]
+
+created xref: 頭・かしら・1 | counter for large animals (e.g. head of cattle);counter for insects in a collection;counter for helmets, masks, etc. | 284107 | 146487
+
+created xref: 達 | pluralizing suffix (esp. for people &amp; animals; formerly honorific) | 284790 | 142258
+
+xref: たおれる・1 285442 to fall;to die;to be defeated
+** no alternates/entry found
+
+created xref: 白菜 | napa cabbage (Brassica rapa subsp. pekinensis);nappa cabbage;Chinese cabbage | 285448 | 149393
+
+created xref: 予言 | prediction;prophecy;prognostication | 288268 | 162614
+
+created xref: 大領 | director of a district (ritsuryo system) | 291163 | 291162
+
+created xref: なら・2 | as for;on the topic of | 292222 | 95362
+
+created xref: 乙・4 | thank you;good job;goodbye;goodnight | 292500 | 114104
+
+created xref: 美女 | beautiful woman | 293041 | 150770
+
+created xref: ピンズ | lapel pin;pin badge | 293503 | 293502
+
+created xref: トン | dot (in Morse code) | 293926 | 293928
+
+created xref: おこ | anger;being angry;being mad | 294204 | 293215
+
+created xref: マッチ | match (contest) | 294363 | 283372
+
+xref: ゲー・1 295166 video game in which the player is likely to die frequently
+** no alternates/entry found
+
+created xref: こ・2 | doing together;contest;match | 295553 | 262164
+
+created xref: シス・1 | cis | 295912 | 100736
+
+created xref: ど・1 | precisely;exactly;plumb;totally;very much | 296351 | 229925
+
+created xref: ぽっくり・1 | (dying) suddenly | 296516 | 209169
+
+created xref: やばい・1 | dangerous;risky | 296521 | 95873
+
+created xref: やばい・2 | awful;terrible;crap | 296522 | 95874
+
+created xref: やばい・3 | terrific;amazing;cool | 296523 | 95875
+
+created xref: 中流 | mid-stream;middle course;middle class | 296914 | 143405
+
+created xref: がち | serious;diligent;honest;earnest | 296983 | 269972
+
+created xref: 垢・2 | account (e.g. online service) | 297163 | 125363
+
+xref: アイスランド 297566 Iceland
+** no alternates/entry found
+
+created xref: 草・4 | laughter;LOL | 297663 | 140484
+
+created xref: が・1 | indicates sentence subject (occasionally object) | 297674 | 206391
+
+created xref: ます・1 | used to indicate respect for the listener (or reader) | 297876 | 225342
+
+created xref: ナン | naan;nan;flatbread in Central and South Asian cuisine | 297926 | 222770
+CrossReference.count: 25254
+2018-09-03 17:38:42 -0700: Done

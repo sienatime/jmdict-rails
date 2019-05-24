@@ -1,0 +1,742 @@
+2018-09-03 12:34:58 -0700: File: /Users/siena/workspace/nanodegree/capstone/jmdict_to_sqlite/jmdict/app/models/cross_reference_adder.rb
+xref: あくが強い・あくがつよい・2
+assigning xref excessively strong-willed;fiercely individualistic;strongly idiosyncratic
+xref: 祖母さん・1
+assigning xref grandmother
+xref: 何れくらい・どれくらい
+assigning xref how long;how far;how much
+xref: ぬるぬる・1
+assigning xref slimy;slippery;greasy;clammy;gooey
+xref: はらはら・2
+assigning xref fluttering down;trickling down (e.g. tears)
+xref: インストルメンタル・1
+assigning xref instrumental
+xref: 御宅・4
+assigning xref you (referring to someone of equal status with whom one is not especially close)
+xref: コンパニー・2
+assigning xref company (i.e. group of friends)
+xref: ぬうっと
+assigning xref suddenly;abruptly
+xref: ぼうっと・2
+assigning xref dimly;hazily;faintly;vaguely;indistinctly
+xref: びびる・1
+assigning xref to feel nervous;to feel afraid;to feel self-conscious;to lose one's nerve;to get cold feet;to get the jitters
+xref: びびる・2
+assigning xref to be startled;to be surprised;to be shocked;to feel frightened;to be spooked
+xref: 音頭を取る・おんどをとる
+assigning xref to lead a group of people
+xref: 御荷物・1
+assigning xref baggage;luggage
+xref: 掛け蕎麦・かけそば
+assigning xref buckwheat noodles in hot broth
+xref: 話し掛ける・2
+assigning xref to begin to talk;to start a conversation
+xref: 話し掛ける・1
+assigning xref to address (someone);to accost a person;to talk (to someone)
+xref: スッポン・1
+assigning xref Chinese soft-shelled turtle (Pelodiscus sinensis);soft-shelled turtle (Trionychidae)
+xref: 麻呂・3
+assigning xref affectionate suffix for names of young men or pets
+xref: 生け贄・1
+assigning xref sacrifice (to the gods)
+xref: アブラムシ・1
+assigning xref aphid;plant louse
+xref: 詰まる所・つまるところ
+assigning xref in short;in brief;to sum up;ultimately;in the end;in the long run;when all is said and done;what it all comes down to;when you get right down to it
+xref: 玉子・2
+assigning xref hen egg
+xref: お見逸れ・1
+assigning xref failing to recognize someone
+xref: お見逸れ・2
+assigning xref underestimation
+xref: 五目鮨・ごもくずし
+assigning xref sushi rice mixed with various ingredients (vegetables, fish, etc.)
+xref: ご覧なさい・3
+assigning xref (please) try to do
+xref: ご覧なさい・1
+assigning xref (please) look
+xref: 握り寿司・にぎりずし
+assigning xref nigirizushi;hand-formed sushi with a topping of seafood, etc.
+xref: 遭う・1
+assigning xref to meet;to encounter;to see
+xref: 遭う・1
+assigning xref to meet;to encounter;to see
+xref: 鎖す・さす・1
+assigning xref to shut;to close;to lock;to fasten
+xref: 五目鮨・ごもくずし
+assigning xref sushi rice mixed with various ingredients (vegetables, fish, etc.)
+xref: 私製葉書・しせいはがき
+assigning xref unofficial postcard;private mailing card
+xref: 御針・1
+assigning xref needlework;sewing
+xref: 晴れ後曇り・はれのちくもり
+assigning xref cloudy after fine;sunny then cloudy;clear then cloudy
+xref: 白眼・はくがん・2
+assigning xref cold, unwelcoming eyes
+xref: 素っ破抜く・すっぱぬく
+assigning xref to expose (a secret, scandal, etc.);to disclose;to uncover;to unmask
+xref: 鎖す・さす・1
+assigning xref to shut;to close;to lock;to fasten
+xref: 掻っ込む・かっこむ
+assigning xref to bolt one's food;to gulp down
+xref: 舟を漕ぐ・1
+assigning xref to row a boat
+xref: 赤味を帯びた・あかみをおびた
+assigning xref tinged with red;reddish
+xref: 高が知れている・たかがしれている
+assigning xref to not amount to much
+xref: 御馳走・1
+assigning xref feast;treating (someone)
+xref: 皐月・1
+assigning xref fifth month of the lunar calendar
+xref: 御昼・2
+assigning xref noon;midday
+xref: 御昼・3
+assigning xref daytime
+xref: 御昼・1
+assigning xref lunch
+xref: 私撰・2
+assigning xref private selection (e.g. of poetry)
+xref: 張り付ける・はりつける・1
+assigning xref to paste;to stick;to affix
+xref: 枡形・2
+assigning xref square bearing block (at the top of a pillar)
+xref: 卒塔婆・1
+assigning xref stupa;dagoba
+xref: 卒塔婆・1
+assigning xref stupa;dagoba
+xref: 卒塔婆・2
+assigning xref wooden grave tablet
+xref: 二進も三進も行かない・にっちもさっちもいかない
+assigning xref being driven into a corner;having no way out;being caught between a rock and a hard place
+xref: いんちき・1
+assigning xref cheating;fraud;trickery;deception
+xref: 毛氈を被る・1
+assigning xref to blunder;to bungle;to fail
+xref: 起き上がり小法師・おきあがりこぼし
+assigning xref tumbler;self-righting doll
+xref: 付け毛・つけげ
+assigning xref hairpiece;hair filler;artificial hair;wig
+xref: 壷・つぼ・1
+** too many alternates
+xref: 花弁・はなびら
+assigning xref (flower) petal
+xref: 印度菩提樹・いんどぼだいじゅ
+assigning xref sacred fig (Ficus religiosa);bodhi tree;bo tree;peepal tree;pipal tre
+xref: 鋒先・ほさき・2
+** too many alternates
+xref: 目鼻立・めはなだち
+assigning xref (set of) facial features;looks
+xref: 訳の分らない・わけのわからない
+assigning xref incomprehensible;uncomprehending
+xref: 和蘭・オランダ
+assigning xref Holland;The Netherlands
+xref: あばら骨・1
+assigning xref rib
+xref: けち・1
+assigning xref stinginess;miserliness;penny-pinching;cheeseparing;miser;pinchpenny;skinflint;cheapskate;tightwad;niggard
+xref: けち・1
+assigning xref stinginess;miserliness;penny-pinching;cheeseparing;miser;pinchpenny;skinflint;cheapskate;tightwad;niggard
+xref: 按摩・1
+assigning xref massage (esp. anma, a traditional form of Japanese massage)
+xref: 篝火・かがりび・1
+assigning xref fire built in an iron basket (watch fire, fishing fire, etc.);bonfire;campfire
+xref: 駱駝色・らくだいろ
+assigning xref camel color
+xref: 御暇・1
+assigning xref leaving;going home
+xref: 在る・1
+assigning xref to be;to exist;to live
+xref: 枡・1
+assigning xref measuring container;measure
+xref: 御襁褓・おむつ
+assigning xref diaper;nappy;napkin
+xref: おどけ者・おどけもの
+assigning xref idiot;dummy;joker;fool;trickster
+xref: 晒・さらし・2
+assigning xref public humiliation (punishment)
+xref: 力づく
+assigning xref to recover one's strength;to recover one's spirit;to revive;to be refreshed;to be invigorated;to be encouraged
+xref: 冷や酒・ひやざけ
+assigning xref cold sake
+xref: 叔母・おば
+assigning xref aunt
+xref: 俯せる・うつぶせる
+assigning xref to lie face-down
+xref: 餡子・2
+assigning xref filling (e.g. of a manjū)
+xref: お婆さん・2
+assigning xref old woman;female senior citizen
+xref: お坊っちゃん・おぼっちゃん・1
+assigning xref son (of others);boy;young master
+xref: 腹の虫が治まらない・はらのむしがおさまらない
+assigning xref cannot contain one's anger;can't contain myself;staying angry
+xref: 藪医者・やぶいしゃ
+assigning xref poor doctor;inept doctor;quack
+xref: 着信メロディー・ちゃくしんメロディー
+assigning xref melodic ring tone
+xref: 全う・1
+assigning xref proper;respectable;decent;honest
+xref: 粘粘・1
+assigning xref sticky;gluey;gummy;glutinous;viscous;gooey;greasy
+xref: 御神酒・1
+assigning xref sacred wine or sake;sake offered to the gods
+xref: 青眼・2
+** too many alternates
+xref: 揚げ句・あげく・2
+assigning xref last line (of a renga)
+xref: 手拭い・てぬぐい
+assigning xref (hand) towel
+xref: 親無し子・おやなしご
+assigning xref parentless child;orphan
+xref: カッコウ
+assigning xref common cuckoo (Cuculus canorus)
+xref: ヤクザ・1
+assigning xref yakuza;gangster;mobster;hoodlum;racketeer;gambler
+xref: 男旱・おとこひでり
+assigning xref scarcity of eligible men;difficulty for a woman to find a man;man shortage
+xref: 御神灯・1
+assigning xref light used as a religious offering
+xref: あほだら・1
+assigning xref fool;oaf;airhead
+xref: 置き碁・おきご
+assigning xref handicap go;game of go played with a handicap
+xref: 綴・つづり・1
+assigning xref spelling
+xref: 千成り瓢箪・1
+assigning xref bottle gourd
+xref: 麸・ふ
+** too many alternates
+xref: 繰り下がる・2
+assigning xref to be borrowed (of a number in subtraction)
+xref: 掻き込む・2
+assigning xref to carry under the arm;to rake in;to scoop up
+xref: 一糸纏わず・いっしまとわず
+assigning xref stark-naked
+xref: 目明かし
+assigning xref hired thief taker (Edo-period);private detective;private secret policeman
+xref: 玉子・2
+assigning xref hen egg
+xref: 駄目押し・1
+assigning xref making doubly sure
+xref: 気付く・きづく
+assigning xref to notice;to recognize;to recognise;to become aware of;to perceive;to realize;to realise
+xref: 女房言葉
+assigning xref secret language of court ladies (Muromachi period)
+xref: トントン・2
+assigning xref without delay;smoothly;without a hitch
+xref: つんでれ
+assigning xref normally being cold but at some prompt suddenly becoming lovestruck;hot-cold personality type
+xref: つんつん・1
+assigning xref aloof;morose;stuck-up;standoffish
+xref: 松葉蟹・1
+assigning xref snow crab (Chionoecetes opilio);queen crab
+xref: 固唾をのむ・かたずをのむ
+assigning xref to hold one's breath (in fear, anxiety, etc.)
+xref: ぶよぶよ
+assigning xref soft and flabby
+xref: 行って来る・1
+assigning xref I'm off;see you later
+xref: 付出し・2
+assigning xref very successful amateur wrestler, allowed to start professional career in makushita division
+xref: ごろりと・1
+assigning xref slumping;flopping down
+xref: ごろごろ・1
+assigning xref thundering;purring;grumbling (e.g. stomach)
+xref: ごろごろ・2
+assigning xref something large and heavy starting to roll
+xref: ごろごろ・4
+assigning xref idleness;idling about
+xref: ざらざら・1
+assigning xref rough (touch, voice, etc.);coarse;gritty;sandy;granular
+xref: 万作・1
+assigning xref Japanese witch-hazel (Hamamelis japonica)
+xref: スグリ・1
+assigning xref gooseberry;currant
+xref: つんつん・1
+assigning xref aloof;morose;stuck-up;standoffish
+xref: 女ひでり・おんなひでり
+assigning xref scarcity of eligible women;difficulty for a man to find a woman;woman shortage
+xref: 雛祭・ひなまつり
+assigning xref Hinamatsuri (March 3rd);Girls' Festival;Dolls' Festival
+xref: 篝火・1
+assigning xref fire built in an iron basket (watch fire, fishing fire, etc.);bonfire;campfire
+xref: マグロ・3
+assigning xref dead lay;starfish;person who is inactive during sexual intercourse
+xref: ぼうっと・1
+assigning xref doing nothing;being stupefied;flushingly;abstractedly;dazedly;blankly;dreamily
+xref: ぴりぴり・1
+assigning xref stinging;smarting;tingling;burning
+xref: ぺこぺこ・1
+assigning xref very hungry;starving;famished
+xref: 幾ら何でも・いくらなんでも
+assigning xref no matter how you put it;whatever the circumstances may be;say what you like;no matter how you look at it
+xref: 突き合せる・つきあわせる・1
+assigning xref to place persons opposite;to come face to face with
+xref: 有り得る・ありうる
+assigning xref possible;likely;probable
+xref: 鮑結び・1
+assigning xref var. of knot often used to tie mizu-hiki
+xref: 翡翠・2
+assigning xref jade (gem)
+xref: ネズミ・1
+assigning xref mouse;rat
+xref: 壷・つぼ・6
+** too many alternates
+xref: 年寄・2
+assigning xref trustee of the Japan Sumo Association;retired high-ranking wrestler who is licensed to coach and receives retirement pay
+xref: 在る・ある・1
+assigning xref to be;to exist;to live
+xref: 在る・ある・1
+assigning xref to be;to exist;to live
+xref: 在る・ある・2
+assigning xref to have
+xref: ヤクザ・1
+assigning xref yakuza;gangster;mobster;hoodlum;racketeer;gambler
+xref: あくの強い・1
+assigning xref harsh tasting;strongly alkaline tasting
+xref: あくの強い・あくのつよい・2
+assigning xref excessively strong-willed;fiercely individualistic;strongly idiosyncratic
+xref: 亜ヒ酸・2
+assigning xref arsenic trioxide;white arsenic (As2O3)
+xref: 威有って猛からず・いあってたけからず
+assigning xref dignified without being overbearing;being dignified, and moreover warm, as such one is gentle
+xref: 青竜・1
+assigning xref blue dragon (an auspicious creature in Chinese mythology)
+xref: 青竜・2
+assigning xref Azure Dragon (god said to rule over the eastern heavens)
+xref: 襲・3
+assigning xref layers of clothing worn under one's overcoat
+xref: 襲・4
+assigning xref combination of colors created by layering of garments (colours)
+xref: 阜偏・こざとへん
+assigning xref kanji "mound" or "small village" radical at left (radical 170)
+xref: 目が眩む・3
+assigning xref to be lost in (greed, lust, etc.)
+xref: 卒塔婆・1
+assigning xref stupa;dagoba
+xref: 皐月・1
+assigning xref fifth month of the lunar calendar
+xref: 引き摺る・4
+assigning xref to influence strongly;to seduce
+xref: 押し鮨・おしずし
+assigning xref oshizushi;sushi rice and other ingredients pressed in box or mould (mold)
+xref: ツケが回って来る・ツケがまわってくる
+assigning xref you'll have to pay for it;the bill will come due;there's no escaping
+xref: ぴかぴか・1
+assigning xref with a glitter;with a sparkle
+xref: 御出でなさる・1
+assigning xref to come;to go;to be (somewhere)
+xref: 晦・つごもり
+** too many alternates
+xref: ルビ・2
+assigning xref ruby character;small hiragana or katakana readings of kanji usually above or to the side of the kanji (esp. used by printers and in ref. to printed material)
+xref: 獲る・とる
+** too many alternates
+xref: ぎくり・1
+assigning xref (with a) start
+xref: ぎくり・2
+assigning xref to be startled
+xref: あくが強い・1
+assigning xref having a strong alkaline taste;harsh to the taste
+xref: 白子干し・しらすぼし
+assigning xref dried young sardines
+xref: 太簇・1
+assigning xref (in China) 3rd note of the ancient chromatic scale (approx. E)
+xref: 通草・1
+assigning xref chocolate-vine (Akebia quinata);fiveleaf;fiveleaf akebia
+xref: ぷつん・1
+assigning xref breaking off;snapping off
+xref: 御存じ・1
+assigning xref knowing
+xref: 甘み・1
+assigning xref sweetness;sugary taste
+xref: 荷う・1
+assigning xref to carry on shoulder;to shoulder (gun)
+xref: 黒んぼ・1
+assigning xref dark-skinned person;well-tanned person
+xref: 方がよい・1
+assigning xref had better ...
+xref: キササゲ
+assigning xref yellow catalpa (Catalpa ovata);Chinese catalpa
+xref: 間だるい・1
+assigning xref slow;tedious;sluggish;dull
+xref: 間だるい・2
+assigning xref irritating
+xref: 間だるい・1
+assigning xref slow;tedious;sluggish;dull
+xref: 間だるい・2
+assigning xref irritating
+xref: 細石・1
+assigning xref pebbles;gravel
+xref: 鉾・1
+assigning xref long-handled Chinese spear;lance;pike
+xref: 知らない振り
+assigning xref feigning ignorance;acting dumb
+xref: ドッグイヤ・2
+assigning xref dog's ear
+xref: 和蘭・オランダ
+assigning xref Holland;The Netherlands
+xref: 和蘭・オランダ
+assigning xref Holland;The Netherlands
+xref: スズメバチ・2
+assigning xref Asian giant hornet (Vespa mandarinia);yak-killer hornet
+xref: 祖父さん・1
+assigning xref grandfather (may be used after name as honorific)
+xref: 御店・1
+assigning xref merchant's home (esp. used by apprentices, etc.)
+xref: 御店・2
+assigning xref (your) rental home
+xref: 見世棚・2
+assigning xref store;shop
+xref: ごたごた・2
+assigning xref confusion;disorder;mess;muddle
+xref: ごたごた・1
+assigning xref trouble;difficulties;dispute;quarrel;discord;dissension
+xref: 御盆・1
+assigning xref O-Bon;Bon Festival;Lantern Festival;Festival of the Dead
+xref: 打っ込む・1
+assigning xref to hit;to strike;to smash;to hammer in;to drive in
+xref: 打っ込む・2
+assigning xref to throw;to toss;to cast
+xref: 打っ込む・3
+assigning xref to mix
+xref: 打っ込む・4
+assigning xref to wear (sword, etc.);to carry
+xref: げろ・1
+assigning xref vomit;spew;puke;vomiting
+xref: 食い合せ・1
+assigning xref combination (e.g. of foodstuffs)
+xref: 引き攣り・1
+assigning xref scar
+xref: 引き攣り・2
+assigning xref spasm;twitch;cramp
+xref: 薩摩芋・さつまいも
+assigning xref sweet potato (Ipomoea batatas)
+xref: ざくざく・3
+assigning xref cutting into large pieces;loosely weaving
+xref: ヲタク
+assigning xref geek;nerd;enthusiast;otaku
+xref: 繦・1
+assigning xref cord used to tuck up the sleeves of a kimono
+xref: 釣り行灯
+assigning xref hanging paper lantern
+xref: ぺらぺら・2
+assigning xref incessantly (speaking);glibly;garrulously;volubly
+xref: ぺらぺら・1
+assigning xref fluently (speaking a foreign language)
+xref: アナグマ・1
+assigning xref badger
+xref: ウキゴリ・1
+assigning xref common freshwater goby (Gymnogobius urotaenia)
+xref: 綴暦・とじごよみ
+assigning xref bound almanac;calendar in the form of a book
+xref: ベイビー・スリング
+assigning xref baby
+xref: 明け烏・1
+assigning xref daybreak sound of a crow
+xref: 機嫌をとる
+assigning xref to curry favour;to butter up;to fawn over;to humour someone (humor);to put in a good mood (e.g. a baby)
+xref: 在る・ある・1
+assigning xref to be;to exist;to live
+xref: られる・4
+assigning xref used as an honorific for others' actions
+xref: 千仞・2
+assigning xref great height
+xref: 卒塔婆・2
+assigning xref wooden grave tablet
+xref: 目明かし
+assigning xref hired thief taker (Edo-period);private detective;private secret policeman
+xref: 引き摺り・1
+assigning xref train of dress;trailing skirt
+xref: 引き摺り・2
+assigning xref woman who doesn't work and only thinks about fashion
+xref: 御免蒙る・2
+assigning xref to leave (with someone's permission);to retire
+xref: 御免蒙る・3
+assigning xref to refuse;to beg off doing
+xref: 巫子・いちこ・1
+** too many alternates
+xref: 妻黒・1
+assigning xref blacktip reef shark (Carcharhinus melanopterus, species of requiem shark mostly found in the Indo-Pacific)
+xref: もて囃す
+assigning xref to praise extravagantly;to lionize;to lionise;to make much of
+xref: 飛魚
+assigning xref flying fish (esp. the Japanese flying fish, Cypselurus agoo)
+xref: 飛子・2
+assigning xref travelling male homosexual prostitute
+xref: かわゆい・1
+assigning xref cute;adorable;charming;lovely;pretty
+xref: 禿頭・1
+assigning xref bald head
+xref: 禿頭・2
+assigning xref baldness
+xref: 乙女・1
+assigning xref little girl;maiden;young lady;female usually between 7 and 18 years old
+xref: 愈々・いよいよ・1
+assigning xref more and more;all the more;increasingly
+xref: オッパイ・1
+assigning xref breasts;boobies;tits
+xref: オッパイ・1
+assigning xref breasts;boobies;tits
+xref: 揉み上げ・もみあげ
+assigning xref tuft of hair under temple;sideburns;sidelocks
+xref: 直ぐ様・すぐさま
+assigning xref immediately;promptly
+xref: 鳥追・2
+assigning xref procession held at the New Year to chase away the birds for the year, with children singing songs as the villagers walked from house to house
+xref: 盂蘭盆
+assigning xref Bon festival;Feast of Lanterns
+xref: 智・1
+assigning xref wisdom
+xref: 連込み宿
+assigning xref traditional love hotel;traditional Japanese inn specially for couples
+xref: こけら板・こけらいた
+assigning xref thin shingles
+xref: 皐月・1
+assigning xref fifth month of the lunar calendar
+xref: 皐月・1
+assigning xref fifth month of the lunar calendar
+xref: 皐月・1
+assigning xref fifth month of the lunar calendar
+xref: 甦る・よみがえる・1
+assigning xref to be resurrected;to be resuscitated;to be rehabilitated;to be revived;to be refreshed;to be restored
+xref: 型に嵌める・かたにはめる
+assigning xref to stereotype;to squeeze into a pattern;to regiment
+xref: 砂嚢・2
+assigning xref gizzard
+xref: 鳥刺・1
+assigning xref catching birds (using a birdlime-covered pole);bird catcher
+xref: 当り前・1
+assigning xref natural;reasonable;obvious
+xref: ずべら
+assigning xref sloppy;slovenly;slipshod;negligent;loose;unkempt
+xref: 捜す・2
+assigning xref to search (for something lost);to seek (a suspect in a crime)
+xref: １個当り・いっこあたり
+assigning xref each;per piece
+xref: 野鼠・のねずみ
+assigning xref field mouse;meadow mouse
+xref: ぱしゃぱしゃ・1
+assigning xref splash-splash;repetitive splashing sound
+xref: 押し鮨・おしずし
+assigning xref oshizushi;sushi rice and other ingredients pressed in box or mould (mold)
+xref: 蒸篭・1
+assigning xref steaming basket;wooden frame holder with reed base used to steam food over a pot
+xref: 昇り竜・のぼりりゅう・1
+assigning xref rising dragon
+xref: 金魚掬い・きんぎょすくい
+assigning xref festival game in which participants try to catch goldfish in a shallow paper ladle
+xref: 白洲・2
+assigning xref area in a garden or entrance of a house laid with white sand or pebbles
+xref: 見付ける・1
+assigning xref to discover;to find (e.g. an error in a book);to come across;to detect;to spot
+xref: バリスター・4
+assigning xref ballista
+xref: 通り掛かる・とおりかかる
+assigning xref to happen to pass by
+xref: 山颪・やまおろし
+assigning xref wind blowing down from a mountain
+xref: 藍摺・1
+assigning xref ukiyo-e print produced with various shades of indigo (and sometimes small amounts of vermilion or yellow)
+xref: 此方持ち・こちらもち
+assigning xref It's on me
+xref: 調う・1
+assigning xref to be ready;to be prepared;to be arranged
+xref: 在る・ある・1
+assigning xref to be;to exist;to live
+xref: 素っ破抜く・すっぱぬく
+assigning xref to expose (a secret, scandal, etc.);to disclose;to uncover;to unmask
+xref: 胸一杯・1
+assigning xref getting a lump in one's throat;overflowing with feelings
+xref: くそ食らえ・くそくらえ
+assigning xref eat shit!;fuck off!;fuck you!
+xref: 合い言葉・1
+assigning xref password;watchword
+xref: 綰物・1
+assigning xref circular box
+xref: うんうん・1
+assigning xref uh-huh;mm-hmm
+xref: 掌・てのひら
+assigning xref palm (of one's hand)
+xref: ごろごろ・3
+assigning xref scattered about;common;commonplace;all over
+xref: 水落・1
+assigning xref pit of the stomach;solar plexus
+xref: 車襞・くるまひだ
+assigning xref knife pleat;one-way pleat;unidirectional pleat;accordion pleats
+xref: 御入り候・2
+assigning xref to be
+xref: 御入り候・1
+assigning xref to go;to come
+xref: 松毬・まつかさ
+assigning xref pinecone;pine cone
+xref: ヤクザ・1
+assigning xref yakuza;gangster;mobster;hoodlum;racketeer;gambler
+xref: 負ぶい紐・おぶいひも
+assigning xref baby backpack;back-mounted baby carrier;sling
+xref: スッポン・1
+assigning xref Chinese soft-shelled turtle (Pelodiscus sinensis);soft-shelled turtle (Trionychidae)
+xref: ヤクザ・1
+assigning xref yakuza;gangster;mobster;hoodlum;racketeer;gambler
+xref: 靠れる・2
+assigning xref to lie heavy (on the stomach);to be uneasily digested
+xref: 圏風牌
+assigning xref tile matching the round wind
+xref: 振り込み・2
+assigning xref discarding a tile that becomes another player's winning tile
+xref: 耳に胼胝ができる・みみにたこができる
+assigning xref to be told or made to hear something so often that you (metaphorically) get calluses on your ears
+xref: ぼこぼこ・4
+assigning xref viciously beating;hitting and kicking repeatedly
+xref: 訳が分らない・わけがわからない
+assigning xref incomprehensible;uncomprehending
+xref: むちむち
+assigning xref plump;chubby;voluptuous
+xref: 麸・ふ
+** too many alternates
+xref: キツネ・1
+assigning xref fox (esp. the red fox, Vulpes vulpes)
+xref: 在る・1
+assigning xref to be;to exist;to live
+xref: 堅い・1
+assigning xref hard;solid;tough
+xref: 為難い・しにくい
+assigning xref hard to do
+xref: スクミリンゴガイ
+assigning xref channeled apple snail (Pomacea canaliculata);golden apple snail
+xref: 襲・3
+assigning xref layers of clothing worn under one's overcoat
+xref: カイツブリ・1
+assigning xref little grebe (Tachybaptus ruficollis)
+xref: カイツブリ・2
+assigning xref grebe (any waterbird of family Podicipedidae)
+xref: 襲・かさね・3
+assigning xref layers of clothing worn under one's overcoat
+xref: 御茶の子・おちゃのこ・1
+assigning xref cinch;pushover;easy matter;piece of cake
+xref: 麸・ふ
+** too many alternates
+xref: 黄味がかった・きみがかった
+assigning xref yellowish;cream-coloured;cream-colored
+xref: バンニング・1
+assigning xref loading goods on a truck
+xref: 賢木・2
+assigning xref evergreen (esp. one planted or used at a shrine)
+xref: 身も世も無い・みもよもない
+assigning xref heartrending;desperate;hopeless;full of grief
+xref: 成程・なるほど
+assigning xref I see;that's right;indeed
+xref: きのこ狩り・きのこがり
+assigning xref mushroom gathering
+xref: オオカミ・1
+assigning xref wolf (Canis lupus)
+xref: えみし・1
+assigning xref historical term for non-Yamato peoples in northern Japan;Emishi
+xref: 目草・まぐさ
+assigning xref lintel (lacking the grooves needed for a sliding door)
+xref: 直す・3
+assigning xref to do over again
+xref: 幾ら何でも・いくらなんでも
+assigning xref no matter how you put it;whatever the circumstances may be;say what you like;no matter how you look at it
+xref: マンガ喫茶・マンガきっさ
+assigning xref manga cafe;coffee shop with a manga library (usu. has Internet facilities and charges by the hour)
+xref: 焼き肉・1
+assigning xref yakiniku;Japanese dish of grilled meat similar to Korean barbecue
+xref: 昇り竜・のぼりりゅう・1
+assigning xref rising dragon
+xref: トカゲ・1
+assigning xref lizard
+xref: 穴明き銭・あなあきせん
+assigning xref perforated coin
+xref: あいうえお順・あいうえおじゅん
+assigning xref aiueo-order;order of the kana syllabary
+xref: いち早く・1
+assigning xref promptly;quickly;without delay
+xref: 娑羅双樹・1
+assigning xref sal (tree) (Shorea robusta);saul
+xref: 娑羅双樹・1
+assigning xref sal (tree) (Shorea robusta);saul
+xref: 皮被り・かわかぶり
+assigning xref phimosis;tightening of the foreskin
+xref: 出来る限り・できるかぎり
+assigning xref as ... as one can;as ... as possible;as much as possible
+xref: 滅茶苦茶・2
+assigning xref extreme;senseless;reckless;wanton
+xref: 殺ぐ・2
+assigning xref to dampen (e.g. enthusiasm);to discourage;to weaken;to reduce
+xref: うざい・1
+assigning xref annoying;noisy
+xref: うざい・2
+assigning xref strict
+xref: 臭いがする・においがする
+assigning xref to smell;to smell of;to have a smell
+xref: 枡・1
+assigning xref measuring container;measure
+xref: 御洒落・おしゃれ・1
+assigning xref smartly dressed;stylish;fashion-conscious
+xref: つんと・2
+assigning xref pungent (smell);acrid;sharp
+xref: 立入禁止・1
+assigning xref No Entry;No Trespassing;No Admittance;Off Limits;Keep Out;Keep Off
+xref: ヤバい・1
+assigning xref dangerous;risky
+xref: チャリ
+assigning xref bicycle
+xref: カス・5
+assigning xref dregs (e.g. of society);scum;dross
+xref: そなた・4
+assigning xref you;your family;your company
+xref: シャチ・1
+assigning xref orca (Orcinus orca);killer whale;grampus
+xref: 珪酸・けいさん
+assigning xref silicic acid
+xref: じわじわ・1
+assigning xref slowly (but steadily);gradually;bit-by-bit
+xref: じわじわ・1
+assigning xref slowly (but steadily);gradually;bit-by-bit
+xref: メーク・2
+assigning xref make-up
+xref: 替地・1
+assigning xref substitute land;substitute lot
+xref: しょんべん・1
+assigning xref urine;piss;pee
+xref: 掌・てのひら
+assigning xref palm (of one's hand)
+xref: 魂祭り・たままつり
+assigning xref ceremony honouring the spirits of ancestors (esp. the Bon festival)
+xref: 盂蘭盆
+assigning xref Bon festival;Feast of Lanterns
+xref: おどけ者・おどけもの
+assigning xref idiot;dummy;joker;fool;trickster
+xref: ウミシダ・1
+assigning xref feather star (Comatulida spp.);comatulid
+xref: しこめ・1
+assigning xref homely woman;plain-looking woman
+xref: マツムシ・1
+assigning xref pine cricket (Xenogryllus marmoratus)
+xref: 箏・1
+assigning xref koto (13-stringed Japanese zither)
+xref: マジ・1
+assigning xref serious;not joking;straight
+xref: ボーリング・2
+assigning xref boring;drilling
+xref: ボーリング・2
+assigning xref boring;drilling
+xref: ボツにする
+assigning xref to reject (a manuscript);to turn down (a proposal)
+xref: むかっと・2
+assigning xref being angry (suddenly);being offended;being disgusted
+xref: 龍穴・2
+assigning xref auspicious place for a temple, town, etc. to be built (feng shui)
+xref: バテレン・1
+assigning xref Portuguese Jesuits (in Japan in the 16th century)
+xref: マジ・1
+assigning xref serious;not joking;straight
+xref: カス・4
+assigning xref worthless item;thing of little to no value
+xref: ゴミ
+assigning xref rubbish;trash;garbage;refuse
+xref: カス・5
+assigning xref dregs (e.g. of society);scum;dross
+2018-09-03 12:36:50 -0700: Done

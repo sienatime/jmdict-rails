@@ -1,0 +1,193 @@
+2018-08-27 21:58:10 -0700: File: /Users/siena/workspace/nanodegree/capstone/jmdict_to_sqlite/jmdict/app/models/jlpt_adder.rb
+assigning: 当て あて to 宛 あて
+assigning: 有らゆる あらゆる to 凡ゆる あらゆる
+assigning: 現れ あらわれ to 現われ あらわれ
+assigning: 現れる あらわれる to 現われる あらわれる
+assigning: 有り難う ありがとう to 有難う ありがとう
+assigning: 或 ある to 或る ある
+NOT FOUND 依 い
+NOT FOUND 伊井 いい
+assigning: 生ける いける to 活ける いける
+assigning: 頂きます いただきます to 戴きます いただきます
+assigning: 位置 いち to 位地 いち
+assigning: いつの間にか いつのまにか to 何時の間にか いつのまにか
+assigning: 嫌々 いやいや to 厭々 いやいや
+NOT FOUND 厭やらしい いやらしい
+assigning: 愈 いよいよ to 愈々 いよいよ
+assigning: 受取り うけとり to 受け取り うけとり
+assigning: 虚ろ うつろ to 空ろ うつろ
+assigning: 生む うむ to 産む うむ
+assigning: 梅干し うめぼし to 梅干 うめぼし
+assigning: 煩い うるさい to 五月蝿い うるさい
+assigning: 於て おいて to 於 お
+assigning: 於て おいて to 於いて おいて
+assigning: 大雑把 おおざっぱ to 大ざっぱ おおざっぱ
+assigning: お陰様で おかげさまで to お蔭様で おかげさまで
+assigning: 奢る おごる to 傲る おごる
+assigning: 収まる おさまる to 納まる おさまる
+assigning: 仰る おっしゃる to 仰っしゃる おっしゃる
+assigning: お手洗い おてあらい to 御手洗い おてあらい
+assigning:  オドオド to  おどおど
+assigning: お負け おまけ to 御負け おまけ
+assigning: 思いつき おもいつき to 思い付き おもいつき
+assigning: お八つ おやつ to お八 おやつ
+assigning: 織り おり to 織 おり
+assigning: 顔つき かおつき to 顔付き かおつき
+assigning: 係 かかり to 係り かかり
+assigning: 齧る かじる to 噛る かじる
+assigning: 可也 かなり to 可成 かなり
+assigning: 予て かねて to 兼ねて かねて
+assigning: 体つき からだつき to 体付き からだつき
+assigning: 歌留多 かるた to 加留多 かるた
+assigning: 替わる かわる to 代わる かわる
+assigning: 偽物 にせもの to 贋物 がんぶつ
+assigning: 傷つく きずつく to 傷付く きずつく
+assigning: 軌範 きはん to 規範 きはん
+assigning: きまり悪い きまりわるい to 決まり悪い きまりわるい
+assigning: 綺麗 きれい to 奇麗 きれい
+NOT FOUND 僅 きん
+assigning: くじ引き くじびき to 籤引 くじびき
+assigning: 擽ったい くすぐったい to 擽ぐったい くすぐったい
+assigning:  くらい to  ぐらい
+assigning: 斜め ななめ to 傾 けい
+NOT FOUND 傑 けつ
+assigning:  けど to  けれど
+NOT FOUND 巨 こ
+NOT FOUND 煌々と こうこうと
+assigning: こげ茶 こげちゃ to 焦げ茶 こげちゃ
+assigning: 個々 ここ to 箇箇 ここ
+assigning: 心がけ こころがけ to 心掛け こころがけ
+assigning: 心がける こころがける to 心掛ける こころがける
+assigning: 炬燵 こたつ to 火燵 こたつ
+assigning: 込む こむ to 混む こむ
+assigning: 籠もる こもる to 篭る こもる
+assigning: これ等 これら to 此れ等 これら
+assigning: 堀 ほり to 濠 ごう
+assigning: 壕 ごう to 濠 ごう
+assigning: 豪 ごう to 濠 ごう
+assigning: 御座います ございます to ご座います ございます
+assigning: ご馳走様 ごちそうさま to ご馳走さま ごちそうさま
+assigning: ご免ください ごめんください to 御免ください ごめんください
+NOT FOUND 佐 さ
+assigning: 遡る さかのぼる to 逆上る さかのぼる
+assigning: 錆 さび to 錆び さび
+assigning: 然程 さほど to 左程 さほど
+NOT FOUND 拐う さらう
+NOT FOUND  しいんと
+assigning: 然も しかも to 而も しかも
+assigning: 仕来り しきたり to 為来り しきたり
+assigning: 滴 しずく to 雫 しずく
+assigning: し尿 しにょう to 屎尿 しにょう
+assigning: 屡々 しばしば to 屡 しばしば
+assigning: 仕舞い しまい to 仕舞 しまい
+assigning: 仕舞い じまい to 仕舞 しまい
+assigning: 沁み沁み しみじみ to 泌み泌み しみじみ
+assigning: すれ違い すれちがい to 擦れ違い すれちがい
+assigning: 倅 せがれ to 伜 せがれ
+assigning: 先々月 せんせんげつ to 先先月 せんせんげつ
+assigning: その他 そのほか to その外 そのほか
+assigning: それ程 それほど to 其れ程 それほど
+assigning: それ故 それゆえ to 其れ故 それゆえ
+assigning: 焚き火 たきび to 焚火 たきび
+assigning: 尊い とうとい to 貴い たっとい
+assigning: 貴ぶ とうとぶ to 尊ぶ たっとぶ
+assigning: 断つ たつ to 絶つ たつ
+assigning: 建て前 たてまえ to 建前 たてまえ
+assigning: たどり着く たどりつく to 辿り着く たどりつく
+assigning: 手のひら てのひら to 掌 たなごころ
+assigning: 嘆 たん to 歎 たん
+assigning: タンパク質 タンパクしつ to 蛋白質 たんぱくしつ
+assigning: 近づく ちかづく to 近付く ちかづく
+assigning: 丁度 ちょうど to 恰度 ちょうど
+assigning: ちり取り ちりとり to 塵取り ちりとり
+assigning: 沈澱 ちんでん to 沈殿 ちんでん
+assigning: 使い つかい to 遣い つかい
+assigning: つかの間 つかのま to 束の間 つかのま
+assigning: 作る つくる to 造る つくる
+assigning: 壺 つぼ to 壷 つぼ
+assigning: 壺 こ to 壷 つぼ
+assigning: つり革 つりかわ to 吊り革 つりかわ
+assigning: 手当 てあて to 手当て てあて
+assigning: 手がかり てがかり to 手掛かり てがかり
+assigning: 手がける てがける to 手掛ける てがける
+assigning: 手はず てはず to 手筈 てはず
+assigning: 転々 てんてん to 転転 てんてん
+assigning: 出会う であう to 出合う であう
+assigning: 途切れる とぎれる to 跡切れる とぎれる
+assigning: 戸締まり とじまり to 戸締り とじまり
+assigning: 届 とどけ to 届け とどけ
+assigning: 捉える とらえる to 捕らえる とらえる
+assigning: 取引 とりひき to 取り引き とりひき
+NOT FOUND 働 どう
+assigning: ど忘れ どわすれ to 度忘れ どわすれ
+assigning: 中ほど なかほど to 中程 なかほど
+assigning: 生ぬるい なまぬるい to 生温い なまぬるい
+assigning: 並 なみ to 並み なみ
+assigning: 舐める なめる to 嘗める なめる
+assigning: 慣らす ならす to 馴らす ならす
+assigning: にも関わらず にもかかわらず to にも拘らず にもかかわらず
+assigning: 俄 にわか to 俄か にわか
+assigning: 螺子 ねじ to 捻子 ねじ
+assigning: ネジ回し ネジまわし to ねじ回し ねじまわし
+assigning: 捩れる ねじれる to 捻じれる ねじれる
+assigning: 儚い はかない to 果ない はかない
+assigning: 初めまして はじめまして to 始めまして はじめまして
+assigning: 嵌まる はまる to 填まる はまる
+assigning: 歯磨き はみがき to 歯磨 はみがき
+assigning: 埋める うずめる to 填める はめる
+assigning: 嵌める はめる to 填める はめる
+assigning: ばい菌 ばいきん to 黴菌 ばいきん
+NOT FOUND 伐 ばつ
+assigning: ばら撒く ばらまく to 散蒔く ばらまく
+assigning: 控え室 ひかえしつ to 控室 ひかえしつ
+assigning: 日ごろ ひごろ to 日頃 ひごろ
+assigning: 久しぶり ひさしぶり to 久し振り ひさしぶり
+assigning: 独りでに ひとりでに to 一人でに ひとりでに
+assigning: 百科事典 ひゃっかじてん to 百科辞典 ひゃっかじてん
+assigning:  ビリ to  びり
+NOT FOUND 不山戯る ふざける
+assigning:  ペコペコ to  ぺこぺこ
+NOT FOUND 倣 ほう
+assigning: 保証 ほしょう to 保障 ほしょう
+assigning: 膨張 ぼうちょう to 膨脹 ぼうちょう
+NOT FOUND 藍褸 ぼろ
+assigning: 誠に まことに to 真に まことに
+assigning: 跨る またがる to 跨がる またがる
+assigning: 瞼 まぶた to 目蓋 まぶた
+assigning: 見かける みかける to 見掛ける みかける
+assigning: 見窄らしい みすぼらしい to 見すぼらしい みすぼらしい
+assigning: 見世物 みせもの to 見せ物 みせもの
+assigning: 見積もり みつもり to 見積り みつもり
+assigning: 見舞い みまい to 見舞 みまい
+assigning: 結びつき むすびつき to 結び付き むすびつき
+assigning: 結びつく むすびつく to 結び付く むすびつく
+assigning: 虚しい むなしい to 空しい むなしい
+assigning: 目覚ましい めざましい to 目覚しい めざましい
+assigning: 目茶苦茶 めちゃくちゃ to 滅茶苦茶 めちゃくちゃ
+assigning: 目つき めつき to 目付き めつき
+assigning: 目出度い めでたい to 愛でたい めでたい
+assigning: 目盛り めもり to 目盛 めもり
+assigning: 申し出 もうしで to 申出 もうしで
+assigning: 齎す もたらす to 齎らす もたらす
+assigning: 勿体ない もったいない to 物体ない もったいない
+assigning: 物置 ものおき to 物置き ものおき
+assigning: 股 もも to 腿 もも
+NOT FOUND 矢鱈に やたらに
+assigning: 遣っ付ける やっつける to やっ付ける やっつける
+assigning: やむを得ない やむをえない to 止むを得ない やむをえない
+assigning: 良い よい to 好い よい
+assigning: 寄越す よこす to 寄こす よこす
+assigning: 良し悪し よしあし to 善し悪し よしあし
+assigning: よそ見 よそみ to 余所見 よそみ
+assigning: 因って よって to 依って よって
+assigning: 寄りかかる よりかかる to 寄り掛かる よりかかる
+assigning: 乱用 らんよう to 濫用 らんよう
+assigning: 我が儘 わがまま to 我がまま わがまま
+assigning: 割引 わりびき to 割引き わりびき
+assigning:  ウェイトレス to  ウェートレス
+assigning: ＯＫ オッケー to  オーケー
+assigning:  チャネル to  チャンネル
+assigning:  トランジスタ to  トランジスター
+assigning:  ウイルス to  ビールス
+unknown tokens of size 0: []
+2018-08-27 22:00:20 -0700: Done

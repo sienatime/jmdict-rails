@@ -1,0 +1,329 @@
+2018-08-27 21:35:41 -0700: File: /Users/siena/workspace/nanodegree/capstone/jmdict_to_sqlite/jmdict/app/models/jlpt_adder.rb
+NOT FOUND  アイデア/アイディア
+NUM ENTRIES 1
+assigning: 会う あう to 遭う あう
+NUM ENTRIES 1
+assigning: 空き あき to 明き あき
+NUM ENTRIES 1
+assigning: 上げる あげる to 揚げる あげる
+NUM ENTRIES 1
+assigning: 上げる あげる to 挙げる あげる
+NOT FOUND あげる (=やる)
+NUM ENTRIES 1
+assigning: 温まる あたたまる to 暖まる あたたまる
+NUM ENTRIES 1
+assigning: 温める あたためる to 暖める あたためる
+NOT FOUND あひら あひら
+NUM ENTRIES 1
+assigning: 彼方此方 あちこち to  あちらこちら
+NUM ENTRIES 1
+assigning: 編み物 あみもの to 編物 あみもの
+NUM ENTRIES 1
+assigning: 有る ある to 在る ある
+NUM ENTRIES 1
+assigning: 言いつける いいつける to 言い付ける いいつける
+NOT FOUND 一段と いちだんと
+NOT FOUND  いっていらっしゃい
+NUM ENTRIES 1
+assigning: 煎る いる to 炒る いる
+NUM ENTRIES 1
+assigning:  インク to  インキ
+NUM ENTRIES 1
+assigning:  ウェイトレス to  ウエートレス
+NUM ENTRIES 1
+assigning: 浮かぶ うかぶ to 浮ぶ うかぶ
+NUM ENTRIES 1
+assigning: 受取り うけとり to 受取 うけとり
+NUM ENTRIES 1
+assigning: 打ち合わせ うちあわせ to 打合せ うちあわせ
+NUM ENTRIES 1
+assigning: 撃つ うつ to 討つ うつ
+NUM ENTRIES 1
+assigning: 売り上げ うりあげ to 売上 うりあげ
+NUM ENTRIES 1
+assigning: 売れ行き うれゆき to 売行き うれゆき
+NUM ENTRIES 1
+assigning:  えっと to  ええと
+NUM ENTRIES 1
+assigning: 追いかける おいかける to 追い掛ける おいかける
+NUM ENTRIES 1
+assigning:  オーバコート to  オーバーコート
+NOT FOUND  おげんきで
+NUM ENTRIES 1
+assigning: 押さえる おさえる to 押える おさえる
+NUM ENTRIES 1
+assigning: 収める おさめる to 納める おさめる
+NUM ENTRIES 1
+assigning: お辞儀 おじぎ to 御辞儀 おじぎ
+NUM ENTRIES 1
+assigning: 伯父さん おじさん to 小父さん おじさん
+NUM ENTRIES 1
+assigning: 伯父さん おじさん to 叔父さん おじさん
+NUM ENTRIES 1
+assigning: 落ち着く おちつく to 落着く おちつく
+NUM ENTRIES 1
+assigning: 落とし物 おとしもの to 落し物 おとしもの
+NUM ENTRIES 1
+assigning: 一昨年 いっさくねん to  おととし
+NUM ENTRIES 1
+assigning: 伯母さん おばさん to 叔母さん おばさん
+NOT FOUND  おまちください
+NUM ENTRIES 1
+assigning: 思いがけない おもいがけない to 思い掛けない おもいがけない
+NUM ENTRIES 1
+assigning: 思いっきり おもいっきり to 思いっ切り おもいっきり
+NUM ENTRIES 1
+assigning: 思いつく おもいつく to 思い付く おもいつく
+NUM ENTRIES 1
+assigning: 換える かえる to 代える かえる
+NUM ENTRIES 1
+assigning: 関わる かかわる to 係わる かかわる
+NUM ENTRIES 1
+assigning: 書き取り かきとり to 書取 かきとり
+NUM ENTRIES 1
+assigning: 箇所 かしょ to 個所 かしょ
+NUM ENTRIES 1
+assigning: 硬い かたい to 固い かたい
+NUM ENTRIES 1
+assigning: 硬い かたい to 堅い かたい
+NUM ENTRIES 1
+assigning: 偏る かたよる to 片寄る かたよる
+NUM ENTRIES 1
+assigning: 替わる かわる to 代る かわる
+NUM ENTRIES 1
+assigning: 機械 きかい to 器械 きかい
+NUM ENTRIES 1
+assigning: 基準 きじゅん to 規準 きじゅん
+NUM ENTRIES 1
+assigning: 気をつける きをつける to 気を付ける きをつける
+NUM ENTRIES 1
+assigning: 組み合わせ くみあわせ to 組合せ くみあわせ
+NOT FOUND  けれど/けれども
+NOT FOUND こうして こうして
+NUM ENTRIES 1
+assigning: 交代 こうたい to 交替 こうたい
+NUM ENTRIES 1
+assigning: 越える こえる to 超える こえる
+NUM ENTRIES 1
+assigning: 越す こす to 超す こす
+NOT FOUND  ごぞんじですか
+NUM ENTRIES 1
+assigning: ご馳走 ごちそう to 御馳走 ごちそう
+NUM ENTRIES 1
+assigning: ご無沙汰 ごぶさた to 御無沙汰 ごぶさた
+NUM ENTRIES 1
+assigning: ご覧 ごらん to 御覧 ごらん
+NUM ENTRIES 1
+assigning: 混凝土 こんくりいと to  コンクリート
+NUM ENTRIES 1
+assigning: 逆さま さかさま to 逆様 さかさま
+NUM ENTRIES 1
+assigning: 探す さがす to 捜す さがす
+NUM ENTRIES 1
+assigning: 一昨昨日 いっさくさくじつ to  さきおととい
+NUM ENTRIES 1
+assigning: 先ほど さきほど to 先程 さきほど
+NOT FOUND  さっさと
+NOT FOUND しいんと （する）
+NUM ENTRIES 1
+assigning: 締め切り しめきり to 締切 しめきり
+NUM ENTRIES 1
+assigning: 住まい すまい to 住居 じゅうきょ
+NOT FOUND じゅうたん （カーペット）
+NUM ENTRIES 1
+assigning: 知り合い しりあい to 知合い しりあい
+NUM ENTRIES 1
+assigning:  ずっと to  ずうっと
+NUM ENTRIES 1
+assigning: 捨てる すてる to 棄てる すてる
+NUM ENTRIES 1
+assigning: 澄む すむ to 清む すむ
+NOT FOUND 滑れる ずれる
+NUM ENTRIES 1
+assigning: 先先週 せんせんしゅう to 先々週 せんせんしゅう
+NUM ENTRIES 1
+assigning:  そっと to  そうっと
+NUM ENTRIES 1
+assigning: 率直 そっちょく to 卒直 そっちょく
+NUM ENTRIES 1
+assigning: 備える そなえる to 具える そなえる
+NUM ENTRIES 1
+assigning: 田んぼ たんぼ to 田ぼ たんぼ
+NOT FOUND だいいち （副）
+NUM ENTRIES 1
+assigning:  ダイアグラム to  ダイヤグラム
+NOT FOUND Ͼ立 たいりつ
+NUM ENTRIES 1
+assigning: 立つ たつ to 発つ たつ
+NUM ENTRIES 1
+assigning: ため息 ためいき to 溜息 ためいき
+NUM ENTRIES 1
+assigning: 近づける ちかづける to 近付ける ちかづける
+NUM ENTRIES 1
+assigning: ちり紙 ちりがみ to 塵紙 ちりがみ
+NUM ENTRIES 1
+assigning: 付き合う つきあう to 付合う つきあう
+NOT FOUND 作る/造る つくる
+NUM ENTRIES 1
+assigning: 付ける つける to 着ける つける
+NUM ENTRIES 1
+assigning: 漬ける つける to 浸ける つける
+NUM ENTRIES 1
+assigning: 勤める つとめる to 務める つとめる
+NUM ENTRIES 1
+assigning: 吊るす つるす to 吊す つるす
+NUM ENTRIES 1
+assigning: 出会い であい to 出合い であい
+NUM ENTRIES 1
+assigning: 出入り口 でいりぐち to 出入口 でいりぐち
+NUM ENTRIES 1
+assigning: 出かける でかける to 出掛ける でかける
+NUM ENTRIES 1
+assigning: 的確 てきかく to 適確 てきかく
+NUM ENTRIES 1
+assigning: 手ごろ てごろ to 手頃 てごろ
+NUM ENTRIES 1
+assigning: 手ぬぐい てぬぐい to 手拭い てぬぐい
+NUM ENTRIES 1
+assigning: 通りかかる とおりかかる to 通り掛かる とおりかかる
+NUM ENTRIES 1
+assigning:  ドキドキ to  どきどき
+NUM ENTRIES 2
+assigning: 止まる とまる to 留まる とどまる
+assigning: 止まる とどまる to 留まる とどまる
+NUM ENTRIES 1
+assigning: 飛ぶ とぶ to 跳ぶ とぶ
+NUM ENTRIES 2
+assigning: 止まる とまる to 留まる とまる
+assigning: 止まる とどまる to 留まる とまる
+NUM ENTRIES 1
+assigning: 捉える とらえる to 捕える とらえる
+NUM ENTRIES 1
+assigning: 長い ながい to 永い ながい
+NUM ENTRIES 1
+assigning: 中身 なかみ to 中味 なかみ
+NUM ENTRIES 1
+assigning: 謎々 なぞなぞ to 謎謎 なぞなぞ
+NUM ENTRIES 1
+assigning: 慣れる なれる to 馴れる なれる
+NUM ENTRIES 1
+assigning:  ニコニコ to  にこにこ
+NUM ENTRIES 1
+assigning: 寝巻き ねまき to 寝間着 ねまき
+NUM ENTRIES 1
+assigning: 寝巻き ねまき to 寝巻 ねまき
+NUM ENTRIES 1
+assigning: 乗せる のせる to 載せる のせる
+NUM ENTRIES 1
+assigning: 伸ばす のばす to 延ばす のばす
+NUM ENTRIES 1
+assigning: 伸びる のびる to 延びる のびる
+NUM ENTRIES 1
+assigning: 乗り換え のりかえ to 乗換 のりかえ
+NUM ENTRIES 1
+assigning: 剥がす はがす to 剥す はがす
+NUM ENTRIES 1
+assigning: 計る はかる to 量る はかる
+NUM ENTRIES 1
+assigning: 計る はかる to 測る はかる
+NUM ENTRIES 1
+assigning: 初めに はじめに to 始めに はじめに
+NUM ENTRIES 1
+assigning: 果たして はたして to 果して はたして
+NOT FOUND × ばつ
+NUM ENTRIES 1
+assigning: 話し合い はなしあい to 話合い はなしあい
+NUM ENTRIES 1
+assigning: 話しかける はなしかける to 話し掛ける はなしかける
+NUM ENTRIES 1
+assigning: 話し中 はなしちゅう to 話中 はなしちゅう
+NUM ENTRIES 1
+assigning: 羽 はね to 羽根 はね
+NUM ENTRIES 1
+assigning:  ピカピカ to  ぴかぴか
+NUM ENTRIES 1
+assigning: 引き受ける ひきうける to 引受る ひきうける
+NUM ENTRIES 1
+assigning: 引き返す ひきかえす to 引返す ひきかえす
+NUM ENTRIES 1
+assigning: 引き算 ひきざん to 引算 ひきざん
+NUM ENTRIES 1
+assigning: 引き出す ひきだす to 引出す ひきだす
+NUM ENTRIES 1
+assigning: 引き分け ひきわけ to 引分け ひきわけ
+NUM ENTRIES 1
+assigning: 日差し ひざし to 陽射 ひざし
+NUM ENTRIES 1
+assigning:  ぴったり to  ぴたり
+NUM ENTRIES 1
+assigning: 引っかかる ひっかかる to 引っ掛かる ひっかかる
+NUM ENTRIES 1
+assigning: ひっくり返す ひっくりかえす to 引っ繰り返す ひっくりかえす
+NUM ENTRIES 1
+assigning: ひっくり返る ひっくりかえる to 引っ繰り返る ひっくりかえる
+NUM ENTRIES 1
+assigning: 引っ越し ひっこし to 引越し ひっこし
+NUM ENTRIES 1
+assigning: 人差し指 ひとさしゆび to 人差指 ひとさしゆび
+NUM ENTRIES 1
+assigning: 瓶詰め びんづめ to 瓶詰 びんづめ
+NUM ENTRIES 1
+assigning: 増える ふえる to 殖える ふえる
+NUM ENTRIES 1
+assigning: 付属 ふぞく to 附属 ふぞく
+NUM ENTRIES 1
+assigning: 増やす ふやす to 殖やす ふやす
+NUM ENTRIES 1
+assigning: 振る舞う ふるまう to 振舞う ふるまう
+NUM ENTRIES 1
+assigning:  フワフワ to  ふわふわ
+NOT FOUND  ぺん
+NUM ENTRIES 1
+assigning: 包丁 ほうちょう to 庖丁 ほうちょう
+NUM ENTRIES 1
+assigning: 坊ちゃん ぼっちゃん to 坊っちゃん ぼっちゃん
+NUM ENTRIES 1
+assigning: 混ざる まざる to 交ざる まざる
+NUM ENTRIES 1
+assigning: 混じる まじる to 交じる まじる
+NUM ENTRIES 1
+assigning: 混ぜる まぜる to 交ぜる まぜる
+NUM ENTRIES 1
+assigning: 間もなく まもなく to 間も無く まもなく
+NUM ENTRIES 1
+assigning: 丸い まるい to 円い まるい
+NUM ENTRIES 1
+assigning: 見かけ みかけ to 見掛け みかけ
+NUM ENTRIES 1
+assigning: 見つかる みつかる to 見付かる みつかる
+NUM ENTRIES 1
+assigning: 見つける みつける to 見付ける みつける
+NOT FOUND ミリ （メートル）
+NUM ENTRIES 1
+assigning: 向かう むかう to 向う むかう
+NUM ENTRIES 1
+assigning: 目覚まし めざまし to 目覚し めざまし
+NUM ENTRIES 1
+assigning: 面倒くさい めんどくさい to 面倒臭い めんどうくさい
+NUM ENTRIES 1
+assigning: 物指 ものさし to 物差し ものさし
+NOT FOUND  やたらに
+NUM ENTRIES 1
+assigning: 柔らかい やわらかい to 軟らかい やわらかい
+NUM ENTRIES 1
+assigning: 湯のみ ゆのみ to 湯飲み ゆのみ
+NUM ENTRIES 1
+assigning: 呼びかける よびかける to 呼び掛ける よびかける
+NUM ENTRIES 1
+assigning: 喜び よろこび to 慶び よろこび
+NUM ENTRIES 1
+assigning: 喜ぶ よろこぶ to 慶ぶ よろこぶ
+NUM ENTRIES 1
+assigning:  レクリエーション to  レクリェーション
+NUM ENTRIES 1
+assigning:  レポート to  リポート
+NUM ENTRIES 1
+assigning: 分かる わかる to 分る わかる
+NUM ENTRIES 1
+assigning: 割り算 わりざん to 割算 わりざん
+2018-08-27 21:35:50 -0700: Done

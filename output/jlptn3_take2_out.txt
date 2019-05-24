@@ -1,0 +1,44 @@
+2018-08-27 21:44:48 -0700: File: /Users/siena/workspace/nanodegree/capstone/jmdict_to_sqlite/jmdict/app/models/jlpt_adder.rb
+assigning: 開ける あける to 明ける あける
+assigning: 表す あらわす to 現す あらわす
+assigning: 余り あまり to  あんまり
+NOT FOUND うん （感）
+assigning: 追いつく おいつく to 追い付く おいつく
+assigning: お目にかかる おめにかかる to お目に掛かる おめにかかる
+assigning: 下ろす おろす to 降ろす おろす
+assigning: 換える かえる to 替える かえる
+assigning: 気づく きづく to 気付く きづく
+assigning: 曇り くもり to 曇 くもり
+assigning:  ケチ to  けち
+assigning:  コンピュータ to  コンピューター
+assigning: 支払い しはらい to 支払 しはらい
+NOT FOUND しまい （終わり）
+NOT FOUND しまう （終わる）
+NOT FOUND しまった （感）
+NOT FOUND 徐々に じょじょに
+NOT FOUND すみません （感）
+assigning:  ソファ to  ソファー
+NOT FOUND それ （接。感）
+assigning: 只 ただ to 唯 ただ
+assigning: 只 ただ to 唯 たった
+assigning: 勤め つとめ to 務め つとめ
+assigning: 釣り つり to 釣 つり
+NOT FOUND できる （可能。出現。発生）
+NOT FOUND どう （接。副）
+assigning: 年寄り としより to 年寄 としより
+NOT FOUND とん （1000
+NOT FOUND ね （感）
+NOT FOUND ノー （no）
+assigning: 上る のぼる to 昇る のぼる
+NOT FOUND はあ （感）
+NOT FOUND はい （感）
+assigning: 人ごみ ひとごみ to 人込み ひとごみ
+assigning: 一人 ひとり to 独り ひとり
+NOT FOUND ふと （副）
+assigning: 堀 ほり to 濠 ほり
+assigning: 壕 ごう to 濠 ほり
+assigning: 豪 ごう to 濠 ほり
+assigning: 向い むかい to 向かい むかい
+NOT FOUND よろしく （感）
+unknown tokens of size 0: []
+2018-08-27 21:45:48 -0700: Done

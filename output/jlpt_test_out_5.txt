@@ -1,0 +1,171 @@
+2018-09-10 21:26:05 -0700: File: /Users/siena/workspace/nanodegree/capstone/jmdict_to_sqlite/jmdict/app/models/jlpt_adder.rb
+lots of entries
+assigning: 怡怡 いい to  いい ALT? false
+assigning: 謂 いい to  いい ALT? false
+assigning: 飯 いい to  いい ALT? false
+assigning: 易々 いい to  いい ALT? false
+assigning: 唯々 いい to  いい ALT? false
+assigning:  いい to  いい ALT? false
+lots of entries
+assigning: 宵 よい to  よい ALT? false
+assigning: 余意 よい to  よい ALT? false
+assigning: 良い よい to  よい ALT? false
+assigning: 酔い よい to  よい ALT? false
+NOT FOUND 伯父 おじいさん
+NOT FOUND 伯父 おじさん
+NOT FOUND 一昨年 おととし
+lots of entries
+assigning: 架かる かかる to  かかる ALT? false
+assigning: 掛かる かかる to  かかる ALT? false
+assigning: 係る かかる to  かかる ALT? false
+assigning: 罹る かかる to  かかる ALT? false
+assigning: 斯かる かかる to  かかる ALT? false
+lots of entries
+assigning: 鍵 かぎ to  かぎ ALT? false
+assigning: 鉤 かぎ to  かぎ ALT? false
+assigning: 歌妓 かぎ to  かぎ ALT? false
+lots of entries
+assigning: 掛ける かける to  かける ALT? false
+assigning: 駆ける かける to  かける ALT? false
+assigning: 欠ける かける to  かける ALT? false
+assigning: 賭ける かける to  かける ALT? false
+assigning: 翔る かける to  かける ALT? false
+assigning: 架ける かける to  かける ALT? false
+NOT FOUND 九 く
+lots of entries
+assigning: 此処 ここ to  ここ ALT? false
+assigning: 個々 ここ to  ここ ALT? false
+assigning: 戸戸 ここ to  ここ ALT? false
+assigning: 呱呱 ここ to  ここ ALT? false
+NOT FOUND  コピーする
+NOT FOUND 散歩 さんぽする
+NOT FOUND 四 よん
+NOT FOUND 七 なな
+NOT FOUND 十 とお
+lots of entries
+assigning: 為る する to  する ALT? false
+assigning: 刷る する to  する ALT? false
+assigning: 掏る する to  する ALT? false
+assigning: 擦る する to  する ALT? false
+lots of entries
+assigning: 石鹸 せっけん to  せっけん ALT? false
+assigning: 接見 せっけん to  せっけん ALT? false
+assigning: 節倹 せっけん to  せっけん ALT? false
+assigning: 席巻 せっけん to  せっけん ALT? false
+assigning: 尺縑 せっけん to  せっけん ALT? false
+assigning: 石剣 せっけん to  せっけん ALT? false
+NOT FOUND 掃除 そうじする
+lots of entries
+assigning: 殺陣 たて to  たて ALT? false
+assigning: 縦 たて to  たて ALT? false
+assigning: 盾 たて to  たて ALT? false
+assigning: 立て たて to  たて ALT? false
+assigning: 建て たて to  たて ALT? false
+NOT FOUND 誰 だれか
+lots of entries
+assigning: 丁度 ちょうど to  ちょうど ALT? false
+assigning: 調度 ちょうど to  ちょうど ALT? false
+assigning: 稠度 ちょうど to  ちょうど ALT? false
+lots of entries
+assigning: 就ける つける to  つける ALT? false
+assigning: 漬ける つける to  つける ALT? false
+assigning: 付ける つける to  つける ALT? false
+assigning: 点ける つける to  つける ALT? false
+assigning: 尾ける つける to  つける ALT? false
+lots of entries
+assigning: 如何 どう to  どう ALT? false
+assigning: 動 どう to  どう ALT? false
+assigning: 同 どう to  どう ALT? false
+assigning: 堂 どう to  どう ALT? false
+assigning: 胴 どう to  どう ALT? false
+assigning: 銅 どう to  どう ALT? false
+assigning: 道 どう to  どう ALT? false
+assigning:  どう to  どう ALT? false
+NOT FOUND とり肉 とりにく
+lots of entries
+assigning: 成る なる to  なる ALT? false
+assigning: 鳴る なる to  なる ALT? false
+assigning: 生る なる to  なる ALT? false
+assigning:  なる to  なる ALT? false
+NOT FOUND 何 なん
+lots of entries
+assigning:  はい to  はい ALT? false
+assigning: 灰 はい to  はい ALT? false
+assigning: 肺 はい to  はい ALT? false
+assigning: 佩 はい to  はい ALT? false
+assigning: 拝 はい to  はい ALT? false
+assigning: 敗 はい to  はい ALT? false
+assigning: 杯 はい to  はい ALT? false
+assigning: 胚 はい to  はい ALT? false
+assigning: 輩 はい to  はい ALT? false
+assigning: 蔤 はい to  はい ALT? false
+assigning: 牌 はい to  はい ALT? false
+assigning: 排 はい to  はい ALT? false
+lots of entries
+assigning: 掃く はく to  はく ALT? false
+assigning: 伯 はく to  はく ALT? false
+assigning: 博 はく to  はく ALT? false
+assigning: 履く はく to  はく ALT? false
+assigning: 泊 はく to  はく ALT? false
+assigning: 箔 はく to  はく ALT? false
+assigning: 魄 はく to  はく ALT? false
+assigning: 拍 はく to  はく ALT? false
+assigning: 帛 はく to  はく ALT? false
+assigning: 吐く はく to  はく ALT? false
+assigning: 白 はく to  はく ALT? false
+assigning: 刷く はく to  はく ALT? false
+lots of entries
+assigning: 橋 はし to  はし ALT? false
+assigning: 箸 はし to  はし ALT? false
+assigning: 端 はし to  はし ALT? false
+assigning: 梯 はし to  はし ALT? false
+assigning: 愛し はし to  はし ALT? false
+NOT FOUND 勉強 べんきょうする
+lots of entries
+assigning: 本島 ほんとう to  ほんとう ALT? false
+assigning: 本盗 ほんとう to  ほんとう ALT? false
+assigning: 本当 ほんとう to  ほんとう ALT? false
+assigning: 翻倒 ほんとう to  ほんとう ALT? false
+assigning: 奔騰 ほんとう to  ほんとう ALT? false
+assigning: 本統 ほんとう to  ほんとう ALT? false
+NOT FOUND 毎月 まいげつ
+NOT FOUND 毎年 まいねん
+lots of entries
+assigning: 股 また to  また ALT? false
+assigning: 又 また to  また ALT? false
+assigning: 摩多 また to  また ALT? false
+lots of entries
+assigning:  もう to  もう ALT? false
+assigning: 蒙 もう to  もう ALT? false
+assigning: 猛 もう to  もう ALT? false
+assigning: 毛 もう to  もう ALT? false
+assigning: 網 もう to  もう ALT? false
+lots of entries
+assigning: 遣る やる to  やる ALT? false
+assigning: 殺る やる to  やる ALT? false
+assigning: 演る やる to  やる ALT? false
+assigning: 犯る やる to  やる ALT? false
+NOT FOUND 行く ゆく
+NOT FOUND  ゆっくりと
+lots of entries
+assigning: 欲 よく to  よく ALT? false
+assigning: 良く よく to  よく ALT? false
+assigning: 翌 よく to  よく ALT? false
+NOT FOUND 練習 れんしゅうする
+lots of entries
+assigning:  より to  より ALT? false
+assigning: 縒り より to  より ALT? false
+assigning: 寄り より to  より ALT? false
+assigning: 選り より to  より ALT? false
+lots of entries
+assigning: 俸 ほう to  ほう ALT? false
+assigning: 報 ほう to  ほう ALT? false
+assigning: 方 ほう to  ほう ALT? false
+assigning: 法 ほう to  ほう ALT? false
+assigning: 砲 ほう to  ほう ALT? false
+assigning: 鳳 ほう to  ほう ALT? false
+assigning: 袍 ほう to  ほう ALT? false
+assigning: 苞 ほう to  ほう ALT? false
+assigning: 鵬 ほう to  ほう ALT? false
+assigning:  ほう to  ほう ALT? false
+2018-09-10 21:26:25 -0700: Done
