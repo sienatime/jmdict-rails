@@ -1,9 +1,7 @@
 class DictionaryParser
-  # file = "lib/jmdict_sample.xml"
-  # DictionaryParser.new("lib/jmdict_sample.xml")
-
   def initialize(file_name)
     # Create a new parser
+    puts "Deleting all Entries and Senses"
     Entry.delete_all
     Sense.delete_all
     handler = OgaSax.new
